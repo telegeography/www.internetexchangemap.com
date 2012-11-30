@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Internet Exchange Map</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+		<meta charset="UTF-8" />
+		<link rel="stylesheet" href="stylesheets/ix-map.css" >
+		<link rel="stylesheet" href="http://code.jquery.com/ui/1.9.1/themes/base/jquery-ui.css">
+		<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+		<script src="http://google-maps-utility-library-v3.googlecode.com/svn/trunk/infobox/src/infobox.js"></script>
+		<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.9.1/jquery-ui.min.js"></script>
+		<script src="http://telegeography.github.com/GeoJSON-to-Google-Maps/GeoJSON.js"></script>
+		<script src="javascripts/ix-map.min.js"></script>
+	</head>
+	<body>
+		<div id="nav">
+			<div id="logo"><a href="http://www.telegeography.com/"><img src="images/telegeography-logo.png" width="230" height="25" alt="Telegeography"></a></div>
+			<div id="description">
+				<h1>Internet Exchange Map</h1>
+				<div>
+					The Internet Exchange Map is a free resource from <a href="http://www.telegeography.com/">TeleGeography</a>. Data contained in this map was complied by TeleGeography and is updated on a regular basis.
+				</div>
+				<div class="learn-more">
+					To learn more about <a href="http://www.telegeography.com/">TeleGeography</a> or this map, please visit <a href="http://www.telegeography.com">www.telegeography.com</a>.
+				</div>
+			</div>
+			<div id="social">
+				<a href="https://github.com/telegeography/www.internetexchangemap.com" class="github"></a>
+				<a href="http://www.facebook.com/sharer.php?u=http://www.internetexchangemap.com/" class="facebook"></a>
+				<a href="https://twitter.com/share?original_referer=http%3A%2F%2Fwww.internetexchangemap.com%2F&amp;source=tweetbutton&amp;text=Submarine+Cable+Map&amp;url=http%3A%2F%2Fwww.submarinecablemap.com" class="twitter"></a>
+				<a href="mailto:ixmap@telegeography.com">Feedback</a>
+				<span class="copyright">All content &#169; <span class="year">2012</span> PriMetrica, Inc.</span>
+			</div>
+			<div class="search-container"><input id="search" value="Search" /></div>
+			<div id="information"></div>
+		</div>
+		<div id="map"></div>
+		<div style="clear:both;"></div>
+	</body>
+</html>
