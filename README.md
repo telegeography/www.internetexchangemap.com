@@ -23,13 +23,15 @@ To make sure you get any updates, just watch this repository and perform a pull 
 How did you make the Internet Exchange Cable Map?
 -------------------------------
 
-We use [Google's Maps API v3.](http://code.google.com/apis/maps/documentation/javascript/) to transform [GeoJSON](http://www.geojson.org/geojson-spec.html) using Jason Sanford's [GeoJSON-to-Google-Maps](https://github.com/JasonSanford/GeoJSON-to-Google-Maps) library to map markers and textual properties. 
+We use [Google's Maps API v3.](http://code.google.com/apis/maps/documentation/javascript/) to create the map and Jason Sanford's [GeoJSON-to-Google-Maps](https://github.com/JasonSanford/GeoJSON-to-Google-Maps) library to transform [GeoJSON](http://www.geojson.org/geojson-spec.html) into map markers and textual properties.
 
 This interactive map Javascript was created using the [Node.js](http://nodejs.org/) utility [CoffeeScript](http://coffeescript.org/) written by Jeremy Ashkenas and minified using Mihai Bazon's [UglifyJS2](https://github.com/mishoo/UglifyJS2).  The CoffeScript for the map was written in-house at TeleGeography.
 
 
 How can I download the dataset?
 --------------------------------------------------
+
+All the data is stored in GeoJSON here: [public/javascripts/buildings.geojson](https://raw.github.com/telegeography/www.internetexchangemap.com/master/public/javascripts/buildings.geojson)
 
 
 
