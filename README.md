@@ -1,6 +1,8 @@
 [www.internetexchangemap.com](http://www.internetexchangemap.com)
 ===========================
 
+[![Internet Exchange Map](http://25.media.tumblr.com/tumblr_mebndiuZYI1qcsswzo1_500.png)](http://www.internetexchangemap.com)
+
 The [Internet Exchange Map](http://www.internetexchangemap.com) is a free resource from [TeleGeography](http://www.telegeography.com). Data contained in this map was complied by TeleGeography and is updated on a regular basis.
 
 
