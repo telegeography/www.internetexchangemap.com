@@ -20,7 +20,7 @@ To make sure you get any updates, just watch this repository and perform a pull 
     $ cd www.internetexchangemap.com
     $ git pull
 
-How did you make the Internet Exchange Cable Map?
+How did you make the Internet Exchange Map?
 -------------------------------
 
 We use [Google's Maps API v3.](http://code.google.com/apis/maps/documentation/javascript/) to create the map and Jason Sanford's [GeoJSON-to-Google-Maps](https://github.com/JasonSanford/GeoJSON-to-Google-Maps) library to transform [GeoJSON](http://www.geojson.org/geojson-spec.html) into map markers and textual properties.
