@@ -3,7 +3,7 @@ html, body { margin:0; padding:0; font-family:Helvetica,Arial,sans-serif;font-si
 #search {width:275px;padding:3px 5px 3px 22px;border:2px solid #ccc;background:url(../images/search-icon.png) 5px 4px no-repeat;color:#666;outline:none;margin-left:12px;font-family:Helvetica,Arial;font-size:12px;}
 #search.focus {border:2px solid #0071bc;background:url(../images/search-icon.png) 5px -18px no-repeat;color:#333;}
 .search-container{border-top:1px solid #ccc;padding:6px 0;}
-#map {padding:0;height:100%;margin:0 0 0 350px;}
+#map {padding:0;height:100%;margin:0;}
 #nav {width:350px;height:100%;float:left;overflow:scroll;outline:none;overflow-x:hidden;} #logo {margin:12px 0 0 12px;}
 #description div, .learn-more {padding:4px 12px;} .learn-more{padding-top:0;}
 .building, .exchange {padding:8px 4px 12px 28px;clear:both;position:relative;}

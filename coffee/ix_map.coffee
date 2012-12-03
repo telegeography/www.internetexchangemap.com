@@ -115,7 +115,6 @@ class IxMap.Information
       )
     )
 
-
 class IxMap.Map
 
   @buildingsGeojson: 'javascripts/buildings.geojson'
