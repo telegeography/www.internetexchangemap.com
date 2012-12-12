@@ -64,13 +64,7 @@ class IxMap.Information
       jQuery("<h2/>").attr("class","search-result-name").html(map.currentSearchValue)
     ).append(
       jQuery("<div/>").attr("class","exchange").attr("id","exchange-0}").append(jQuery("<div/>").addClass("exchange-icon")).append(
-        infoDiv = jQuery("<div/>").addClass("exchange-information")
-        infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html(exchangeInfo['contact_one'])) if exchangeInfo['contact_one']?
-        infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").append(jQuery("<a/>").attr("href","mailto:#{exchangeInfo['email']}").html(exchangeInfo['email']))) if exchangeInfo['email']?
-        infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html(exchangeInfo['telephone'])) if exchangeInfo['telephone']?
-        infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html(jQuery("<a/>").attr("href",exchangeInfo['url']).attr("onclick","window.open(this.href,'ix-new-window');return false;").html("Website"))) if exchangeInfo['url']?
-        infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html("Member: #{exchangeInfo['euro_affiliation']}")) if exchangeInfo['euro_affiliation']?
-        infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html("Online since: #{exchangeInfo['date_online']}")) if exchangeInfo['date_online']?
+        IxMap.Information.exchangeContactInfo(exchangeInfo,"exchange-information")
       )
     )
 
@@ -123,15 +117,18 @@ class IxMap.Information
           ).html("#{exchangeInfo['exchange']['address'][0]}".replace /\(.+?\)/,"")
         )
       ).append(
-        infoDiv = jQuery("<div/>").addClass("exchange-info")
-        infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html(exchangeInfo['exchange']['contact_one'])) if exchangeInfo['exchange']['contact_one']?
-        infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").append(jQuery("<a/>").attr("href","mailto:#{exchangeInfo['exchange']['email']}").html(exchangeInfo['exchange']['email']))) if exchangeInfo['exchange']['email']?
-        infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html(exchangeInfo['exchange']['telephone'])) if exchangeInfo['exchange']['telephone']?
-        infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html(jQuery("<a/>").attr("href",exchangeInfo['exchange']['url']).attr("onclick","window.open(this.href,'ix-new-window');return false;").html("Website"))) if exchangeInfo['exchange']['url']?
-        infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html("Member: #{exchangeInfo['exchange']['euro_affiliation']}")) if exchangeInfo['exchange']['euro_affiliation']?
-        infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html("Online since: #{exchangeInfo['exchange']['date_online']}")) if exchangeInfo['exchange']['date_online']?
+        IxMap.Information.exchangeContactInfo(exchangeInfo['exchange'])
       )
     )
+
+  @exchangeContactInfo: (exchangeInfo, className = "exchange-info") ->
+    infoDiv = jQuery("<div/>").addClass(className)
+    infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html(exchangeInfo['contact_one'])) if exchangeInfo['contact_one']?
+    infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").append(jQuery("<a/>").attr("href","mailto:#{exchangeInfo['email']}").html(exchangeInfo['email']))) if exchangeInfo['email']?
+    infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html(exchangeInfo['telephone'])) if exchangeInfo['telephone']?
+    infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html(jQuery("<a/>").attr("href",exchangeInfo['url']).attr("onclick","window.open(this.href,'ix-new-window');return false;").html("Website"))) if exchangeInfo['url']?
+    infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html("Member: #{exchangeInfo['euro_affiliation']}")) if exchangeInfo['euro_affiliation']?
+    infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html("Online since: #{exchangeInfo['date_online']}")) if exchangeInfo['date_online']?
 
 class IxMap.Map
 

@@ -86,7 +86,7 @@
     };
 
     Information.exchangeName = function(map) {
-      var building, exchange, exchangeInfo, infoDiv, _i, _j, _len, _len1, _ref, _ref1;
+      var building, exchange, exchangeInfo, _i, _j, _len, _len1, _ref, _ref1;
       exchangeInfo = null;
       _ref = map.buildings;
       for (_i = 0, _len = _ref.length; _i < _len; _i++) {
@@ -103,7 +103,7 @@
           break;
         }
       }
-      return jQuery(IxMap.Information.informationMarkupId).append(jQuery("<h2/>").attr("class", "search-result-name").html(map.currentSearchValue)).append(jQuery("<div/>").attr("class", "exchange").attr("id", "exchange-0}").append(jQuery("<div/>").addClass("exchange-icon")).append(infoDiv = jQuery("<div/>").addClass("exchange-information"), exchangeInfo['contact_one'] != null ? infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html(exchangeInfo['contact_one'])) : void 0, exchangeInfo['email'] != null ? infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").append(jQuery("<a/>").attr("href", "mailto:" + exchangeInfo['email']).html(exchangeInfo['email']))) : void 0, exchangeInfo['telephone'] != null ? infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html(exchangeInfo['telephone'])) : void 0, exchangeInfo['url'] != null ? infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html(jQuery("<a/>").attr("href", exchangeInfo['url']).attr("onclick", "window.open(this.href,'ix-new-window');return false;").html("Website"))) : void 0, exchangeInfo['euro_affiliation'] != null ? infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html("Member: " + exchangeInfo['euro_affiliation'])) : void 0, exchangeInfo['date_online'] != null ? infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html("Online since: " + exchangeInfo['date_online'])) : void 0));
+      return jQuery(IxMap.Information.informationMarkupId).append(jQuery("<h2/>").attr("class", "search-result-name").html(map.currentSearchValue)).append(jQuery("<div/>").attr("class", "exchange").attr("id", "exchange-0}").append(jQuery("<div/>").addClass("exchange-icon")).append(IxMap.Information.exchangeContactInfo(exchangeInfo, "exchange-information")));
     };
 
     Information.appendExchangesAvailable = function() {
@@ -139,10 +139,35 @@
     };
 
     Information.appendBuildingExchangeInfo = function(exchangeInfo) {
-      var infoDiv;
       return jQuery(IxMap.Information.informationMarkupId).append(jQuery("<div/>").attr("class", "exchange").attr("id", "exchange-" + exchangeInfo['index']).append(jQuery("<div/>").addClass("exchange-icon")).append(jQuery("<div/>").attr("class", "exchange-name").append(jQuery("<a/>").attr("href", "javascript:void(0);").click(exchangeInfo, function(event) {
         return exchangeInfo['search'].lookupFromSearchTerm(exchangeInfo['exchange']['address'][0]);
-      }).html(("" + exchangeInfo['exchange']['address'][0]).replace(/\(.+?\)/, "")))).append(infoDiv = jQuery("<div/>").addClass("exchange-info"), exchangeInfo['exchange']['contact_one'] != null ? infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html(exchangeInfo['exchange']['contact_one'])) : void 0, exchangeInfo['exchange']['email'] != null ? infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").append(jQuery("<a/>").attr("href", "mailto:" + exchangeInfo['exchange']['email']).html(exchangeInfo['exchange']['email']))) : void 0, exchangeInfo['exchange']['telephone'] != null ? infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html(exchangeInfo['exchange']['telephone'])) : void 0, exchangeInfo['exchange']['url'] != null ? infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html(jQuery("<a/>").attr("href", exchangeInfo['exchange']['url']).attr("onclick", "window.open(this.href,'ix-new-window');return false;").html("Website"))) : void 0, exchangeInfo['exchange']['euro_affiliation'] != null ? infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html("Member: " + exchangeInfo['exchange']['euro_affiliation'])) : void 0, exchangeInfo['exchange']['date_online'] != null ? infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html("Online since: " + exchangeInfo['exchange']['date_online'])) : void 0));
+      }).html(("" + exchangeInfo['exchange']['address'][0]).replace(/\(.+?\)/, "")))).append(IxMap.Information.exchangeContactInfo(exchangeInfo['exchange'])));
+    };
+
+    Information.exchangeContactInfo = function(exchangeInfo, className) {
+      var infoDiv;
+      if (className == null) {
+        className = "exchange-info";
+      }
+      infoDiv = jQuery("<div/>").addClass(className);
+      if (exchangeInfo['contact_one'] != null) {
+        infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html(exchangeInfo['contact_one']));
+      }
+      if (exchangeInfo['email'] != null) {
+        infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").append(jQuery("<a/>").attr("href", "mailto:" + exchangeInfo['email']).html(exchangeInfo['email'])));
+      }
+      if (exchangeInfo['telephone'] != null) {
+        infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html(exchangeInfo['telephone']));
+      }
+      if (exchangeInfo['url'] != null) {
+        infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html(jQuery("<a/>").attr("href", exchangeInfo['url']).attr("onclick", "window.open(this.href,'ix-new-window');return false;").html("Website")));
+      }
+      if (exchangeInfo['euro_affiliation'] != null) {
+        infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html("Member: " + exchangeInfo['euro_affiliation']));
+      }
+      if (exchangeInfo['date_online'] != null) {
+        return infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html("Online since: " + exchangeInfo['date_online']));
+      }
     };
 
     return Information;
