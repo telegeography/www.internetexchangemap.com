@@ -52,8 +52,26 @@ class IxMap.Information
     )
 
   @exchangeName: (map) ->
+    exchangeInfo = null
+    for building in map.buildings
+      for exchange in building.geojsonProperties.exchanges
+        if exchange.address[0] == map.currentSearchValue
+          exchangeInfo = exchange
+          break
+      if exchangeInfo?
+        break
     jQuery(IxMap.Information.informationMarkupId).append(
       jQuery("<h2/>").attr("class","search-result-name").html(map.currentSearchValue)
+    ).append(
+      jQuery("<div/>").attr("class","exchange").attr("id","exchange-0}").append(jQuery("<div/>").addClass("exchange-icon")).append(
+        infoDiv = jQuery("<div/>").addClass("exchange-information")
+        infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html(exchangeInfo['contact_one'])) if exchangeInfo['contact_one']?
+        infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").append(jQuery("<a/>").attr("href","mailto:#{exchangeInfo['email']}").html(exchangeInfo['email']))) if exchangeInfo['email']?
+        infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html(exchangeInfo['telephone'])) if exchangeInfo['telephone']?
+        infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html(jQuery("<a/>").attr("href",exchangeInfo['url']).attr("onclick","window.open(this.href,'ix-new-window');return false;").html("Website"))) if exchangeInfo['url']?
+        infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html("Member: #{exchangeInfo['euro_affiliation']}")) if exchangeInfo['euro_affiliation']?
+        infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html("Online since: #{exchangeInfo['date_online']}")) if exchangeInfo['date_online']?
+      )
     )
 
   @appendExchangesAvailable: () ->

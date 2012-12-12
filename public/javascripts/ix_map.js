@@ -86,7 +86,24 @@
     };
 
     Information.exchangeName = function(map) {
-      return jQuery(IxMap.Information.informationMarkupId).append(jQuery("<h2/>").attr("class", "search-result-name").html(map.currentSearchValue));
+      var building, exchange, exchangeInfo, infoDiv, _i, _j, _len, _len1, _ref, _ref1;
+      exchangeInfo = null;
+      _ref = map.buildings;
+      for (_i = 0, _len = _ref.length; _i < _len; _i++) {
+        building = _ref[_i];
+        _ref1 = building.geojsonProperties.exchanges;
+        for (_j = 0, _len1 = _ref1.length; _j < _len1; _j++) {
+          exchange = _ref1[_j];
+          if (exchange.address[0] === map.currentSearchValue) {
+            exchangeInfo = exchange;
+            break;
+          }
+        }
+        if (exchangeInfo != null) {
+          break;
+        }
+      }
+      return jQuery(IxMap.Information.informationMarkupId).append(jQuery("<h2/>").attr("class", "search-result-name").html(map.currentSearchValue)).append(jQuery("<div/>").attr("class", "exchange").attr("id", "exchange-0}").append(jQuery("<div/>").addClass("exchange-icon")).append(infoDiv = jQuery("<div/>").addClass("exchange-information"), exchangeInfo['contact_one'] != null ? infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html(exchangeInfo['contact_one'])) : void 0, exchangeInfo['email'] != null ? infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").append(jQuery("<a/>").attr("href", "mailto:" + exchangeInfo['email']).html(exchangeInfo['email']))) : void 0, exchangeInfo['telephone'] != null ? infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html(exchangeInfo['telephone'])) : void 0, exchangeInfo['url'] != null ? infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html(jQuery("<a/>").attr("href", exchangeInfo['url']).attr("onclick", "window.open(this.href,'ix-new-window');return false;").html("Website"))) : void 0, exchangeInfo['euro_affiliation'] != null ? infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html("Member: " + exchangeInfo['euro_affiliation'])) : void 0, exchangeInfo['date_online'] != null ? infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html("Online since: " + exchangeInfo['date_online'])) : void 0));
     };
 
     Information.appendExchangesAvailable = function() {
