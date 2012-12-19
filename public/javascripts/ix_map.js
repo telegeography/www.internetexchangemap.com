@@ -145,19 +145,24 @@
     };
 
     Information.exchangeContactInfo = function(exchangeInfo, className) {
-      var infoDiv;
+      var contact_email, infoDiv;
       if (className == null) {
         className = "exchange-info";
       }
+      if (exchangeInfo['contact_one_email'] != null) {
+        contact_email = jQuery("<div/>").append(jQuery("<a/>").attr("href", "mailto:" + exchangeInfo['contact_one_email']).html(exchangeInfo['contact_one_email'])).html();
+      } else {
+        contact_email = "";
+      }
       infoDiv = jQuery("<div/>").addClass(className);
       if (exchangeInfo['contact_one'] != null) {
-        infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html(exchangeInfo['contact_one']));
-      }
-      if (exchangeInfo['email'] != null) {
-        infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").append(jQuery("<a/>").attr("href", "mailto:" + exchangeInfo['email']).html(exchangeInfo['email'])));
+        infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html("" + exchangeInfo['contact_one'] + "  " + contact_email));
       }
       if (exchangeInfo['telephone'] != null) {
         infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html(exchangeInfo['telephone']));
+      }
+      if (exchangeInfo['email'] != null) {
+        infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").append(jQuery("<a/>").attr("href", "mailto:" + exchangeInfo['email']).html(exchangeInfo['email'])));
       }
       if (exchangeInfo['url'] != null) {
         infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html(jQuery("<a/>").attr("href", exchangeInfo['url']).attr("onclick", "window.open(this.href,'ix-new-window');return false;").html("Website")));

@@ -122,10 +122,15 @@ class IxMap.Information
     )
 
   @exchangeContactInfo: (exchangeInfo, className = "exchange-info") ->
+    if exchangeInfo['contact_one_email']?
+      contact_email = jQuery("<div/>").append(jQuery("<a/>").attr("href","mailto:#{exchangeInfo['contact_one_email']}").html(exchangeInfo['contact_one_email'])).html()
+    else
+      contact_email = ""
+
     infoDiv = jQuery("<div/>").addClass(className)
-    infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html(exchangeInfo['contact_one'])) if exchangeInfo['contact_one']?
-    infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").append(jQuery("<a/>").attr("href","mailto:#{exchangeInfo['email']}").html(exchangeInfo['email']))) if exchangeInfo['email']?
+    infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html("#{exchangeInfo['contact_one']}  #{contact_email}")) if exchangeInfo['contact_one']?
     infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html(exchangeInfo['telephone'])) if exchangeInfo['telephone']?
+    infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").append(jQuery("<a/>").attr("href","mailto:#{exchangeInfo['email']}").html(exchangeInfo['email']))) if exchangeInfo['email']?
     infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html(jQuery("<a/>").attr("href",exchangeInfo['url']).attr("onclick","window.open(this.href,'ix-new-window');return false;").html("Website"))) if exchangeInfo['url']?
     infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html("Member: #{exchangeInfo['euro_affiliation']}")) if exchangeInfo['euro_affiliation']?
     infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html("Online since: #{exchangeInfo['date_online']}")) if exchangeInfo['date_online']?
