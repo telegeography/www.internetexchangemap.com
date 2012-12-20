@@ -145,34 +145,32 @@
     };
 
     Information.exchangeContactInfo = function(exchangeInfo, className) {
-      var contact_email, infoDiv;
+      var contact_email, contact_name, infoDiv;
       if (className == null) {
         className = "exchange-info";
       }
-      if (exchangeInfo['contact_one_email'] != null) {
-        contact_email = jQuery("<div/>").append(jQuery("<a/>").attr("href", "mailto:" + exchangeInfo['contact_one_email']).html(exchangeInfo['contact_one_email'])).html();
-      } else {
-        contact_email = "";
-      }
+      contact_email = exchangeInfo['contact_one_email'] != null ? jQuery("<div/>").append(jQuery("<a/>").attr("href", "mailto:" + exchangeInfo['contact_one_email']).html(exchangeInfo['contact_one_email'])).html() : "";
+      contact_name = exchangeInfo['contact_one'] != null ? jQuery("<div/>").html(exchangeInfo['contact_one']).html() : "";
       infoDiv = jQuery("<div/>").addClass(className);
-      if (exchangeInfo['contact_one'] != null) {
-        infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html("" + exchangeInfo['contact_one'] + "  " + contact_email));
-      }
-      if (exchangeInfo['telephone'] != null) {
-        infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html(exchangeInfo['telephone']));
+      if ((exchangeInfo['contact_one'] != null) || (exchangeInfo['contact_one_email'] != null)) {
+        infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html("" + contact_name + "  " + contact_email));
       }
       if (exchangeInfo['email'] != null) {
         infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").append(jQuery("<a/>").attr("href", "mailto:" + exchangeInfo['email']).html(exchangeInfo['email'])));
       }
+      if (exchangeInfo['telephone'] != null) {
+        infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html(exchangeInfo['telephone']));
+      }
       if (exchangeInfo['url'] != null) {
-        infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html(jQuery("<a/>").attr("href", exchangeInfo['url']).attr("onclick", "window.open(this.href,'ix-new-window');return false;").html("Website")));
+        infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").append(jQuery("<a/>").attr("href", exchangeInfo['url']).attr("onclick", "window.open(this.href,'ix-new-window');return false;").html("Website")));
       }
       if (exchangeInfo['euro_affiliation'] != null) {
         infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html("Member: " + exchangeInfo['euro_affiliation']));
       }
       if (exchangeInfo['date_online'] != null) {
-        return infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html("Online since: " + exchangeInfo['date_online']));
+        infoDiv.append(jQuery("<div/>").attr("class", "exchange-contact").html("Online since: " + exchangeInfo['date_online']));
       }
+      return infoDiv;
     };
 
     return Information;
