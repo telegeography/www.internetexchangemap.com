@@ -13,7 +13,8 @@
 		<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
 		<script src="http://code.jquery.com/ui/1.9.1/jquery-ui.min.js"></script>
 		<script src="http://telegeography.github.com/GeoJSON-to-Google-Maps/GeoJSON.js"></script>
-		<script src="javascripts/ix-map.min.js"></script>
+		<script src="javascripts/ix_map.js"></script>
+		<script src="javascripts/handlebars.js" type="text/javascript" charset="utf-8"></script>
 	</head>
 	<body>
 		<div id="nav">
@@ -39,6 +40,54 @@
 		</div>
 		<div id="map"></div>
 	</body>
+	<script id="building-template" type="text/x-handlebars-template">
+		<div class="building" id="building-{{building_id}}">
+			{{#if letter}}
+			<div class="building-marker" style="background:url(images/markers.png) no-repeat -{{letter}}px 0;"></div>
+			{{else}}
+			<div class="building-icon"></div>
+			{{/if}}
+			<div class="building-info" id="building-info-{{building_id}}">
+				<div class="building-address">
+					<a href="javascript:void(0);">
+					{{#each address}}
+						{{this}}<br/>
+					{{/each}}
+					</a>
+				</div>
+			</div>
+			<div style="clear:both;"></div>
+		</div>
+	</script>
+	<script id="exchange-listing-template" type="text/x-handlebars-template">
+		<div class="exchange-listing" id="exchange-{{item}}">
+			<div class="exchange-name">
+				<a href="javascript:void(0);" id="exchange-listing-{{item}}">{{name}}</a>
+				<div style="clear:both;"></div>
+			</div>
+		</div>
+	</script>
+	<script id="exchange-contact-template" type="text/x-handlebars-template">
+		{{#if className}}
+		<div class="{{className}}">
+		{{else}}
+		<div class="exchange-info">
+		{{/if}}
+			{{#each info}}
+				<div class="exchange-contact">
+					{{{this}}}
+				</div>
+			{{/each}}
+		</div>
+	</script>
+	<script id="exchange-title-template" type="text/x-handlebars-template">
+		<div class="exchange" id="exchange-item-{{index}}">
+			<div class="exchange-icon"></div>
+			<div class="exchange-name">
+				<a href="javascript:void(0);" id="exchange-title-{{index}}">{{name}}</a>
+			</div>
+		</div>
+	</script>
 	<script type="text/javascript">
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-397578-10']);

@@ -63,7 +63,7 @@ class IxMap.Information
     jQuery(IxMap.Information.informationMarkupId).append(
       jQuery("<h2/>").attr("class","search-result-name").html(map.currentSearchValue)
     ).append(
-      jQuery("<div/>").attr("class","exchange").attr("id","exchange-0}").append(jQuery("<div/>").addClass("exchange-icon")).append(
+      jQuery("<div/>").attr("class","exchange").attr("id","exchange-0").append(jQuery("<div/>").addClass("exchange-icon")).append(
         IxMap.Information.exchangeContactInfo(exchangeInfo,"exchange-information")
       )
     )
@@ -77,62 +77,38 @@ class IxMap.Information
     jQuery(IxMap.Information.informationMarkupId).append(jQuery("<h2/>").attr("class","exchanges-available").html("Selected Building:"))
 
   @appendBuildingInfo: (obj) ->
+    template = Handlebars.compile(jQuery("#building-template").html())
     jQuery(IxMap.Information.informationMarkupId).append(
-      jQuery("<div/>").attr("class","building").attr("id","building-#{obj.building.geojsonProperties.building_id}").append(
-          if obj.letter?
-            jQuery("<div/>").attr("class","building-marker").attr("style","background:url(#{@markerPath}) no-repeat -#{(obj.letter+1)*22}px 0;")
-          else
-            jQuery("<div/>").addClass("building-icon")
-        ).append(
-          jQuery("<div/>").attr("class","building-info").append(
-            jQuery("<div/>").attr("class","building-address").append(
-              linkToBuilding = jQuery("<a/>").attr("href","javascript:void(0);").click(obj,
-                (event) -> 
-                  obj.map.selectBuildingFromList(obj.map.currentSearchValue, obj.building, if obj.letter? then 'red' else 'blue')
-              ).mouseout(obj, (event) -> obj.map.infoBox.close())
-              for address in obj.building.geojsonProperties.address
-                linkToBuilding.append(jQuery("<div>").text(address).html() + "<br/>")
-              )
-          )
-        ).append(jQuery("<div/>").attr("style","clear:both;"))
-        
-      )
+      template({building_id:obj.building.geojsonProperties.building_id, address:obj.building.geojsonProperties.address, letter:(obj.letter+1)*22}))
+    jQuery("#building-info-#{obj.building.geojsonProperties.building_id} a").click(obj,
+      (event) -> obj.map.selectBuildingFromList(obj.map.currentSearchValue, obj.building, if obj.letter? then 'red' else 'blue'))
+    jQuery("#building-info-#{obj.building.geojsonProperties.building_id} .building-address").mouseout(obj, (event) -> obj.map.infoBox.close())
 
   @appendExchangeInfo: (exchangeInfo) ->
-    jQuery(IxMap.Information.informationMarkupId).append(
-      jQuery("<div/>").attr("class","exchange-listing").attr("id","exchange-#{exchangeInfo['index']}").append(
-        jQuery("<div/>").attr("class","exchange-name").append(
-          jQuery("<a/>").attr("href","javascript:void(0);").html(exchangeInfo['name']).click(exchangeInfo, (event) -> exchangeInfo['search'].lookupFromSearchTerm(exchangeInfo['name']))
-        ).append(jQuery("<div/>").attr("style","clear:both;"))
-      )
-    )
+    template = Handlebars.compile(jQuery("#exchange-listing-template").html())
+    jQuery(IxMap.Information.informationMarkupId).append(template({item:exchangeInfo['index'], name:exchangeInfo['name']}))
+    jQuery("#exchange-listing-#{exchangeInfo['index']}").click(exchangeInfo, (event) -> exchangeInfo['search'].lookupFromSearchTerm(exchangeInfo['name']))
 
   @appendBuildingExchangeInfo: (exchangeInfo) ->
+    template = Handlebars.compile(jQuery("#exchange-title-template").html())
     jQuery(IxMap.Information.informationMarkupId).append(
-      jQuery("<div/>").attr("class","exchange").attr("id","exchange-#{exchangeInfo['index']}").append(jQuery("<div/>").addClass("exchange-icon")).append(
-        jQuery("<div/>").attr("class","exchange-name").append(
-          jQuery("<a/>").attr("href","javascript:void(0);").click(exchangeInfo,
-            (event) -> 
-              exchangeInfo['search'].lookupFromSearchTerm(exchangeInfo['exchange']['address'][0])
-          ).html("#{exchangeInfo['exchange']['address'][0]}".replace /\(.+?\)/,"")
-        )
-      ).append(
-        IxMap.Information.exchangeContactInfo(exchangeInfo['exchange'])
-      )
+      template({name:"#{exchangeInfo['exchange']['address'][0]}".replace(/\(.+?\)/,""),index: exchangeInfo['index']})
     )
+    jQuery("#exchange-item-#{exchangeInfo['index']}").append(IxMap.Information.exchangeContactInfo(exchangeInfo['exchange']))
+    jQuery("#exchange-title-#{exchangeInfo['index']}").click(exchangeInfo,
+      (event) ->
+        exchangeInfo['search'].lookupFromSearchTerm(exchangeInfo['exchange']['address'][0]))
 
   @exchangeContactInfo: (exchangeInfo, className = "exchange-info") ->
-    contact_email = if exchangeInfo['contact_one_email']? then jQuery("<div/>").append(jQuery("<a/>").attr("href","mailto:#{exchangeInfo['contact_one_email']}").html(exchangeInfo['contact_one_email'])).html() else ""
-    contact_name = if exchangeInfo['contact_one']? then jQuery("<div/>").html(exchangeInfo['contact_one']).html() else ""
-    infoDiv = jQuery("<div/>").addClass(className)
-    infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html("#{contact_name}  #{contact_email}")) if exchangeInfo['contact_one']? or  exchangeInfo['contact_one_email']? 
-    infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html(exchangeInfo['telephone'])) if exchangeInfo['telephone']?
-    infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").append(jQuery("<a/>").attr("href","mailto:#{exchangeInfo['email']}").html(exchangeInfo['email']))) if exchangeInfo['email']?
-    infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").append(jQuery("<a/>").attr("href",exchangeInfo['url']).attr("onclick","window.open(this.href,'ix-new-window');return false;").html("Website"))) if exchangeInfo['url']?
-    infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html("Member: #{exchangeInfo['euro_affiliation']}")) if exchangeInfo['euro_affiliation']?
-    infoDiv.append(jQuery("<div/>").attr("class","exchange-contact").html("Online since: #{exchangeInfo['date_online']}")) if exchangeInfo['date_online']?
-    infoDiv
-
+    template = Handlebars.compile(jQuery("#exchange-contact-template").html())
+    templateArray = []
+    if exchangeInfo['contact_one']? or exchangeInfo['contact_one_email']? then templateArray.push jQuery("<div/>").append(jQuery("<a/>").attr("href","mailto:#{exchangeInfo['contact_one_email']}").html(exchangeInfo['contact_one_email'])).html() + " " + jQuery("<div/>").append(exchangeInfo['contact_one']).html()
+    if exchangeInfo['telephone']? then templateArray.push exchangeInfo['telephone']
+    if exchangeInfo['email']? then templateArray.push jQuery("<div/>").append(jQuery("<a/>").attr("href","mailto:#{exchangeInfo['email']}").html(exchangeInfo['email'])).html()
+    if exchangeInfo['url']? then templateArray.push jQuery("<div/>").append(jQuery("<a/>").attr("href",exchangeInfo['url']).attr("onclick","window.open(this.href,'ix-new-window');return false;").html("Website")).html()
+    if exchangeInfo['euro_affiliation']? then templateArray.push "Member: #{exchangeInfo['euro_affiliation']}"
+    if exchangeInfo['date_online']? then templateArray.push "Online since: #{exchangeInfo['date_online']}"
+    template({info:templateArray, className:className})
 
 class IxMap.Map
 
