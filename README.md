@@ -27,7 +27,7 @@ How did you make the Internet Exchange Map?
 
 We use [Google's Maps API v3.](http://code.google.com/apis/maps/documentation/javascript/) to create the map and Jason Sanford's [GeoJSON-to-Google-Maps](https://github.com/JasonSanford/GeoJSON-to-Google-Maps) library to transform [GeoJSON](http://www.geojson.org/geojson-spec.html) into map markers and textual properties.
 
-This interactive map Javascript was created using the [Node.js](http://nodejs.org/) utility [CoffeeScript](http://coffeescript.org/) written by Jeremy Ashkenas and minified using Mihai Bazon's [UglifyJS2](https://github.com/mishoo/UglifyJS2).  The CoffeScript for the map was written in-house at TeleGeography.
+This interactive map Javascript was created using the [Node.js](http://nodejs.org/) utility [CoffeeScript](http://coffeescript.org/) written by Jeremy Ashkenas, [Yehuda Katz's](https://github.com/wycats) [handlebars](http://handlebarsjs.com/) for some templating and minified using Mihai Bazon's [UglifyJS2](https://github.com/mishoo/UglifyJS2).  The CoffeScript for the map was written in-house at TeleGeography.
 
 
 How can I download the dataset?
