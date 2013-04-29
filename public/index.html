@@ -6,96 +6,17 @@
 		<meta name="description" content="The Internet Exchange Map is a free resource from TeleGeography. Data contained in this map was complied by TeleGeography and is updated on a regular basis.">
 		<meta name="keywords" content="internet exchange map, telegeography, international internet exchange, internet exchange">
 		<meta charset="UTF-8" />
-		<link rel="stylesheet" href="stylesheets/ix-map.css" >
+		<link rel="stylesheet" href="stylesheets/ix.css" >
 		<link rel="stylesheet" href="http://code.jquery.com/ui/1.9.1/themes/base/jquery-ui.css">
-		<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
-		<script src="http://google-maps-utility-library-v3.googlecode.com/svn/trunk/infobox/src/infobox.js"></script>
-		<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
-		<script src="http://code.jquery.com/ui/1.9.1/jquery-ui.min.js"></script>
-		<script src="http://telegeography.github.com/GeoJSON-to-Google-Maps/GeoJSON.js"></script>
-		<script src="javascripts/ix-map.min.js"></script>
-		<script src="javascripts/handlebars.js" type="text/javascript" charset="utf-8"></script>
 	</head>
 	<body>
-		<div id="nav">
-			<div id="logo"><a href="http://www.telegeography.com/"><img src="images/telegeography-logo.png" width="230" height="25" alt="Telegeography"></a></div>
-			<div id="description">
-				<h1>Internet Exchange Map</h1>
-				<div>
-					The Internet Exchange Map is a free resource from <a href="http://www.telegeography.com/">TeleGeography</a>. Data contained in this map was complied by TeleGeography and is updated on a regular basis.
-				</div>
-				<div class="learn-more">
-					To learn more about <a href="http://www.telegeography.com/">TeleGeography</a> or this map, please visit <a href="http://www.telegeography.com/telecom-resources/internet-exchange-map/index.html">www.telegeography.com</a>.
-				</div>
-			</div>
-			<div id="social">
-				<a href="https://github.com/telegeography/www.internetexchangemap.com" class="github"></a>
-				<a href="http://www.facebook.com/sharer.php?u=http://www.internetexchangemap.com/" class="facebook"></a>
-				<a href="https://twitter.com/share?original_referer=http%3A%2F%2Fwww.internetexchangemap.com%2F&amp;source=tweetbutton&amp;text=Internet+Exchange+Map&amp;url=http%3A%2F%2Fwww.internetexchangemap.com" class="twitter"></a>
-				<a href="mailto:ixmap@telegeography.com">Feedback</a>
-				<span class="copyright">All content &#169; <span class="year">2013</span> PriMetrica, Inc.</span>
-			</div>
-			<div class="search-container"><input id="search" value="Search" /></div>
-			<div id="information"></div>
-		</div>
-		<div id="map"></div>
-	</body>
-	<script id="building-template" type="text/x-handlebars-template">
-		<div class="building" id="building-{{building_id}}">
-			{{#if letter}}
-			<div class="building-marker" style="background:url(images/markers.png) no-repeat -{{letter}}px 0;"></div>
-			{{else}}
-			<div class="building-icon"></div>
-			{{/if}}
-			<div class="building-info" id="building-info-{{building_id}}">
-				<div class="building-address">
-					<a href="javascript:void(0);">
-					{{#each address}}
-						{{this}}<br/>
-					{{/each}}
-					</a>
-				</div>
-			</div>
-			<div style="clear:both;"></div>
-		</div>
-	</script>
-	<script id="exchange-listing-template" type="text/x-handlebars-template">
-		<div class="exchange-listing" id="exchange-{{item}}">
-			<div class="exchange-name">
-				<a href="javascript:void(0);" id="exchange-listing-{{item}}">{{name}}</a>
-				<div style="clear:both;"></div>
-			</div>
-		</div>
-	</script>
-	<script id="exchange-contact-template" type="text/x-handlebars-template">
-		{{#if className}}
-		<div class="{{className}}">
-		{{else}}
-		<div class="exchange-info">
-		{{/if}}
-			{{#each info}}
-				<div class="exchange-contact">
-					{{{this}}}
-				</div>
-			{{/each}}
-		</div>
-	</script>
-	<script id="exchange-title-template" type="text/x-handlebars-template">
-		<div class="exchange" id="exchange-item-{{index}}">
-			<div class="exchange-icon"></div>
-			<div class="exchange-name">
-				<a href="javascript:void(0);" id="exchange-title-{{index}}">{{name}}</a>
-			</div>
-		</div>
-	</script>
-	<script type="text/javascript">
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-397578-10']);
-	  _gaq.push(['_trackPageview']);
-	  (function() {
-	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
-	</script>
+	<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+	<script src="javascripts/libs/infobox.min.js"></script>
+	<script src="javascripts/libs/GeoJSON.min.js"></script>
+	<script src="javascripts/libs/jquery-1.9.1.min.js"></script>
+	<script src="http://code.jquery.com/ui/1.9.1/jquery-ui.min.js"></script>
+	<script src="javascripts/libs/handlebars.runtime.min.js"></script>
+	<script src="javascripts/libs/ember-1.0.0-rc.3.min.js"></script>
+	<script src="javascripts/main.min.js"></script>
+</body>
 </html>

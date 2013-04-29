@@ -1,0 +1,1 @@
+{"address":["\u003Caddress not available\u003E","Troms\u00f8, Norway"],"exchanges":[{"slug":"tix-troms-norway","name":"TIX","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.uio.no/tjenester/it/nett/fastnett/nix/","value":"Website"},{"onclick":null,"link":null,"value":"Member: non-affiliated"}]}],"id":18339}

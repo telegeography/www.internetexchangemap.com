@@ -1,0 +1,1 @@
+{"address":["\u003Caddress not available\u003E","Christchurch, New Zealand"],"exchanges":[{"slug":"chix-christchurch-new-zealand","name":"CHIX","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://chix.nzix.net/","value":"Website"},{"onclick":null,"link":null,"value":"Member: non-affiliated"}]}],"id":18847}

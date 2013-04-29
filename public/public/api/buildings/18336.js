@@ -1,0 +1,1 @@
+{"address":["Kenniscampus Emmen, Stenden University","Van Schaikweg 94","Emmen, Netherlands"],"exchanges":[{"slug":"zod-ix-emmen-netherlands","name":"ZOD-IX","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.zod-ix.nl","value":"Website"},{"onclick":null,"link":null,"value":"Member: non-affiliated"}]}],"id":18336}

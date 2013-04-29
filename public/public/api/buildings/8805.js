@@ -1,0 +1,1 @@
+{"address":["ITS Network Services","\u003Caddress not available\u003E","Hamilton, New Zealand"],"exchanges":[{"slug":"hix-hamilton-new-zealand","name":"HIX","info":[{"onclick":null,"link":null,"value":"64 7 838 4466"},{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://nzix.net/","value":"Website"}]}],"id":8805}

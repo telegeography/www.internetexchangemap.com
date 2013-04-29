@@ -1,0 +1,1 @@
+{"address":["Ihorivs'ka St, 1/8","Kiev, Ukraine"],"exchanges":[{"slug":"dtel-ix-kiev-ukraine","name":"DTEL-IX","info":[{"onclick":null,"link":null,"value":"+380 44 201-14-07"},{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://dtel-ix.net","value":"Website"},{"onclick":null,"link":null,"value":"Member: non-affiliated"}]}],"id":18682}

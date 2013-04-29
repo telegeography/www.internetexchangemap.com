@@ -10,14 +10,10 @@ class IxMap.Search
   lookupFromSearchTerm: (@searchName) -> 
     jQuery.getJSON IxMap.Search.featuresJson, (data) =>
       @map.clearAllBuildings()
-      @map.currentSearchValue = @searchName
-      exchanges = []
-      @map.bounds(jQuery.map data, (exchange, i) =>
-        if exchange.search_name == @searchName
-          exchanges.push(exchange.building_id)
-          {latitude:exchange.latitude, longitude:exchange.longitude})
-      @map.showSearchBuildings(exchanges)
       jQuery(IxMap.Search.searchFieldId).val("Search").blur()
+      for exchange in data
+        if exchange.search_name == @searchName
+          jQuery(location).attr('href',"#/internet-exchange/#{exchange.slug_name}")
 
   constructor: (@map) ->
     jQuery.getJSON IxMap.Search.searchJson, (data) =>
@@ -33,165 +29,133 @@ class IxMap.Search
       jQuery(this).removeClass("focus").val("Search")
     )
 
-
-class IxMap.Information
-  
-  @informationMarkupId: "#information"
-  @markerPath: 'images/markers.png'
-
-  @clearInfo: () ->
-    jQuery(IxMap.Information.informationMarkupId).empty()
-
-  @exchangeListLink: (map) ->
-    jQuery(IxMap.Information.informationMarkupId).append(
-      jQuery("<div/>").attr("class","exchange-link").html(jQuery("<a/>").attr("href","javascript:").html("Internet Exchange List")).click(map, 
-        (event) ->
-          map.showAllExchanges()
-          map.showAllBuildings()
-      )
-    )
-
-  @exchangeName: (map) ->
-    exchangeInfo = null
-    for building in map.buildings
-      for exchange in building.geojsonProperties.exchanges
-        if exchange.address[0] == map.currentSearchValue
-          exchangeInfo = exchange
-          break
-      if exchangeInfo?
-        break
-    jQuery(IxMap.Information.informationMarkupId).append(
-      jQuery("<h2/>").attr("class","search-result-name").html(map.currentSearchValue)
-    ).append(
-      jQuery("<div/>").attr("class","exchange").attr("id","exchange-0").append(jQuery("<div/>").addClass("exchange-icon")).append(
-        IxMap.Information.exchangeContactInfo(exchangeInfo,"exchange-information")
-      )
-    )
-
-  @appendExchangesAvailable: () ->
-    jQuery(IxMap.Information.informationMarkupId).append(
-      jQuery("<h2/>").attr("class","exchanges-available").html("IXes located in this building:")
-    )
-
-  @appendSelectedBuilding: () ->
-    jQuery(IxMap.Information.informationMarkupId).append(jQuery("<h2/>").attr("class","exchanges-available").html("Selected Building:"))
-
-  @appendBuildingInfo: (obj) ->
-    template = Handlebars.compile(jQuery("#building-template").html())
-    jQuery(IxMap.Information.informationMarkupId).append(
-      template({building_id:obj.building.geojsonProperties.building_id, address:obj.building.geojsonProperties.address, letter:(obj.letter+1)*22}))
-    jQuery("#building-info-#{obj.building.geojsonProperties.building_id} a").click(obj,
-      (event) -> obj.map.selectBuildingFromList(obj.map.currentSearchValue, obj.building, if obj.letter? then 'red' else 'blue'))
-    jQuery("#building-info-#{obj.building.geojsonProperties.building_id} .building-address").mouseout(obj, (event) -> obj.map.infoBox.close())
-
-  @appendExchangeInfo: (exchangeInfo) ->
-    template = Handlebars.compile(jQuery("#exchange-listing-template").html())
-    jQuery(IxMap.Information.informationMarkupId).append(template({item:exchangeInfo['index'], name:exchangeInfo['name']}))
-    jQuery("#exchange-listing-#{exchangeInfo['index']}").click(exchangeInfo, (event) -> exchangeInfo['search'].lookupFromSearchTerm(exchangeInfo['name']))
-
-  @appendBuildingExchangeInfo: (exchangeInfo) ->
-    template = Handlebars.compile(jQuery("#exchange-title-template").html())
-    jQuery(IxMap.Information.informationMarkupId).append(
-      template({name:"#{exchangeInfo['exchange']['address'][0]}".replace(/\(.+?\)/,""),index: exchangeInfo['index']})
-    )
-    jQuery("#exchange-item-#{exchangeInfo['index']}").append(IxMap.Information.exchangeContactInfo(exchangeInfo['exchange']))
-    jQuery("#exchange-title-#{exchangeInfo['index']}").click(exchangeInfo,
-      (event) ->
-        exchangeInfo['search'].lookupFromSearchTerm(exchangeInfo['exchange']['address'][0]))
-
-  @exchangeContactInfo: (exchangeInfo, className = "exchange-info") ->
-    template = Handlebars.compile(jQuery("#exchange-contact-template").html())
-    templateArray = []
-    if exchangeInfo['contact_one']? or exchangeInfo['contact_one_email']? then templateArray.push jQuery("<div/>").append(jQuery("<a/>").attr("href","mailto:#{exchangeInfo['contact_one_email']}").html(exchangeInfo['contact_one_email'])).html() + " " + jQuery("<div/>").append(exchangeInfo['contact_one']).html()
-    if exchangeInfo['telephone']? then templateArray.push exchangeInfo['telephone']
-    if exchangeInfo['email']? then templateArray.push jQuery("<div/>").append(jQuery("<a/>").attr("href","mailto:#{exchangeInfo['email']}").html(exchangeInfo['email'])).html()
-    if exchangeInfo['url']? then templateArray.push jQuery("<div/>").append(jQuery("<a/>").attr("href",exchangeInfo['url']).attr("onclick","window.open(this.href,'ix-new-window');return false;").html("Website")).html()
-    if exchangeInfo['euro_affiliation']? then templateArray.push "Member: #{exchangeInfo['euro_affiliation']}"
-    if exchangeInfo['date_online']? then templateArray.push "Online since: #{exchangeInfo['date_online']}"
-    template({info:templateArray, className:className})
-
 class IxMap.Map
 
+  @informationMarkupId: "#information"
+  @markerPath: 'images/markers.png'
   @buildingsGeojson: 'javascripts/buildings.geojson'
   @exchangesListJson: 'javascripts/search.json'
   @alphabet: "abcdefghijklmnopqrstuvwxyz".split("")
   @iconObj: {url:'images/markers.png',size:new google.maps.Size(22,29),origin:new google.maps.Point(0,0)}
+  @buildingZoomLevel: 12
 
+  @showAllExchanges: () ->
+    exchangeList = []
+    jQuery.getJSON IxMap.Map.exchangesListJson, (data) -> 
+      for exchange, i in data
+        exchangeList.pushObject({id: i, name: exchange, slug: IxMap.Map.toSlug(exchange)})
+    exchangeList
 
-  showAllExchanges: () =>
-    IxMap.Information.clearInfo()
+  @toSlug: (str) ->
+    str.toLowerCase().replace(/[^-a-z0-9~\s\.:;+=_]/g,'').replace(/[\s\.:;=+]+/g, '-');
+
+  lookupExchangeForMap: (@searchName) ->
+    @clearAllBuildings()
+    jQuery.getJSON IxMap.Search.featuresJson, (data) =>
+      exchanges = []
+      @bounds(jQuery.map data, (exchange, i) =>
+        if exchange.slug_name == @searchName
+          exchanges.push(exchange.building_id)
+          {latitude:exchange.latitude, longitude:exchange.longitude})
+      @clearAllBuildings()
+      @showSearchBuildings(exchanges)
+      jQuery(IxMap.Search.searchFieldId).val("Search").blur()
+
+  lookupBuildingForMap: (@searchName) ->
+    @infoBox.close()
+    @clearAllBuildings()
+    @showAllBuildings()
+    for building in @buildings
+      if building.geojsonProperties.building_id == parseInt( @searchName, 10 )
+        @selectBuildingFromList(building)
+        @gmap.setZoom(IxMap.Map.buildingZoomLevel) if @gmap.getZoom() < 12
+
+  showAllExchanges: () ->
+    @exchangeList = [] if !@exchangeList
     jQuery.getJSON IxMap.Map.exchangesListJson, (data) => 
-      @exchangeList = data
-      for exchange, i in @exchangeList
-        IxMap.Information.appendExchangeInfo({name: exchange, search: @search, index: i })
+      for exchange, i in data
+        @exchangeList.pushObject({id: i, name: exchange})
+    @exchangeList
 
-  selectBuildingFromList: (name, building, color = 'blue') ->
+  selectBuildingFromList: (building, color = 'blue') ->
+    @infoBox.close()
+    jQuery(location).attr('href',"#/building/#{building.geojsonProperties.building_id}")
+    infoMarkup = jQuery('<div/>').addClass("#{color}-info-box-content").append(jQuery('<div/>').addClass("#{color}-info-box-pointer"))
+    @gmap.panTo(building.position)
+    for addr in building.geojsonProperties.address
+      infoMarkup.append(jQuery("<div/>").text(addr))
+    @infoBox.setContent(jQuery('<div/>').append(infoMarkup).html())
+    @infoBox.setPosition(building.position)
+    @infoBox.open(@gmap)
+
+  highlightExchangeBuildingFromList: (buildingId, color = 'red') ->
+    for building in @buildings
+      if building.geojsonProperties.building_id == parseInt( buildingId, 10 )
+        this.infoBox.close()
+        infoMarkup = jQuery('<div/>').addClass("#{color}-info-box-content").append(jQuery('<div/>').addClass("#{color}-info-box-pointer"))
+        for addr in building.geojsonProperties.address
+          infoMarkup.append(jQuery("<div/>").text(addr))
+        this.infoBox.setContent(jQuery('<div/>').append(infoMarkup).html())
+        this.infoBox.setPosition(building.position)
+        this.infoBox.open(@gmap)
+
+  highlightExchangeBuilding: (building, color = 'red') ->
     this.infoBox.close()
     infoMarkup = jQuery('<div/>').addClass("#{color}-info-box-content").append(jQuery('<div/>').addClass("#{color}-info-box-pointer"))
-    infoMarkup.append(jQuery("<strong/>").text(name)).append("<br/>") if name? and name != ""
-    @gmap.panTo(building.position)
     for addr in building.geojsonProperties.address
       infoMarkup.append(jQuery("<div/>").text(addr))
     this.infoBox.setContent(jQuery('<div/>').append(infoMarkup).html())
     this.infoBox.setPosition(building.position)
     this.infoBox.open(@gmap)
 
-  clearAllBuildings: () =>
-    IxMap.Information.clearInfo()
+  clearAllBuildings: () ->
     @infoBox.close()
     for building in @buildings
-      google.maps.event.clearListeners building, 'click'
+      google.maps.event.clearInstanceListeners building
       building.setIcon(IxMap.Map.iconObj)
       building.setMap(null)
 
-  onClickMapEvent: () =>
+  onClickMapEvent: () ->
     google.maps.event.addListener @gmap, 'click', (event) =>
       @infoBox.close()
       @clearAllBuildings()
-      @currentSearchValue = ''
       for building in @buildings
         @setMarkerEventListener(building)
         building.setMap(@gmap)
-      @showAllExchanges()
+      jQuery(location).attr('href','#/')
 
-  setMarkerEventListener: (building) =>
+  setMarkerEventListener: (building) ->
     google.maps.event.addListener building, 'click', (event) =>
-      IxMap.Information.clearInfo()
-      IxMap.Information.exchangeListLink(this)
-      IxMap.Information.appendSelectedBuilding()
-      @selectBuildingFromList(building.geojsonProperties.name, building)
-      IxMap.Information.appendBuildingInfo({map:this, building:building})
-      IxMap.Information.appendExchangesAvailable() if building.geojsonProperties.exchanges
-      for exchange, i in building.geojsonProperties.exchanges
-        IxMap.Information.appendBuildingExchangeInfo({exchange: exchange, search: @search, index: i })
+      @selectBuildingFromList(building)
 
   setSearchResultMarkerEventListener: (building) ->
-    google.maps.event.addListener building, 'click', (event) =>
+    google.maps.event.addListener building, 'mouseover', (event) =>
+      @highlightExchangeBuilding(building, 'red')
+    google.maps.event.addListener building, 'mouseout', (event) =>
       @infoBox.close()
-      @selectBuildingFromList(@currentSearchValue, building, 'red')
+    google.maps.event.addListener building, 'click', (event) =>
+      google.maps.event.clearListeners building, 'mouseout'
+      @selectBuildingFromList(building, 'red')
 
   showSearchBuildings: (exchange) ->
-    IxMap.Information.clearInfo()
-    IxMap.Information.exchangeListLink(this)
-    IxMap.Information.exchangeName(this)
+    @clearAllBuildings()
+    buildingList = []
     x = 0
     for building in @buildings
       if included = building.geojsonProperties.building_id in exchange
         building.setIcon({url:'images/markers.png',size:new google.maps.Size(22,29),origin:new google.maps.Point((x+1)*22,0)})
-        IxMap.Information.appendBuildingInfo({map:this, building:building, letter:x})
         @setSearchResultMarkerEventListener(building)
         building.setMap(@gmap)
+        buildingList.push({map:this, building:building, letter:x})
         x++
+    buildingList
 
-  showAllBuildings: ()->
-    @clearAllBuildings() if @buildings
-    jQuery.getJSON IxMap.Map.buildingsGeojson, (data) =>
-      @buildings = new GeoJSON(data)
-      for building in @buildings
-        @setMarkerEventListener(building)
-        building.setIcon(IxMap.Map.iconObj)
-        building.setMap(@gmap)
-
+  showAllBuildings: () ->
+    @clearAllBuildings()
+    for building in @buildings
+      @setMarkerEventListener(building)
+      building.setIcon(IxMap.Map.iconObj)
+      building.setMap(@gmap)
 
   bounds: (exchangeLatLons) -> 
     if exchangeLatLons.length > 1
@@ -203,7 +167,7 @@ class IxMap.Map
       @gmap.setCenter(new google.maps.LatLng(exchangeLatLons[0].latitude,exchangeLatLons[0].longitude));
       @gmap.setZoom(10)
 
-  constructor: (@element, @center, @zoom) ->
+  constructor: (@element, @center, @zoom, @buildings) ->
     @gmap = new google.maps.Map(document.getElementById(@element), { 
       zoom: @zoom,
       maxZoom: 20,
@@ -212,13 +176,8 @@ class IxMap.Map
       center: @center
       mapTypeId: google.maps.MapTypeId.ROADMAP
     })
-    @currentSearchValue = ''
     @infoBox = new InfoBox({closeBoxURL:"",alignBottom:true,pixelOffset:new google.maps.Size(-60,-45)})
+    @search = new IxMap.Search(this)
     @showAllBuildings()
     @onClickMapEvent()
-    @showAllExchanges()
-    @search = new IxMap.Search(this)
     return this
-
-jQuery(document).ready ->
-  map = new IxMap.Map('map', new google.maps.LatLng(30.0,-30.0), 3)

@@ -1,0 +1,1 @@
+{"address":["\u003Caddress not available\u003E","Rostov-on-Don, Russia"],"exchanges":[{"slug":"rnd-ix-rostov-on-don-russia","name":"RND-IX","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.ix.ru/rnd","value":"Website"},{"onclick":null,"link":null,"value":"Member: non-affiliated"}]}],"id":18340}

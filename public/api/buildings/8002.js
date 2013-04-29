@@ -1,0 +1,1 @@
+{"address":["240 Main Road","Rondebosch","Cape Town, South Africa"],"exchanges":[{"slug":"napafrica-cape-town-south-africa","name":"NAPAfrica","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.napafrica.com/live/index.php","value":"Website"}]}],"id":8002}

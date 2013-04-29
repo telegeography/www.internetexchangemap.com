@@ -1,0 +1,1 @@
+{"address":["5B, Cyber Tower 1","Ebene","Le Reduit, Mauritius"],"exchanges":[{"slug":"mixp-port-louis-mauritius","name":"MIXP","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.gov.mu/portal/sites/mixp/index.htm","value":"Website"},{"onclick":null,"link":null,"value":"Online since: June 2006"}]}],"id":17848}

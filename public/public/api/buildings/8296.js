@@ -1,0 +1,1 @@
+{"address":["8435 North Stemmons Freeway","Dallas, United States, 75247"],"exchanges":[{"slug":"tie-dallas-dallas-united-states","name":"TIE Dallas","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://tie.telx.com","value":"Website"},{"onclick":null,"link":null,"value":"Member: non-affiliated"}]}],"id":8296}

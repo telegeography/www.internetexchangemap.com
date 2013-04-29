@@ -1,0 +1,31 @@
+<div class="exchange-link">
+	{{#linkTo index}}Internet Exchange List{{/linkTo}}
+</div>
+<h2 class="search-result-name">
+	{{model.name}}
+</h2>
+<div class="exchange" id="exchange-0">
+	<div class="exchange-icon"></div>
+	<div class="exchange-information">
+	  {{#each exchange_info}}
+			<div class="exchange-contact">
+			{{#if link}}
+				<a {{bindAttr onclick="onclick"}} {{bindAttr href="link"}}>{{value}}</a><br/>
+			{{else}}
+				{{value}}<br/>
+			{{/if}}
+			</div>
+		{{/each}}
+	</div>
+</div>
+{{#each building in buildings}}
+<div class="building">
+	<div class="building-marker" {{bindAttr style="building.offset"}}></div>
+	<div class="building-info">
+		<div class="building-address">
+			{{view view.listItemView}}
+		</div>
+	</div>
+	<div style="clear:both;"></div>
+</div>
+{{/each}}

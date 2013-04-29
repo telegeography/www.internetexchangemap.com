@@ -1,0 +1,1 @@
+{"address":["\u003Caddress not available\u003E","Prague, Czech Republic"],"exchanges":[{"slug":"nfx-prague-czech-republic","name":"NFX","info":[{"onclick":null,"link":"mailto:info@nfx.cz","value":"info@nfx.cz"},{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.nfx.cz","value":"Website"}]}],"id":17917}

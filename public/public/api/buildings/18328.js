@@ -1,0 +1,1 @@
+{"address":["Riverhorse Rd","Riverhorse Valley","Durban, South Africa"],"exchanges":[{"slug":"napafrica-durban-south-africa","name":"NAPAfrica","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.napafrica.com/live/index.php","value":"Website"}]}],"id":18328}

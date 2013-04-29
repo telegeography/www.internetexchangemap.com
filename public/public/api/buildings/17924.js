@@ -1,0 +1,1 @@
+{"address":["\u003Caddress not available\u003E","Riga, Latvia"],"exchanges":[{"slug":"smile-riga-latvia","name":"SMILE","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.smile-ixp.net/","value":"Website"},{"onclick":null,"link":null,"value":"Member: non-affiliated"}]}],"id":17924}

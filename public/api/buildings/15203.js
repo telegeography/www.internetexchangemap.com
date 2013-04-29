@@ -1,0 +1,1 @@
+{"address":["JUMBO-i-Advantage","145-9 Yeung Uk Road","Tsuen Wan","Hong Kong, China"],"exchanges":[{"slug":"iaix-hong-kong-china","name":"iAIX","info":[]}],"id":15203}

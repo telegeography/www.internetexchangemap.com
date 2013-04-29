@@ -1,0 +1,1 @@
+{"address":["\u003Caddress not available\u003E","Palmerston, New Zealand"],"exchanges":[{"slug":"pnix-palmerston-new-zealand","name":"PNIX","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://pnix.nzix.net/","value":"Website"},{"onclick":null,"link":null,"value":"Member: non-affiliated"}]}],"id":18808}

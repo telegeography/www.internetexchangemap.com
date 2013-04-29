@@ -1,0 +1,1 @@
+{"address":["515 West Hastings Street","Vancouver, Canada, V6B 4N4"],"exchanges":[{"slug":"pix-vancouver-vancouver-canada","name":"PIX Vancouver","info":[{"onclick":null,"link":null,"value":"604.683.7747 "},{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.peer1.com/infrastructure/pix.php","value":"Website"}]}],"id":14869}

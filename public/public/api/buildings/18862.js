@@ -1,0 +1,1 @@
+{"address":["Eduard Bodem Gasse 6","Innsbruck, Austria"],"exchanges":[{"slug":"tirol-x-innsbruck-austria","name":"TIROL-X","info":[{"onclick":null,"link":"mailto:bernd.spiess@essgroup.at","value":"bernd.spiess@essgroup.at Bernd Spiess, Director Data Wholesale \u0026 Infrastructure"},{"onclick":null,"link":null,"value":"43 676 848 267 401"}]}],"id":18862}

@@ -1,0 +1,1 @@
+{"address":["3402 E. University","Phoenix, United States"],"exchanges":[{"slug":"phoenixnap-phoenix-united-states","name":"PhoenixNAP","info":[{"onclick":null,"link":null,"value":"480 449 7768"},{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://phoenix-ix.net","value":"Website"}]}],"id":18895}
