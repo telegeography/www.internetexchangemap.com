@@ -1,1 +1,1 @@
-{"address":["Nowogrodzka 10","Warsaw, Poland"],"exchanges":[{"slug":"tpix-warsaw-poland","name":"TPIX","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.tp-ir.pl/","value":"Website"}]}],"id":18898}
+{"exchanges":[{"slug":"tpix-warsaw-poland","name":"TPIX","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.tp-ir.pl/","value":"Website"}]}],"address":["Nowogrodzka 10","Warsaw, Poland"],"id":18898}

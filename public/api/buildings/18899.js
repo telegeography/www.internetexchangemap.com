@@ -1,1 +1,1 @@
-{"address":["Aleje Jerozolimskie 65/79","Warsaw, Poland"],"exchanges":[{"slug":"tpix-warsaw-poland","name":"TPIX","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.tp-ir.pl/","value":"Website"}]}],"id":18899}
+{"exchanges":[{"slug":"tpix-warsaw-poland","name":"TPIX","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.tp-ir.pl/","value":"Website"}]}],"address":["Aleje Jerozolimskie 65/79","Warsaw, Poland"],"id":18899}

@@ -1,0 +1,1 @@
+{"exchanges":[{"slug":"ocix-dsseldorf-germany","name":"OCIX","info":[{"onclick":null,"link":"mailto:noc@opencarrier.eu","value":"noc@opencarrier.eu"},{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.opencarrier.eu/","value":"Website"}]}],"address":["In der Steele 43","D\u00fcsseldorf, Germany"],"id":17988}
