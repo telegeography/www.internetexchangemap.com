@@ -1,0 +1,1 @@
+{"address":["Global Connect","Horskaetten 3","Taastrup","Copenhagen, Denmark, 2630"],"id":15299,"exchanges":[{"slug":"ixor-copenhagen-denmark","name":"IXOR","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.ixor.se","value":"Website"},{"onclick":null,"link":null,"value":"Member: non-affiliated"}]}]}
