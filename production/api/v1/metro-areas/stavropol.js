@@ -1,1 +1,1 @@
-{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"45.045349","longitude":"41.969603","id":19257,"address":["Ekvant","8 Marshala Zhukova Ulitsa","Stavropol, Russia"]}],"name":"Stavropol","id":"stavropol"}
+{"buildings":[{"longitude":"41.969603","address":["Ekvant","8 Marshala Zhukova Ulitsa","Stavropol, Russia"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19257,"latitude":"45.045349"}],"name":"Stavropol","id":"stavropol"}

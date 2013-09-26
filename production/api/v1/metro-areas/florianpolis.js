@@ -1,1 +1,1 @@
-{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-27.597544","longitude":"-48.548009","id":18834,"address":["\u003Caddress not available\u003E","Florian\u00f3polis, Brazil"]}],"name":"Florian\u00f3polis","id":"florianpolis"}
+{"buildings":[{"longitude":"-48.548009","address":["\u003Caddress not available\u003E","Florian\u00f3polis, Brazil"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18834,"latitude":"-27.597544"}],"name":"Florian\u00f3polis","id":"florianpolis"}

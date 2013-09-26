@@ -31,29 +31,34 @@ App.Router.map () ->
 
 App.IndexRoute = Ember.Route.extend
   setupController: (controller, model) ->
+    App.analytics("/#/")
     App.exchangesList = IxMap.Map.showAllExchanges() if !App.exchangesList
     controller.set("model",  App.exchangesList)
 
 App.InternetExchangeRoute = Ember.Route.extend
   setupController: (controller, model) ->
+    App.analytics("/#/internet-exchange/#{App.getSlug(model)}")
     jQuery.getJSON "#{App.apiUrl}/internet-exchanges/#{App.getSlug(model)}.js", (data) ->
       controller.set "model",  data
       App.map.lookupExchangeForMap(data.id)
 
 App.BuildingRoute = Ember.Route.extend
   setupController: (controller, model) ->
+    App.analytics("/#/building/#{App.getSlug(model)}")
     jQuery.getJSON "#{App.apiUrl}/buildings/#{App.getSlug(model)}.js", (data) ->
       controller.set("model",  data)
       App.map.lookupBuildingForMap(App.getSlug(data.id))
 
 App.MetroAreaRoute = Ember.Route.extend
   setupController: (controller, model) ->
+    App.analytics("/#/metro-area/#{App.getSlug(model)}")
     jQuery.getJSON "#{App.apiUrl}/metro-areas/#{App.getSlug(model)}.js", (data) ->
       controller.set("model",  data)
       App.map.lookupCountryOrMetroAreaForMap(data.id, "metro_area")
 
 App.CountryRoute = Ember.Route.extend
   setupController: (controller, model) ->
+    App.analytics("/#/country/#{App.getSlug(model)}")
     jQuery.getJSON "#{App.apiUrl}/countries/#{App.getSlug(model)}.js", (data) ->
       controller.set("model",  data)
       App.map.lookupCountryOrMetroAreaForMap(data.id, "country")

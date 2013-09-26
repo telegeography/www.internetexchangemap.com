@@ -1,1 +1,1 @@
-{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-15.408840","longitude":"28.282400","id":18817,"address":["\u003Caddress not available\u003E","Lusaka, Zambia"]}],"name":"Lusaka","id":"lusaka"}
+{"buildings":[{"longitude":"28.282400","address":["\u003Caddress not available\u003E","Lusaka, Zambia"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18817,"latitude":"-15.408840"}],"name":"Lusaka","id":"lusaka"}

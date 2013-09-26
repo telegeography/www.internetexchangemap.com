@@ -1,1 +1,1 @@
-{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-19.945364","longitude":"-43.932684","id":18830,"address":["\u003Caddress not available\u003E","Belo Horizonte, Brazil"]}],"name":"Belo Horizonte","id":"belo-horizonte"}
+{"buildings":[{"longitude":"-43.932684","address":["\u003Caddress not available\u003E","Belo Horizonte, Brazil"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18830,"latitude":"-19.945364"}],"name":"Belo Horizonte","id":"belo-horizonte"}

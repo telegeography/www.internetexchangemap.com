@@ -1,1 +1,1 @@
-{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-12.969979","longitude":"-38.504531","id":18840,"address":["\u003Caddress not available\u003E","Salvador, Brazil"]}],"name":"Salvador","id":"salvador"}
+{"buildings":[{"longitude":"-38.504531","address":["\u003Caddress not available\u003E","Salvador, Brazil"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18840,"latitude":"-12.969979"}],"name":"Salvador","id":"salvador"}

@@ -1,1 +1,1 @@
-{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-9.596103","longitude":"-36.469716","id":18828,"address":["\u003Caddress not available\u003E","Bel\u00e9m, Brazil"]}],"name":"Bel\u00e9m","id":"belm"}
+{"buildings":[{"longitude":"-36.469716","address":["\u003Caddress not available\u003E","Bel\u00e9m, Brazil"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18828,"latitude":"-9.596103"}],"name":"Bel\u00e9m","id":"belm"}

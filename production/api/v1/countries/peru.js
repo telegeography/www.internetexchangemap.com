@@ -1,1 +1,1 @@
-{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-12.1017066","longitude":"-76.9945358","id":8113,"address":["Avenue San Luis 1771","San Borja","Lima, Peru, 41"]}],"name":"Peru","id":"peru"}
+{"buildings":[{"longitude":"-76.9945358","address":["Avenue San Luis 1771","San Borja","Lima, Peru, 41"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":8113,"latitude":"-12.1017066"}],"name":"Peru","id":"peru"}

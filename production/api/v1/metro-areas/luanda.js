@@ -1,1 +1,1 @@
-{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-8.812663","longitude":"13.234998","id":18814,"address":["\u003Caddress not available\u003E","Luanda, Angola"]}],"name":"Luanda","id":"luanda"}
+{"buildings":[{"longitude":"13.234998","address":["\u003Caddress not available\u003E","Luanda, Angola"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18814,"latitude":"-8.812663"}],"name":"Luanda","id":"luanda"}

@@ -9,7 +9,6 @@ class IxMap.Search
 
   lookupFromSearchTerm: (@searchName) -> 
     jQuery.getJSON IxMap.Search.searchJson, (data) =>
-      @map.clearAllBuildings()
       jQuery(IxMap.Search.searchFieldId).val("Search").blur()
       for exchange in data
         if exchange.value == @searchName

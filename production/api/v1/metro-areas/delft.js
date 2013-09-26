@@ -1,1 +1,1 @@
-{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"51.9896073","longitude":"4.3778326","id":18616,"address":["Technopolis Science Park","Kluyverweg 6 ","Delft, Netherlands"]}],"name":"Delft","id":"delft"}
+{"buildings":[{"longitude":"4.3778326","address":["Technopolis Science Park","Kluyverweg 6 ","Delft, Netherlands"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18616,"latitude":"51.9896073"}],"name":"Delft","id":"delft"}
