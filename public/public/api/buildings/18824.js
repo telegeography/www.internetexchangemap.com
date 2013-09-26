@@ -1,1 +1,0 @@
-{"address":["\u003Caddress not available\u003E","Almaty, Kazakhstan"],"exchanges":[{"slug":"kaz-ix-almaty-kazakhstan","name":"KAZ-IX","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.kaz-ix.kz","value":"Website"},{"onclick":null,"link":null,"value":"Member: non-affiliated"}]}],"id":18824}

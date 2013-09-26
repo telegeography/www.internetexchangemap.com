@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"value":"mkaoruka@nic.br","onclick":null,"link":"mailto:mkaoruka@nic.br"},{"value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://ptt.br/adesao/vix/"}],"slug":"ptt-vitria-brazil","name":"PTT"}],"id":18841,"address":["\u003Caddress not available\u003E","Vit\u00f3ria, Brazil"]}

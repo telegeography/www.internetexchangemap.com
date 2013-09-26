@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"42.672421","longitude":"21.164539","id":18905,"address":["\u003Caddress not available\u003E","Pristina, Serbia"]}],"name":"Pristina","id":"pristina"}

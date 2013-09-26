@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-15.408840","longitude":"28.282400","id":18817,"address":["\u003Caddress not available\u003E","Lusaka, Zambia"]}],"name":"Zambia","id":"zambia"}

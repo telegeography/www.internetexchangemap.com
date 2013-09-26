@@ -2,18 +2,18 @@ window.IxMap = {}
 
 class IxMap.Search
 
-  @featuresJson: 'javascripts/features.json'
-  @searchJson: 'javascripts/search.json' 
+  @featuresJson: 'api/v1/features.json'
+  @searchJson: 'api/v1/search.json' 
   @searchFieldId: '#search'
   @exchangeLatLons: []
 
   lookupFromSearchTerm: (@searchName) -> 
-    jQuery.getJSON IxMap.Search.featuresJson, (data) =>
+    jQuery.getJSON IxMap.Search.searchJson, (data) =>
       @map.clearAllBuildings()
       jQuery(IxMap.Search.searchFieldId).val("Search").blur()
       for exchange in data
-        if exchange.search_name == @searchName
-          jQuery(location).attr('href',"#/internet-exchange/#{exchange.slug_name}")
+        if exchange.value == @searchName
+          jQuery(location).attr('href',"#{exchange.url}")
 
   constructor: (@map) ->
     jQuery.getJSON IxMap.Search.searchJson, (data) =>
@@ -33,8 +33,8 @@ class IxMap.Map
 
   @informationMarkupId: "#information"
   @markerPath: 'images/markers.png'
-  @buildingsGeojson: 'javascripts/buildings.geojson'
-  @exchangesListJson: 'javascripts/search.json'
+  @buildingsGeojson: 'api/v1/buildings.geojson'
+  @exchangesListJson: 'api/v1/exchanges.json'
   @alphabet: "abcdefghijklmnopqrstuvwxyz".split("")
   @iconObj: {url:'images/markers.png',size:new google.maps.Size(22,29),origin:new google.maps.Point(0,0)}
   @buildingZoomLevel: 12
@@ -43,11 +43,11 @@ class IxMap.Map
     exchangeList = []
     jQuery.getJSON IxMap.Map.exchangesListJson, (data) -> 
       for exchange, i in data
-        exchangeList.pushObject({id: i, name: exchange, slug: IxMap.Map.toSlug(exchange)})
+        exchangeList.pushObject({id: i, name: exchange.value, slug: IxMap.Map.toSlug(exchange.value)})
     exchangeList
 
   @toSlug: (str) ->
-    str.toLowerCase().replace(/[^-a-z0-9~\s\.:;+=_]/g,'').replace(/[\s\.:;=+]+/g, '-');
+    str.toLowerCase().replace(/[^-a-z0-9~\s\.:;+=_]/g,'').replace(/[\s\.:;=+]+/g, '-')
 
   lookupExchangeForMap: (@searchName) ->
     @clearAllBuildings()
@@ -60,6 +60,20 @@ class IxMap.Map
       @clearAllBuildings()
       @showSearchBuildings(exchanges)
       jQuery(IxMap.Search.searchFieldId).val("Search").blur()
+
+  lookupCountryOrMetroAreaForMap: (@searchName, type = "country") ->
+    @clearAllBuildings()
+    buildingList = []
+    for building in @buildings
+      if building.geojsonProperties[type] == IxMap.Map.toSlug(@searchName)
+        building.setIcon({url:'images/markers.png',size:new google.maps.Size(22,29),origin:new google.maps.Point(1166,0)})
+        @setSearchResultMarkerEventListener(building)
+        building.setMap(@gmap)
+        buildingList.push({map:this, building:building, letter:0})
+    @bounds(for building in buildingList
+      {latitude:building.building.getPosition().lat(), longitude:building.building.getPosition().lng()})
+    buildingList
+    jQuery(IxMap.Search.searchFieldId).val("Search").blur()
 
   lookupBuildingForMap: (@searchName) ->
     @infoBox.close()
@@ -74,7 +88,7 @@ class IxMap.Map
     @exchangeList = [] if !@exchangeList
     jQuery.getJSON IxMap.Map.exchangesListJson, (data) => 
       for exchange, i in data
-        @exchangeList.pushObject({id: i, name: exchange})
+        @exchangeList.pushObject({id: i, name: exchange.value})
     @exchangeList
 
   selectBuildingFromList: (building, color = 'blue') ->
@@ -143,7 +157,11 @@ class IxMap.Map
     x = 0
     for building in @buildings
       if included = building.geojsonProperties.building_id in exchange
-        building.setIcon({url:'images/markers.png',size:new google.maps.Size(22,29),origin:new google.maps.Point((x+1)*22,0)})
+        if (x+1)*22 > 1166
+          building.setIcon({url:'images/markers.png',size:new google.maps.Size(22,29),origin:new google.maps.Point(1166,0)})
+        else
+          building.setIcon({url:'images/markers.png',size:new google.maps.Size(22,29),origin:new google.maps.Point((x+1)*22,0)})
+        
         @setSearchResultMarkerEventListener(building)
         building.setMap(@gmap)
         buildingList.push({map:this, building:building, letter:x})

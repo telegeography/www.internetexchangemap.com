@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"value":"(02) 412-1212","onclick":null,"link":null},{"value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.bayan.com.ph/ "}],"slug":"nigx-manila-philippines","name":"NIGX"}],"id":8759,"address":["\u003Caddress not available\u003E","Manila, Philippines"]}

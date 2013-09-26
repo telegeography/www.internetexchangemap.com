@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"56.014300","longitude":"92.870980","id":18344,"address":["\u003Caddress not available\u003E","Krasnoyarsk, Russia"]}],"name":"Krasnoyarsk","id":"krasnoyarsk"}

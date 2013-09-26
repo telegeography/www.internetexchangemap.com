@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"value":"+1 602 688-6414","onclick":null,"link":null},{"value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://phoenix-ix.net"}],"slug":"phoenixnap-phoenix-united-states","name":"PhoenixNAP"}],"id":18895,"address":["3402 E. University","Phoenix, United States"]}

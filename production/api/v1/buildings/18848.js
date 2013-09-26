@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://ix.dn.ua/point.html"},{"value":"Member: non-affiliated","onclick":null,"link":null}],"slug":"dn-ix-donetsk-ukraine","name":"DN-IX"}],"id":18848,"address":["\u003Caddress not available\u003E","Donetsk, Ukraine"]}

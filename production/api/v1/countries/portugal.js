@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"38.7564436","longitude":"-9.1465808","id":8065,"address":["Av. do Brasil, 101","Lisbon, Portugal, 1700-066"]}],"name":"Portugal","id":"portugal"}

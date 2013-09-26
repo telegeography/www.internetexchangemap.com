@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"45.4579585","longitude":"4.3949206","id":18890,"address":["1 Rue de L'informatique","Saint-Etienne, France, 42000"]}],"name":"Saint-Etienne","id":"saint-etienne"}

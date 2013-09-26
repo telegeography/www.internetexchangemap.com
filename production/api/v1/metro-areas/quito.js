@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-0.129636","longitude":"-78.503451","id":14848,"address":["Impsat Ecuador","Urbanizacion Inaquito Alto","Calle Juan Diaz N37-121","Quito, Ecuador"]}],"name":"Quito","id":"quito"}

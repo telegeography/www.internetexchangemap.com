@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.ati.tn/TunIXP/"},{"value":"Member: non-affiliated","onclick":null,"link":null}],"slug":"tunixp-tunis-tunisia","name":"TunIXP"}],"id":18846,"address":["\u003Caddress not available\u003E","Tunis, Tunisia"]}

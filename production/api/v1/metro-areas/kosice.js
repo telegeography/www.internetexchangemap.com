@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"48.730063","longitude":"21.244376","id":18826,"address":["B. Nemcovej 3","Kosice, Slovak Republic, 04201"]}],"name":"Kosice","id":"kosice"}

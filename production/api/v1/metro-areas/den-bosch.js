@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"51.6865316","longitude":"5.3594124","id":16914,"address":["De Steenbok 1","Den Bosch, Netherlands"]}],"name":"Den Bosch","id":"den-bosch"}

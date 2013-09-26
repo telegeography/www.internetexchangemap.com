@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"value":"+27 27 201 0135","onclick":null,"link":null},{"value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.saix.net"}],"slug":"saix-johannesburg-south-africa","name":"SAIX"}],"id":17937,"address":["\u003Caddress not available\u003E","Johannesburg, South Africa"]}

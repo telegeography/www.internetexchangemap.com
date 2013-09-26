@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":null,"longitude":null,"id":18860,"address":["Likas Square Commercial Centre","1 Lorong Likas Square","Jalan Istiadat","Sabah, Malaysia, 88400"]}],"name":"Sabah","id":"sabah"}

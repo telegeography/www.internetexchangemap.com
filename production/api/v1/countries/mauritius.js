@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-20.24444160723541","longitude":"57.49214172363281","id":17848,"address":["5B, Cyber Tower 1","Ebene","Le Reduit, Mauritius"]}],"name":"Mauritius","id":"mauritius"}

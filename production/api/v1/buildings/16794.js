@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"value":"514.878.0080 ","onclick":null,"link":null},{"value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.peer1.com/infrastructure/pix.php"}],"slug":"pix-montreal-montreal-canada","name":"PIX Montreal"}],"id":16794,"address":["1080 Beaver Hall","Montreal, Canada, H2Z 1S8"]}

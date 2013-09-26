@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"value":"gix@gix.net.pl","onclick":null,"link":"mailto:gix@gix.net.pl"},{"value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.gix.net.pl"}],"slug":"gix-warsaw-poland","name":"GIX"}],"id":15188,"address":["\u003Caddress not available\u003E","Warsaw, Poland"]}

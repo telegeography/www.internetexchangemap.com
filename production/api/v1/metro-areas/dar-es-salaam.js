@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-6.813321","longitude":"39.288632","id":15136,"address":["Posta House","Ghana Avenue","Dar Es Salaam, Tanzania"]}],"name":"Dar Es Salaam","id":"dar-es-salaam"}

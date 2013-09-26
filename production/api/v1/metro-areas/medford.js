@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"42.332459","longitude":"-122.880427","id":18699,"address":["739 Welch St.","Medford, United States"]}],"name":"Medford","id":"medford"}

@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-15.801895839125521","longitude":"35.01548767089844","id":18702,"address":["College of Medicine","Mahatma Gandhi","Blantyre, Malawi"]}],"name":"Blantyre","id":"blantyre"}

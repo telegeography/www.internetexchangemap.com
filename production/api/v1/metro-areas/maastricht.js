@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"50.927895","longitude":"5.781061","id":19225,"address":["Cofely","Amerikalaan 35","Maastricht, Netherlands"]}],"name":"Maastricht","id":"maastricht"}

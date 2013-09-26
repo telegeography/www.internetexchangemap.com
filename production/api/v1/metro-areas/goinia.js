@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-16.679326","longitude":"-49.256278","id":18836,"address":["\u003Caddress not available\u003E","Goi\u00e2nia, Brazil"]}],"name":"Goi\u00e2nia","id":"goinia"}

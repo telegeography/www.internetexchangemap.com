@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-43.5305327","longitude":"172.5990636","id":18847,"address":["SNAP Internet","88 Division Street","Riccarton","Christchurch, New Zealand, 8041"]}],"name":"Christchurch","id":"christchurch"}

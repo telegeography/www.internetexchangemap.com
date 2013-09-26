@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"45.733679","longitude":"21.2373217","id":18650,"address":["64 Calea Martirilor","Timisoara, Romania"]}],"name":"Timisoara","id":"timisoara"}

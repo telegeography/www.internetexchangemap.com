@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"48.000950","longitude":"37.805776","id":18848,"address":["\u003Caddress not available\u003E","Donetsk, Ukraine"]}],"name":"Donetsk","id":"donetsk"}

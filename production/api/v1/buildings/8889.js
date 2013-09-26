@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"value":"mkaoruka@nic.br","onclick":null,"link":"mailto:mkaoruka@nic.br"},{"value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.ptt.br/adesao/sp/"}],"slug":"ptt-so-paulo-brazil","name":"PTT"}],"id":8889,"address":["\u003Caddress not available\u003E","S\u00e3o Paulo, Brazil"]}

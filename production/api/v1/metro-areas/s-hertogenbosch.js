@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"51.697423","longitude":"5.038839","id":19227,"address":["Haven 7","Gragtmansstraat 1B","Waalwijk, Netherlands"]}],"name":"s-Hertogenbosch","id":"s-hertogenbosch"}

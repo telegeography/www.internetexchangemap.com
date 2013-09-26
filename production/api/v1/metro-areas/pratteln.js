@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"47.5229807","longitude":"7.6742462","id":18670,"address":["ColoBale AG","G\u00fcterstrasse 72","Bau 2 Tor 10\u002611","Pratteln, Switzerland"]}],"name":"Pratteln","id":"pratteln"}

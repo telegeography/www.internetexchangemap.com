@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"26.2703891","longitude":"127.7180781","id":16906,"address":["5-2-1 Makinami","Urazoe City","Okinawa, Japan"]}],"name":"Okinawa","id":"okinawa"}

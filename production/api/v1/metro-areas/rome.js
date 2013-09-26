@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"41.8989664","longitude":"12.5118661","id":10224,"address":["Via dei Tizi, 6/b","Rome, Italy"]}],"name":"Rome","id":"rome"}

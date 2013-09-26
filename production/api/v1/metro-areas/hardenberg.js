@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"52.575342","longitude":"6.622884","id":16932,"address":["\u003Caddress not available\u003E","Hardenberg, Netherlands"]}],"name":"Hardenberg","id":"hardenberg"}

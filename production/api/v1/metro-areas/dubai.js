@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"25.0317773","longitude":"55.1900227","id":18850,"address":["IMPZ Data Center","International Media Production Zone","Dubai, United Arab Emirates"]}],"name":"Dubai","id":"dubai"}

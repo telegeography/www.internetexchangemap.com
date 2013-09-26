@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"54.3109185","longitude":"48.3845371","id":18333,"address":["54 Lva Tolstogo str","Ulyanovsk, Russia"]}],"name":"Ulyanovsk","id":"ulyanovsk"}

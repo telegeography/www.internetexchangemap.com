@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":null,"longitude":null,"id":18901,"address":["Ambronex Pty (Ltd)","Witch-Hazel Avenue","Highveld Technopark","Block E Eco Fusion 5 campus","Centurion, South Africa"]}],"name":"Tshwane","id":"tshwane"}

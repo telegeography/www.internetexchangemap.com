@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"46.959371","longitude":"7.43474","id":18378,"address":["Hochfeldstrasse 114","Bern, Switzerland"]}],"name":"Bern","id":"bern"}

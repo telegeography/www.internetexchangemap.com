@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"44.1838495","longitude":"28.6326799","id":18647,"address":["Strada Ion Neni\u021bescu","Constanta, Romania"]}],"name":"Constanta","id":"constanta"}

@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"51.579070","longitude":"4.929194","id":19233,"address":["Haansbergseweg 12","Rijen, Netherlands"]}],"name":"Tilburg","id":"tilburg"}

@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"45.4201706","longitude":" -75.7004403","id":8175,"address":["102 Bank Street","Suite 200","Ottawa, Canada, K1P 5H3"]}],"name":"Ottawa","id":"ottawa"}

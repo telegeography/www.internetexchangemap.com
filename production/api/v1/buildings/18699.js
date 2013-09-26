@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"value":"541 326-4212","onclick":null,"link":null},{"value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://soax.org/mn.asp?pg=default"},{"value":"Member: non-affiliated","onclick":null,"link":null}],"slug":"soax-medford-united-states","name":"SOAX"}],"id":18699,"address":["739 Welch St.","Medford, United States"]}

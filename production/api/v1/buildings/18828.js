@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"value":"mkaoruka@nic.br","onclick":null,"link":"mailto:mkaoruka@nic.br"},{"value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://ptt.br/adesao/bel/"}],"slug":"ptt-belm-brazil","name":"PTT"}],"id":18828,"address":["\u003Caddress not available\u003E","Bel\u00e9m, Brazil"]}

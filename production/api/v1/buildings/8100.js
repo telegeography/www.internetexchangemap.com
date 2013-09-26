@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.phlix.net"}],"slug":"phiix-philadelphia-united-states","name":"PhIIX"}],"id":8100,"address":["\u003Caddress not available\u003E","Philadelphia, United States"]}

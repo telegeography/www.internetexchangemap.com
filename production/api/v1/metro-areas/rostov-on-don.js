@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"47.232945","longitude":"39.714590","id":18340,"address":["Ekvant","62 Voroshilovsky Pr","Rostov-on-Don, Russia"]}],"name":"Rostov-on-Don","id":"rostov-on-don"}

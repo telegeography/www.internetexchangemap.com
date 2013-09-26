@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"43.6449668","longitude":"-79.3838101","id":8158,"address":["151 Front Street West","Toronto, Canada, M5J 2N1"]}],"name":"Toronto","id":"toronto"}

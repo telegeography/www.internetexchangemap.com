@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"51.096729","longitude":"17.036964","id":19218,"address":["Thinx Wroclaw","Joannitow 13","Wroclaw, Poland, 50-525"]}],"name":"Wroclaw","id":"wroclaw"}

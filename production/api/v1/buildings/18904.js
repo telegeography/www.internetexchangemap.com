@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"value":"info@tas-ix.uz","onclick":null,"link":"mailto:info@tas-ix.uz"},{"value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://tas-ix.uz/"}],"slug":"tas-ix-tashkent-uzbekistan","name":"TAS-IX"}],"id":18904,"address":["\u003Caddress not available\u003E","Tashkent, Uzbekistan"]}

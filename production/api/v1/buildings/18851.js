@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"value":"info@sgix.sg","onclick":null,"link":"mailto:info@sgix.sg"},{"value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://sgix.sg/en/"}],"slug":"sgix-singapore-singapore","name":"SGIX"}],"id":18851,"address":["750 Chai Chee Rd","Singapore, Singapore"]}

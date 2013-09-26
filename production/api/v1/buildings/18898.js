@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"value":"(+48 22) 527 00 00","onclick":null,"link":null},{"value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.tp-ir.pl/"}],"slug":"tpix-warsaw-poland","name":"TPIX"}],"id":18898,"address":["Nowogrodzka 10","Warsaw, Poland"]}

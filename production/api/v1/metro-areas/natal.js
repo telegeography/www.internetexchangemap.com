@@ -1,0 +1,1 @@
+{"buildings":[{"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-5.794864","longitude":"-35.211184","id":18838,"address":["\u003Caddress not available\u003E","Natal, Brazil"]}],"name":"Natal","id":"natal"}
