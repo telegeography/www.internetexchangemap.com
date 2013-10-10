@@ -17,15 +17,17 @@ class IxMap.Search
   constructor: (@map) ->
     jQuery.getJSON IxMap.Search.searchJson, (data) =>
       jQuery(IxMap.Search.searchFieldId).autocomplete {
-      position: {my: "right top", at: "right bottom" },
+      position: {my: "right top+12", at: "right bottom" },
       source: data,
       select: (event, ui) => @lookupFromSearchTerm(ui.item.value)
       }
     jQuery(IxMap.Search.searchFieldId).val("Search").focus(() ->
       jQuery(this).addClass("focus")
+      jQuery("#nav .search-container").addClass("focus")
       jQuery(this).val("") if jQuery(this).val() == "Search"
     ).blur( () ->
       jQuery(this).removeClass("focus").val("Search")
+      jQuery("#nav .search-container").removeClass("focus")
     )
 
 class IxMap.Map
