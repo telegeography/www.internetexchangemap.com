@@ -1,1 +1,1 @@
-{"buildings":[{"address":["Riverhorse Rd","Riverhorse Valley","Durban, South Africa"],"latitude":"-29.7793236","longitude":"30.9924543","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18328}],"name":"Durban","id":"durban"}
+{"name":"Durban","id":"durban","buildings":[{"address":["Riverhorse Rd","Riverhorse Valley","Durban, South Africa"],"latitude":"-29.7793236","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18328,"longitude":"30.9924543"}]}

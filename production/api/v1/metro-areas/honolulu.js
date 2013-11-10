@@ -1,1 +1,1 @@
-{"buildings":[{"address":["Pihana Honolulu","3375 Koapaka Street","Honolulu, United States, 96819"],"latitude":"21.3345206","longitude":"-157.9172975","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":8144}],"name":"Honolulu","id":"honolulu"}
+{"name":"Honolulu","id":"honolulu","buildings":[{"address":["Pihana Honolulu","3375 Koapaka Street","Honolulu, United States, 96819"],"latitude":"21.3345206","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":8144,"longitude":"-157.9172975"}]}

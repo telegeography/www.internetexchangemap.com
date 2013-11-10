@@ -1,1 +1,1 @@
-{"buildings":[{"address":["5B, Cyber Tower 1","Ebene","Le Reduit, Mauritius"],"latitude":"-20.24444160723541","longitude":"57.49214172363281","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":17848}],"name":"Mauritius","id":"mauritius"}
+{"name":"Mauritius","id":"mauritius","buildings":[{"address":["5B, Cyber Tower 1","Ebene","Le Reduit, Mauritius"],"latitude":"-20.24444160723541","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":17848,"longitude":"57.49214172363281"}]}

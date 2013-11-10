@@ -1,1 +1,1 @@
-{"buildings":[{"address":["Caro Street","Hamilton, New Zealand, 3204"],"latitude":"-37.783214","longitude":"175.2814203","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":8805}],"name":"Hamilton","id":"hamilton"}
+{"name":"Hamilton","id":"hamilton","buildings":[{"address":["Caro Street","Hamilton, New Zealand, 3204"],"latitude":"-37.783214","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":8805,"longitude":"175.2814203"}]}
