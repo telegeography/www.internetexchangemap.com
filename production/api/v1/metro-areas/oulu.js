@@ -1,1 +1,1 @@
-{"name":"Oulu","id":"oulu","buildings":[{"address":["Torikatu 18","Oulu, Finland"],"latitude":"65.0124968","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18861,"longitude":"25.4683023"}]}
+{"name":"Oulu","buildings":[{"latitude":"65.0124968","longitude":"25.4683023","address":["Torikatu 18","Oulu, Finland"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18861}],"id":"oulu"}

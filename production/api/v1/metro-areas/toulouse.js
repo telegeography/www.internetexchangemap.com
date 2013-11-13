@@ -1,1 +1,1 @@
-{"name":"Toulouse","id":"toulouse","buildings":[{"address":["29ter Chemin du Loup","Toulouse, France"],"latitude":"43.5521445","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18331,"longitude":"1.3842605"}]}
+{"name":"Toulouse","buildings":[{"latitude":"43.5521445","longitude":"1.3842605","address":["29ter Chemin du Loup","Toulouse, France"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18331}],"id":"toulouse"}

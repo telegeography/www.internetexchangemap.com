@@ -1,1 +1,1 @@
-{"name":"Svilengrad","id":"svilengrad","buildings":[{"address":["42 Lulin Planina St.","Kapitan Andreevo","Svilengrad, Bulgaria"],"latitude":"41.7200805552871","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18661,"longitude":"26.323928833007812"}]}
+{"name":"Svilengrad","buildings":[{"latitude":"41.7200805552871","longitude":"26.323928833007812","address":["42 Lulin Planina St.","Kapitan Andreevo","Svilengrad, Bulgaria"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18661}],"id":"svilengrad"}

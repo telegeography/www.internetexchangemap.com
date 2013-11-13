@@ -1,1 +1,1 @@
-{"name":"Philipsburg","id":"philipsburg","buildings":[{"address":["Falcon Drive #3","Harbor View","Philipsburg, Sint Maarten"],"latitude":"18.024872","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18806,"longitude":"-63.040284"}]}
+{"name":"Philipsburg","buildings":[{"latitude":"18.024872","longitude":"-63.040284","address":["Falcon Drive #3","Harbor View","Philipsburg, Sint Maarten"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18806}],"id":"philipsburg"}
