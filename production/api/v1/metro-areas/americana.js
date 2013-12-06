@@ -1,1 +1,1 @@
-{"name":"Americana","buildings":[{"latitude":"-22.739269","longitude":"-47.331864","address":["\u003Caddress not available\u003E","Americana, Brazil"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18827}],"id":"americana"}
+{"name":"Americana","id":"americana","buildings":[{"latitude":"-22.739269","address":["\u003Caddress not available\u003E","Americana, Brazil"],"longitude":"-47.331864","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18827}]}

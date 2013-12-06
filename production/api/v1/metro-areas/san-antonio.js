@@ -1,1 +1,1 @@
-{"name":"San Antonio","buildings":[{"latitude":"29.466508","longitude":"-98.688287","address":["9999 Westover Hills Boulevard","San Antonio, United States, 78251"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18957}],"id":"san-antonio"}
+{"name":"San Antonio","id":"san-antonio","buildings":[{"latitude":"29.466508","address":["9999 Westover Hills Boulevard","San Antonio, United States, 78251"],"longitude":"-98.688287","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18957}]}

@@ -1,1 +1,1 @@
-{"name":"Rostov-on-Don","buildings":[{"latitude":"47.232945","longitude":"39.714590","address":["Ekvant","62 Voroshilovsky Pr","Rostov-on-Don, Russia"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18340}],"id":"rostov-on-don"}
+{"name":"Rostov-on-Don","id":"rostov-on-don","buildings":[{"latitude":"47.232945","address":["Ekvant","62 Voroshilovsky Pr","Rostov-on-Don, Russia"],"longitude":"39.714590","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18340}]}
