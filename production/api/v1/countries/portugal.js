@@ -1,1 +1,1 @@
-{"name":"Portugal","id":"portugal","buildings":[{"latitude":"38.7564436","address":["Av. do Brasil, 101","Lisbon, Portugal, 1700-066"],"longitude":"-9.1465808","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":8065}]}
+{"buildings":[{"latitude":"38.7564436","longitude":"-9.1465808","address":["Av. do Brasil, 101","Lisbon, Portugal, 1700-066"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":8065}],"name":"Portugal","id":"portugal"}
