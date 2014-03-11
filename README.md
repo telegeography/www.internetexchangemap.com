@@ -32,7 +32,7 @@ This interactive map Javascript was created using the [Node.js](http://nodejs.or
 Notable Commandline examples:
 
 	# Install ember-precomile from github to get versions correct.
-	npm install --from-git git://github.com/gabrielgrant/node-ember-precompile.git
+	npm install -g --from-git git://github.com/gabrielgrant/node-ember-precompile.git
 	
 	# Used watchr to compile coffeescript/handlebars.
 	watchr bin/script.watchr
