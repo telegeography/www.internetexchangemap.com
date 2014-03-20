@@ -1,1 +1,1 @@
-{"address":["address not available","Djibouti City, Djibouti"],"id":18984,"exchanges":[{"slug":"ddc-ixp-djibouti-city-djibouti","name":"DDC IXP","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.djiboutidatacenter.com/","value":"Website"}]}]}
+{"address":["address not available","Djibouti City, Djibouti"],"exchanges":[{"slug":"ddc-ixp-djibouti-city-djibouti","name":"DDC IXP","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.djiboutidatacenter.com/","value":"Website"}]}],"id":18984}

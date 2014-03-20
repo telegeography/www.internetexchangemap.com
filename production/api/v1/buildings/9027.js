@@ -1,0 +1,1 @@
+{"address":["85 10th Avenue","New York, United States, 10111"],"exchanges":[{"slug":"de-cix-new-york-new-york-united-states","name":"DE-CIX New York","info":[]}],"id":9027}

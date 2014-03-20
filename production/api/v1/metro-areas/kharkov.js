@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"36.223262","address":["ulitsa Krasnooktyabrskaya, 6","Kharkov, Ukraine, 61012"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"49.987201","id":19191}],"name":"Kharkov","id":"kharkov"}
+{"buildings":[{"latitude":"49.987201","longitude":"36.223262","address":["ulitsa Krasnooktyabrskaya, 6","Kharkov, Ukraine, 61012"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19191}],"name":"Kharkov","id":"kharkov"}

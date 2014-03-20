@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"22.9530119","address":["Pontou 56","Kalamaria, Greece"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"40.5851096","id":18663}],"name":"Thessaloniki","id":"thessaloniki"}
+{"buildings":[{"latitude":"40.5851096","longitude":"22.9530119","address":["Pontou 56","Kalamaria, Greece"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18663}],"name":"Thessaloniki","id":"thessaloniki"}
