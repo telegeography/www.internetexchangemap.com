@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"pix-ramallah-palestinian-territory","name":"PIX","info":[]}],"address":["Palestine Internet Exchange Point","Ramallah, Palestinian Territory"],"id":19285}
+{"address":["Palestine Internet Exchange Point","Ramallah, Palestinian Territory"],"exchanges":[{"slug":"pix-ramallah-palestinian-territory","name":"PIX","info":[]}],"id":19285}
