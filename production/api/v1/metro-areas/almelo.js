@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"6.6615392","address":["Bornebroeksestraat 266","Almelo, Netherlands"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":16912,"latitude":"52.3418052"}],"name":"Almelo","id":"almelo"}
+{"name":"Almelo","id":"almelo","buildings":[{"latitude":"52.3418052","address":["Bornebroeksestraat 266","Almelo, Netherlands"],"longitude":"6.6615392","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":16912}]}

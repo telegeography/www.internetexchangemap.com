@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"-49.276709","address":["\u003Caddress not available\u003E","Curitiba, Brazil"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18672,"latitude":"-25.440024"}],"name":"Curitiba","id":"curitiba"}
+{"name":"Curitiba","id":"curitiba","buildings":[{"latitude":"-25.440024","address":["\u003Caddress not available\u003E","Curitiba, Brazil"],"longitude":"-49.276709","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18672}]}

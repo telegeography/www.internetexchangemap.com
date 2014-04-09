@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"6.8491146","address":["Auke Vleerstraat 1","Enschede, Netherlands, 7521 PE"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":8749,"latitude":"52.2372452"}],"name":"Enschede","id":"enschede"}
+{"name":"Enschede","id":"enschede","buildings":[{"latitude":"52.2372452","address":["Auke Vleerstraat 1","Enschede, Netherlands, 7521 PE"],"longitude":"6.8491146","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":8749}]}

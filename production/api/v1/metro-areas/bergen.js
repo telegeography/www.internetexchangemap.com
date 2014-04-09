@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"5.332750","address":["\u003Caddress not available\u003E","Bergen, Norway"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18818,"latitude":"60.390705"}],"name":"Bergen","id":"bergen"}
+{"name":"Bergen","id":"bergen","buildings":[{"latitude":"60.390705","address":["\u003Caddress not available\u003E","Bergen, Norway"],"longitude":"5.332750","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18818}]}

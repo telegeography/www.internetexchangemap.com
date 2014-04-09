@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"5.7652773","address":["Francois HaverSchmidtwei 3","Leeuwarden, Netherlands"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":16962,"latitude":"53.2048902"}],"name":"Leeuwarden","id":"leeuwarden"}
+{"name":"Leeuwarden","id":"leeuwarden","buildings":[{"latitude":"53.2048902","address":["Francois HaverSchmidtwei 3","Leeuwarden, Netherlands"],"longitude":"5.7652773","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":16962}]}
