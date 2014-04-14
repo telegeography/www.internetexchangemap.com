@@ -46,7 +46,7 @@ Notable Commandline examples:
 How can I download the dataset?
 --------------------------------------------------
 
-All the data is stored in GeoJSON here: [public/javascripts/buildings.geojson](https://raw.github.com/telegeography/www.internetexchangemap.com/master/public/javascripts/buildings.geojson)
+All the data is stored in GeoJSON here: [public/javascripts/buildings.geojson](https://raw.githubusercontent.com/telegeography/www.internetexchangemap.com/master/production/api/v1/buildings.geojson)
 
 
 
