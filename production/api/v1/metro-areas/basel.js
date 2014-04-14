@@ -1,1 +1,1 @@
-{"name":"Basel","id":"basel","buildings":[{"latitude":"47.5466386","address":["IWB Telehouse","Margarethenstrasse 40","Basel, Switzerland, 4002"],"longitude":"7.583704","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":15034}]}
+{"name":"Basel","buildings":[{"address":["IWB Telehouse","Margarethenstrasse 40","Basel, Switzerland, 4002"],"latitude":"47.5466386","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"7.583704","id":15034}],"id":"basel"}

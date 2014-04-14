@@ -1,1 +1,1 @@
-{"name":"Bialystok","id":"bialystok","buildings":[{"latitude":"53.129196","address":["Thinx Bialystok","Legionowa 28","Bialystok, Poland, 15-281"],"longitude":"23.154811","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19210}]}
+{"name":"Bialystok","buildings":[{"address":["Thinx Bialystok","Legionowa 28","Bialystok, Poland, 15-281"],"latitude":"53.129196","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"23.154811","id":19210}],"id":"bialystok"}

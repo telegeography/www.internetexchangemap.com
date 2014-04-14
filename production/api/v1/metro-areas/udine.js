@@ -1,1 +1,1 @@
-{"name":"Udine","id":"udine","buildings":[{"latitude":"46.0765737","address":["InAsset Business Data Center","Via Spilimbergo, 70","Pasian di Prato","Udine, Italy"],"longitude":"13.1867462","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":16840}]}
+{"name":"Udine","buildings":[{"address":["InAsset Business Data Center","Via Spilimbergo, 70","Pasian di Prato","Udine, Italy"],"latitude":"46.0765737","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"13.1867462","id":16840}],"id":"udine"}

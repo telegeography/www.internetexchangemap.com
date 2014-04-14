@@ -1,1 +1,1 @@
-{"name":"Deventer","id":"deventer","buildings":[{"latitude":"52.2519722","address":["Fire station","Schonenvaardersstraat 5","Deventer, Netherlands"],"longitude":"6.1770874","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":16915}]}
+{"name":"Deventer","buildings":[{"address":["Fire station","Schonenvaardersstraat 5","Deventer, Netherlands"],"latitude":"52.2519722","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"6.1770874","id":16915}],"id":"deventer"}

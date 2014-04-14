@@ -1,1 +1,1 @@
-{"name":"Djibouti","id":"djibouti","buildings":[{"latitude":"11.588000","address":["address not available","Djibouti City, Djibouti"],"longitude":"43.145000","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18984}]}
+{"name":"Djibouti","buildings":[{"address":["address not available","Djibouti City, Djibouti"],"latitude":"11.588000","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"43.145000","id":18984}],"id":"djibouti"}

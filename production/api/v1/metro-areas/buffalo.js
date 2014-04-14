@@ -1,1 +1,1 @@
-{"name":"Buffalo","id":"buffalo","buildings":[{"latitude":"42.884423","address":["350 Main Street","Buffalo, United States, 14202"],"longitude":"-78.875452","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":14676}]}
+{"name":"Buffalo","buildings":[{"address":["350 Main Street","Buffalo, United States, 14202"],"latitude":"42.884423","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-78.875452","id":14676}],"id":"buffalo"}

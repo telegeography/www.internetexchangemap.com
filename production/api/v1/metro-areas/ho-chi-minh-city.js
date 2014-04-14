@@ -1,1 +1,1 @@
-{"name":"Ho Chi Minh City","id":"ho-chi-minh-city","buildings":[{"latitude":"10.759180","address":["\u003Caddress not available\u003E","Ho Chi Minh City, Vietnam"],"longitude":"106.662498","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":16549}]}
+{"name":"Ho Chi Minh City","buildings":[{"address":["\u003Caddress not available\u003E","Ho Chi Minh City, Vietnam"],"latitude":"10.759180","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"106.662498","id":16549}],"id":"ho-chi-minh-city"}

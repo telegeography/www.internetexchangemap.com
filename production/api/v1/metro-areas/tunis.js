@@ -1,1 +1,1 @@
-{"name":"Tunis","id":"tunis","buildings":[{"latitude":"36.798672","address":["\u003Caddress not available\u003E","Tunis, Tunisia"],"longitude":"10.172630","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18846}]}
+{"name":"Tunis","buildings":[{"address":["\u003Caddress not available\u003E","Tunis, Tunisia"],"latitude":"36.798672","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"10.172630","id":18846}],"id":"tunis"}
