@@ -1,1 +1,1 @@
-{"name":"Stavanger","buildings":[{"address":["\u003Caddress not available\u003E","Stavanger, Norway"],"latitude":"58.970833","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"5.730794","id":18337}],"id":"stavanger"}
+{"name":"Stavanger","id":"stavanger","buildings":[{"latitude":"58.970833","address":["\u003Caddress not available\u003E","Stavanger, Norway"],"longitude":"5.730794","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18337}]}

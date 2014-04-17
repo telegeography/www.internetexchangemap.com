@@ -1,1 +1,1 @@
-{"name":"Gliwice","buildings":[{"address":["Thinx Gliwice","Wybrzeze Armii Krajowej 17","Gliwice, Poland, 44-102"],"latitude":"50.302271","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"18.662266","id":19212}],"id":"gliwice"}
+{"name":"Gliwice","id":"gliwice","buildings":[{"latitude":"50.302271","address":["Thinx Gliwice","Wybrzeze Armii Krajowej 17","Gliwice, Poland, 44-102"],"longitude":"18.662266","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19212}]}

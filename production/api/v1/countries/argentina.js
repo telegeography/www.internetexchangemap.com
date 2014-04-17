@@ -1,1 +1,1 @@
-{"name":"Argentina","buildings":[{"address":["Suipacha 128, 3 F","Buenos Aires, Argentina, C1008AAD"],"latitude":"-34.6068469","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-58.3792938","id":8108}],"id":"argentina"}
+{"name":"Argentina","id":"argentina","buildings":[{"latitude":"-34.6068469","address":["Suipacha 128, 3 F","Buenos Aires, Argentina, C1008AAD"],"longitude":"-58.3792938","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":8108}]}

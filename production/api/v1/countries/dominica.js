@@ -1,1 +1,1 @@
-{"name":"Dominica","buildings":[{"address":["26 King George V Street","Roseau, Dominica"],"latitude":"15.299781","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-61.384364","id":19288}],"id":"dominica"}
+{"name":"Dominica","id":"dominica","buildings":[{"latitude":"15.299781","address":["26 King George V Street","Roseau, Dominica"],"longitude":"-61.384364","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19288}]}

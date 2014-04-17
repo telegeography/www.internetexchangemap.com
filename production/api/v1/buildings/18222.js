@@ -1,1 +1,1 @@
-{"address":["\u003Caddress not available\u003E","Piscataway, United States"],"id":18222,"exchanges":[{"slug":"ams-ix-new-york-new-york-united-states","name":"AMS-IX New York","info":[]}]}
+{"exchanges":[{"slug":"ams-ix-new-york-new-york-united-states","name":"AMS-IX New York","info":[]}],"address":["\u003Caddress not available\u003E","Piscataway, United States"],"id":18222}

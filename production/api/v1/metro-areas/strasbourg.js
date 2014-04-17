@@ -1,1 +1,1 @@
-{"name":"Strasbourg","buildings":[{"address":["1 rue Saint L\u00e9on","Strasbourg, France, 67000"],"latitude":"48.5886982","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"7.7484412","id":15141}],"id":"strasbourg"}
+{"name":"Strasbourg","id":"strasbourg","buildings":[{"latitude":"48.5886982","address":["1 rue Saint L\u00e9on","Strasbourg, France, 67000"],"longitude":"7.7484412","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":15141}]}
