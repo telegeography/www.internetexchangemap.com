@@ -1,0 +1,1 @@
+{"exchanges":[{"slug":"netix-sofia-bulgaria","name":"NETIX","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://netix.net","value":"Website"}]}],"address":["3 Grigoriy Gorbatenko","ulitsa 3 Grigoriy Gorbatenko","Sofia, Bulgaria, 1784"],"id":19293}

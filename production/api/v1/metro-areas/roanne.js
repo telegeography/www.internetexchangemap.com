@@ -1,1 +1,1 @@
-{"name":"Roanne","id":"roanne","buildings":[{"latitude":"46.05931","address":["27 Rue Lucien Langenieux","Roanne, France, 42300"],"longitude":"4.080863","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18892}]}
+{"buildings":[{"latitude":"46.05931","longitude":"4.080863","address":["27 Rue Lucien Langenieux","Roanne, France, 42300"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18892}],"name":"Roanne","id":"roanne"}
