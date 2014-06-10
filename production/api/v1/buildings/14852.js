@@ -1,0 +1,1 @@
+{"address":["49 Rue Emile Hugues","Sophia-Antipolis, France, 06600 "],"exchanges":[{"slug":"nicix-nice-france","name":"NicIX","info":[]}],"id":14852}

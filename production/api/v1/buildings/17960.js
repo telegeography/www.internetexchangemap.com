@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"linx-nova-washington-united-states","name":"LINX NoVA","info":[]}],"address":["44480 Hastings Drive","Ashburn, United States"],"id":17960}
+{"address":["44480 Hastings Drive","Ashburn, United States"],"exchanges":[{"slug":"linx-nova-washington-united-states","name":"LINX NoVA","info":[]}],"id":17960}

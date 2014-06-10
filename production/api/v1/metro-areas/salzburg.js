@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"47.8229807","longitude":"13.0392849","address":["Schillerstrasse 30","Salzburg, Austria"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18033}],"name":"Salzburg","id":"salzburg"}
+{"buildings":[{"longitude":"13.0392849","address":["Schillerstrasse 30","Salzburg, Austria"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18033,"latitude":"47.8229807"}],"name":"Salzburg","id":"salzburg"}
