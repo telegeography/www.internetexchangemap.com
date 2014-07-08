@@ -1,0 +1,1 @@
+{"exchanges":[{"slug":"netnod-comix-copenhagen-denmark","name":"Netnod COMIX","info":[{"onclick":null,"link":null,"value":"46 8 562 860 11"},{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.netnod.se/ix/comix","value":"Website"}]}],"address":["Metrovej 1","Bldg 1","Copenhagen, Denmark, 2300"],"id":8839}

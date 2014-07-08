@@ -1,0 +1,1 @@
+{"exchanges":[{"slug":"ix-scotland-edinburgh-united-kingdom","name":"IX Scotland","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"https://www.linx.net/service/publicpeering/ixscotland","value":"Website"}]}],"address":["Unit 15 Clocktower Estate, South Gyle Crescent","Edinburgh, United Kingdom,  EH12 9LB"],"id":19131}
