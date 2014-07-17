@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"ams-ix-new-york-new-york-united-states","name":"AMS-IX New York","info":[]}],"address":["101 Possumtown Rd","Piscataway, United States"],"id":18222}
+{"address":["101 Possumtown Rd","Piscataway, United States"],"exchanges":[{"slug":"ams-ix-new-york-new-york-united-states","name":"AMS-IX New York","info":[]}],"id":18222}

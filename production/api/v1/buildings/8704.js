@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"ams-ix-new-york-new-york-united-states","name":"AMS-IX New York","info":[]},{"slug":"de-cix-new-york-new-york-united-states","name":"DE-CIX New York","info":[]}],"address":["325 Hudson Street","New York, United States, 10013"],"id":8704}
+{"address":["325 Hudson Street","New York, United States, 10013"],"exchanges":[{"slug":"ams-ix-new-york-new-york-united-states","name":"AMS-IX New York","info":[]},{"slug":"de-cix-new-york-new-york-united-states","name":"DE-CIX New York","info":[]}],"id":8704}
