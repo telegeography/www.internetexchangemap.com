@@ -1,0 +1,1 @@
+{"address":["Hollyhill Industrial Estate","Cork, Ireland"],"exchanges":[{"slug":"cix-cork-ireland","name":"CIX","info":[{"onclick":null,"link":null,"value":"353 21 485 4300"},{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.cix.ie","value":"Website"},{"onclick":null,"link":null,"value":"Online since: March 2008"}]}],"id":19497}

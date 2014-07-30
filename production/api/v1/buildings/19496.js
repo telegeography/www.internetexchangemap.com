@@ -1,0 +1,1 @@
+{"address":["840 7th Avenue SW","Calgary, Canada"],"exchanges":[{"slug":"yycix-calgary-canada","name":"YYCIX","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://yycix.ca","value":"Website"}]}],"id":19496}

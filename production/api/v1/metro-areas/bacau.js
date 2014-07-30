@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"46.5678155","longitude":" 26.9112897","address":["Strada Nicolae B\u0103lcescu","Bacau, Romania"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18641}],"name":"Bacau","id":"bacau"}
+{"name":"Bacau","id":"bacau","buildings":[{"address":["Strada Nicolae B\u0103lcescu","Bacau, Romania"],"latitude":"46.5678155","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":" 26.9112897","id":18641}]}

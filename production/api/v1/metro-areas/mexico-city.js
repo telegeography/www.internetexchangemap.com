@@ -1,0 +1,1 @@
+{"name":"Mexico City","id":"mexico-city","buildings":[{"address":["Paseo de la Reforma 2977","Mexico City, Mexico"],"latitude":"19.363473","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-99.280877","id":19499}]}
