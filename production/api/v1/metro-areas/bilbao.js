@@ -1,1 +1,1 @@
-{"name":"Bilbao","id":"bilbao","buildings":[{"address":["\u003Caddress not available\u003E","Bilbao, Spain"],"latitude":"43.268582","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-2.946141","id":18821}]}
+{"buildings":[{"latitude":"43.268582","longitude":"-2.946141","address":["\u003Caddress not available\u003E","Bilbao, Spain"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18821}],"name":"Bilbao","id":"bilbao"}
