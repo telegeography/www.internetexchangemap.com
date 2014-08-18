@@ -1,0 +1,1 @@
+{"exchanges":[{"slug":"smile-riga-latvia","name":"SMILE","info":[{"onclick":null,"link":null,"value":"371 7035 382"},{"onclick":null,"link":"mailto:info@smn.lv","value":"info@smn.lv"},{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.smile-ixp.net/","value":"Website"}]}],"address":["P\u0113rses iela 2","Centra rajons","Riga, Latvia"],"id":19588}
