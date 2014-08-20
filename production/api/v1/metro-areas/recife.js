@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"-8.055384","longitude":"-34.872004","address":["\u003Caddress not available\u003E","Recife, Brazil"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18839}],"name":"Recife","id":"recife"}
+{"buildings":[{"latitude":"-8.055384","address":["\u003Caddress not available\u003E","Recife, Brazil"],"longitude":"-34.872004","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18839}],"name":"Recife","id":"recife"}
