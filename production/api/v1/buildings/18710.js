@@ -1,1 +1,1 @@
-{"address":["V\u00e4stergatan 4","Malm\u00f6, Sweden"],"exchanges":[{"slug":"ixor-malm-sweden","name":"IXOR","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.ixor.se","value":"Website"}]}],"id":18710}
+{"exchanges":[{"slug":"ixor-malm-sweden","name":"IXOR","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.ixor.se","value":"Website"}]}],"address":["V\u00e4stergatan 4","Malm\u00f6, Sweden"],"id":18710}

@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"26.2703891","address":["5-2-1 Makinami","Urazoe City","Okinawa, Japan"],"longitude":"127.7180781","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":16906}],"name":"Okinawa","id":"okinawa"}
+{"buildings":[{"latitude":"26.2703891","longitude":"127.7180781","address":["5-2-1 Makinami","Urazoe City","Okinawa, Japan"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":16906}],"name":"Okinawa","id":"okinawa"}
