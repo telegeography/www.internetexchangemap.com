@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"ixor-malm-sweden","name":"IXOR","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.ixor.se","value":"Website"}]}],"address":["Krossverksgatan 13","Limhamn, Sweden"],"id":18708}
+{"address":["Krossverksgatan 13","Limhamn, Sweden"],"exchanges":[{"slug":"ixor-malm-sweden","name":"IXOR","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.ixor.se","value":"Website"}]}],"id":18708}
