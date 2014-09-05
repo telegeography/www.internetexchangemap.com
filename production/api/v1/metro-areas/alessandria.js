@@ -1,0 +1,1 @@
+{"buildings":[{"address":["Lungo Tanaro Magenta 7a","Alessandria, Italy"],"latitude":"44.907262","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"8.610980","id":19619}],"name":"Alessandria","id":"alessandria"}
