@@ -1,1 +1,1 @@
-{"buildings":[{"address":["CCIT ","Calle 114","No. 9-01","Torre A Of. 812","Bogot\u00e1, Colombia"],"latitude":"4.6976276","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-74.0670942","id":8111}],"name":"Bogot\u00e1","id":"bogot"}
+{"buildings":[{"latitude":"4.6976276","longitude":"-74.0670942","address":["CCIT ","Calle 114","No. 9-01","Torre A Of. 812","Bogot\u00e1, Colombia"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":8111}],"name":"Bogot\u00e1","id":"bogot"}
