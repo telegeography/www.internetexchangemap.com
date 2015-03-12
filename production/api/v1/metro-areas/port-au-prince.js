@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"18.507752","address":["Observatoire Boutilliers","Port-au-Prince, Haiti"],"longitude":"-72.316475","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19287}],"name":"Port-au-Prince","id":"port-au-prince"}
+{"name":"Port-au-Prince","id":"port-au-prince","buildings":[{"latitude":"18.507752","longitude":"-72.316475","address":["Observatoire Boutilliers","Port-au-Prince, Haiti"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19287}]}

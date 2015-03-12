@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"-16.500000","address":["\u003Caddress not available\u003E","La Paz, Bolivia"],"longitude":"-68.150000","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19498}],"name":"La Paz","id":"la-paz"}
+{"name":"La Paz","id":"la-paz","buildings":[{"latitude":"-16.500000","longitude":"-68.150000","address":["\u003Caddress not available\u003E","La Paz, Bolivia"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19498}]}
