@@ -1,1 +1,1 @@
-{"name":"Gambia","id":"gambia","buildings":[{"latitude":"13.459619","longitude":"-16.685641","address":["Kairaba Avenue","Serekunda, Gambia"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19407}]}
+{"buildings":[{"latitude":"13.459619","longitude":"-16.685641","address":["Kairaba Avenue","Serekunda, Gambia"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19407}],"name":"Gambia","id":"gambia"}

@@ -1,1 +1,1 @@
-{"name":"Innsbruck","id":"innsbruck","buildings":[{"latitude":"47.265733","longitude":"11.435815","address":["Eduard Bodem Gasse 2","Innsbruck, Austria"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18862}]}
+{"buildings":[{"latitude":"47.265733","longitude":"11.435815","address":["Eduard Bodem Gasse 2","Innsbruck, Austria"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18862}],"name":"Innsbruck","id":"innsbruck"}

@@ -1,1 +1,1 @@
-{"name":"Alessandria","id":"alessandria","buildings":[{"latitude":"44.9213","longitude":"8.6144","address":["Lungo Tanaro Magenta 7a","Alessandria, Italy"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19619}]}
+{"buildings":[{"latitude":"44.9213","longitude":"8.6144","address":["Lungo Tanaro Magenta 7a","Alessandria, Italy"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19619}],"name":"Alessandria","id":"alessandria"}
