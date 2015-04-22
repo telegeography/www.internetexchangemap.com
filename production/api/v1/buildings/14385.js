@@ -1,1 +1,1 @@
-{"address":["1025Connect","1025 Old Country Road","Westbury, United States, 11590"],"id":14385,"exchanges":[{"slug":"de-cix-new-york-new-york-united-states","name":"DE-CIX New York","info":[]}]}
+{"address":["1025Connect","1025 Old Country Road","Westbury, United States, 11590"],"exchanges":[{"slug":"de-cix-new-york-new-york-united-states","name":"DE-CIX New York","info":[]}],"id":14385}

@@ -1,0 +1,1 @@
+{"address":["Karolingerstrasse 36A","Salzburg, Austria, 5020"],"exchanges":[{"slug":"saix-salzburg-austria","name":"SAIX","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.saix.at","value":"Website"}]}],"id":19639}
