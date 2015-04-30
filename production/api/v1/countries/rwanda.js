@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"-1.9599205","longitude":"30.1087924","address":["Telecom House, 3rd Floor","Boulevar de L \u2018Umuganda","P.O. Box 7229","Kigali, Rwanda"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":15163}],"name":"Rwanda","id":"rwanda"}
+{"name":"Rwanda","buildings":[{"longitude":"30.1087924","address":["Telecom House, 3rd Floor","Boulevar de L \u2018Umuganda","P.O. Box 7229","Kigali, Rwanda"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":15163,"latitude":"-1.9599205"}],"id":"rwanda"}

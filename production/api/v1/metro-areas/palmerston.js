@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"-40.3575581","longitude":"175.6076901","address":["325 Main Street","Palmerston, New Zealand, 4410"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18808}],"name":"Palmerston","id":"palmerston"}
+{"name":"Palmerston","buildings":[{"longitude":"175.6076901","address":["325 Main Street","Palmerston, New Zealand, 4410"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18808,"latitude":"-40.3575581"}],"id":"palmerston"}

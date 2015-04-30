@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"-25.949065","longitude":" 32.600749","address":["Rua da Reserva da Universidade","Maputo, Mozambique"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19593}],"name":"Mozambique","id":"mozambique"}
+{"name":"Mozambique","buildings":[{"longitude":" 32.600749","address":["Rua da Reserva da Universidade","Maputo, Mozambique"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19593,"latitude":"-25.949065"}],"id":"mozambique"}

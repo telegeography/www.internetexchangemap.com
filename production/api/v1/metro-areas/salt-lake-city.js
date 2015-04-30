@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"40.759505","longitude":"-111.888229","address":["\u003Caddress not available\u003E","Salt Lake City, United States"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":9901}],"name":"Salt Lake City","id":"salt-lake-city"}
+{"name":"Salt Lake City","buildings":[{"longitude":"-111.888229","address":["\u003Caddress not available\u003E","Salt Lake City, United States"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":9901,"latitude":"40.759505"}],"id":"salt-lake-city"}

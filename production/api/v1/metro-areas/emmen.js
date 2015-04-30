@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"52.778329","longitude":"6.912023","address":["Kenniscampus Emmen, Stenden University","Van Schaikweg 94","Emmen, Netherlands"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18336}],"name":"Emmen","id":"emmen"}
+{"name":"Emmen","buildings":[{"longitude":"6.912023","address":["Kenniscampus Emmen, Stenden University","Van Schaikweg 94","Emmen, Netherlands"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18336,"latitude":"52.778329"}],"id":"emmen"}
