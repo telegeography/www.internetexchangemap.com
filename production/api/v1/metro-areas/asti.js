@@ -1,1 +1,1 @@
-{"name":"Asti","buildings":[{"longitude":"8.226026","address":["Viale Pilone 111","Asti, Italy"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19620,"latitude":"44.904831"}],"id":"asti"}
+{"buildings":[{"address":["Viale Pilone 111","Asti, Italy"],"latitude":"44.904831","longitude":"8.226026","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19620}],"name":"Asti","id":"asti"}
