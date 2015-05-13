@@ -1,1 +1,1 @@
-{"name":"Roadtown","buildings":[{"longitude":"-64.620762","address":["\u003Caddress not available\u003E","Road Town, Virgin Islands (U.K.)"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19289,"latitude":"18.426997"}],"id":"roadtown"}
+{"buildings":[{"address":["\u003Caddress not available\u003E","Road Town, Virgin Islands (U.K.)"],"latitude":"18.426997","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-64.620762","id":19289}],"name":"Roadtown","id":"roadtown"}

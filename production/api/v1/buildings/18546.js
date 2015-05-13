@@ -1,1 +1,1 @@
-{"address":["20 Cejl Street","Brno, Czech Republic"],"exchanges":[{"info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.cbix.cz/cbix/en/","value":"Website"}],"slug":"cbix-brno-czech-republic","name":"CBIX"}],"id":18546}
+{"exchanges":[{"slug":"cbix-brno-czech-republic","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.cbix.cz/cbix/en/","value":"Website"}],"name":"CBIX"}],"address":["20 Cejl Street","Brno, Czech Republic"],"id":18546}

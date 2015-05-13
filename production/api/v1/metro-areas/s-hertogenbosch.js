@@ -1,1 +1,1 @@
-{"name":"s-Hertogenbosch","buildings":[{"longitude":"5.038839","address":["Haven 7","Gragtmansstraat 1B","Waalwijk, Netherlands"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19227,"latitude":"51.697423"}],"id":"s-hertogenbosch"}
+{"buildings":[{"address":["Haven 7","Gragtmansstraat 1B","Waalwijk, Netherlands"],"latitude":"51.697423","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"5.038839","id":19227}],"name":"s-Hertogenbosch","id":"s-hertogenbosch"}

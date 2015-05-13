@@ -1,1 +1,1 @@
-{"name":"Hilversum","buildings":[{"longitude":"5.1726535","address":["Sumatralaan 45","Hilversum, Netherlands"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":15145,"latitude":"52.2351344"}],"id":"hilversum"}
+{"buildings":[{"address":["Sumatralaan 45","Hilversum, Netherlands"],"latitude":"52.2351344","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"5.1726535","id":15145}],"name":"Hilversum","id":"hilversum"}

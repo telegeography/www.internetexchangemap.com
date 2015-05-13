@@ -1,1 +1,1 @@
-{"name":"Stuttgart","buildings":[{"longitude":"9.1711915","address":["Zettachring 10","Stuttgart, Germany, 70567"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":14748,"latitude":"48.7088507"}],"id":"stuttgart"}
+{"buildings":[{"address":["Zettachring 10","Stuttgart, Germany, 70567"],"latitude":"48.7088507","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"9.1711915","id":14748}],"name":"Stuttgart","id":"stuttgart"}

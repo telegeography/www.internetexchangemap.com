@@ -1,1 +1,1 @@
-{"name":"Florence","buildings":[{"longitude":"11.254995","address":["\u003Caddress not available\u003E","Florence, Italy"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":15316,"latitude":"43.782370"}],"id":"florence"}
+{"buildings":[{"address":["\u003Caddress not available\u003E","Florence, Italy"],"latitude":"43.782370","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"11.254995","id":15316}],"name":"Florence","id":"florence"}

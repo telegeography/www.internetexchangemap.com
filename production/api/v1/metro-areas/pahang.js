@@ -1,1 +1,1 @@
-{"name":"Pahang","buildings":[{"longitude":"103.325011","address":["Jalan Putra Square 4","Pahang, Malaysia, 25200"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18857,"latitude":"3.817566"}],"id":"pahang"}
+{"buildings":[{"address":["Jalan Putra Square 4","Pahang, Malaysia, 25200"],"latitude":"3.817566","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"103.325011","id":18857}],"name":"Pahang","id":"pahang"}

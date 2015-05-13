@@ -1,1 +1,1 @@
-{"name":"Fujairah","buildings":[{"longitude":"56.352568","address":["\u003Caddress not available\u003E","Fujairah, United Arab Emirates"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19305,"latitude":"25.117388"}],"id":"fujairah"}
+{"buildings":[{"address":["\u003Caddress not available\u003E","Fujairah, United Arab Emirates"],"latitude":"25.117388","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"56.352568","id":19305}],"name":"Fujairah","id":"fujairah"}

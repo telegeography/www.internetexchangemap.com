@@ -1,0 +1,1 @@
+{"exchanges":[{"slug":"epix-warsaw-poland","info":[{"onclick":null,"link":null,"value":"48 603 872 078"},{"onclick":null,"link":"mailto:info@epix.net.pl","value":"info@epix.net.pl"},{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.epix.net.pl/","value":"Website"}],"name":"EPIX"}],"address":["Jerozolimskie 81","Warsaw, Poland"],"id":19643}
