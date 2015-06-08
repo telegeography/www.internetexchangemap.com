@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"wixp-windhoek-namibia","info":[{"onclick":null,"link":null,"value":"Online since: March 2014"}],"name":"WIXP"}],"address":["\u003Caddress not available\u003E","Windhoek, Namibia"],"id":17928}
+{"address":["\u003Caddress not available\u003E","Windhoek, Namibia"],"exchanges":[{"info":[{"onclick":null,"link":null,"value":"Online since: March 2014"}],"slug":"wixp-windhoek-namibia","name":"WIXP"}],"id":17928}

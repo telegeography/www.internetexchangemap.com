@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"mb-ix-mbabane-swaziland","info":[{"onclick":null,"link":null,"value":"Online since: April 2014"}],"name":"MB-IX"}],"address":["\u003Caddress not available\u003E","Mbabane, Swaziland"],"id":19292}
+{"address":["\u003Caddress not available\u003E","Mbabane, Swaziland"],"exchanges":[{"info":[{"onclick":null,"link":null,"value":"Online since: April 2014"}],"slug":"mb-ix-mbabane-swaziland","name":"MB-IX"}],"id":19292}
