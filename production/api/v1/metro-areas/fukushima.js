@@ -1,0 +1,1 @@
+{"buildings":[{"address":["Fukushima ","Fukushima, Japan"],"latitude":"37.760834","longitude":"140.474728","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":8891}],"name":"Fukushima","id":"fukushima"}

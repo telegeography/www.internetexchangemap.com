@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"2.925088","longitude":"101.657381","address":["CSF Computer Exchange","3552, Jalan Tenikrat 6","Cyberjaya, Malaysia, 63000"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":17164}],"name":"Cyberjaya","id":"cyberjaya"}
+{"name":"Cyberjaya","id":"cyberjaya","buildings":[{"latitude":"4.210484","address":["No. 1, Jalan Cyber Point 4, Cyber 8","Cyberjaya, Malaysia, 63000"],"longitude":"101.975766","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":17164}]}

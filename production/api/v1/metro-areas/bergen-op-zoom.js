@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"51.587535","longitude":"4.305055","address":["Drukkerij 6","Steenbergen, Netherlands, 4651"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19246}],"name":"Bergen op Zoom","id":"bergen-op-zoom"}
+{"name":"Bergen op Zoom","id":"bergen-op-zoom","buildings":[{"latitude":"51.587535","address":["Drukkerij 6","Steenbergen, Netherlands, 4651"],"longitude":"4.305055","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19246}]}

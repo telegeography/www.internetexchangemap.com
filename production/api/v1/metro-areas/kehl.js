@@ -1,0 +1,1 @@
+{"name":"Kehl","id":"kehl","buildings":[{"latitude":"48.578355","address":["Hafenstrasse 3","Kehl, Germany, 77694"],"longitude":"7.803896","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":15243}]}
