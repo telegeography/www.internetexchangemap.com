@@ -1,1 +1,1 @@
-{"name":"Campinas","id":"campinas","buildings":[{"latitude":"-22.909049","address":["\u003Caddress not available\u003E","Campinas, Brazil"],"longitude":"-47.064594","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18833}]}
+{"buildings":[{"address":["\u003Caddress not available\u003E","Campinas, Brazil"],"latitude":"-22.909049","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18833,"longitude":"-47.064594"}],"name":"Campinas","id":"campinas"}

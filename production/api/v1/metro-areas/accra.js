@@ -1,1 +1,1 @@
-{"name":"Accra","id":"accra","buildings":[{"latitude":"5.559646","address":["AITI-KACE","Accra, Ghana"],"longitude":"-0.1920162","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":15160}]}
+{"buildings":[{"address":["AITI-KACE","Accra, Ghana"],"latitude":"5.559646","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":15160,"longitude":"-0.1920162"}],"name":"Accra","id":"accra"}

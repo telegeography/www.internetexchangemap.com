@@ -1,1 +1,1 @@
-{"name":"Campina Grande","id":"campina-grande","buildings":[{"latitude":"-7.224054","address":["\u003Caddress not available\u003E","Campina Grande, Brazil"],"longitude":"-35.890949","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18832}]}
+{"buildings":[{"address":["\u003Caddress not available\u003E","Campina Grande, Brazil"],"latitude":"-7.224054","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18832,"longitude":"-35.890949"}],"name":"Campina Grande","id":"campina-grande"}

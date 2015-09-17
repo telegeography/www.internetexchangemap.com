@@ -1,1 +1,1 @@
-{"name":"Cluj Napoca","id":"cluj-napoca","buildings":[{"latitude":"46.7724682","address":["Strada Octavian Petrovici","Cluj Napoca, Romania"],"longitude":"23.5873964","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18642}]}
+{"buildings":[{"address":["Strada Octavian Petrovici","Cluj Napoca, Romania"],"latitude":"46.7724682","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18642,"longitude":"23.5873964"}],"name":"Cluj Napoca","id":"cluj-napoca"}

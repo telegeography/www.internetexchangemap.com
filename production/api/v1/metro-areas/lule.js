@@ -1,1 +1,1 @@
-{"name":"Lule\u00e5","id":"lule","buildings":[{"latitude":"65.583890","address":["\u003Caddress not available\u003E","Lule\u00e5, Sweden"],"longitude":"22.152275","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18807}]}
+{"buildings":[{"address":["\u003Caddress not available\u003E","Lule\u00e5, Sweden"],"latitude":"65.583890","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18807,"longitude":"22.152275"}],"name":"Lule\u00e5","id":"lule"}

@@ -1,1 +1,1 @@
-{"name":"Cardiff","id":"cardiff","buildings":[{"latitude":"51.478187","address":["5 Park Street","Cardiff, United Kingdom"],"longitude":"-3.180582","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19613}]}
+{"buildings":[{"address":["5 Park Street","Cardiff, United Kingdom"],"latitude":"51.478187","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19613,"longitude":"-3.180582"}],"name":"Cardiff","id":"cardiff"}

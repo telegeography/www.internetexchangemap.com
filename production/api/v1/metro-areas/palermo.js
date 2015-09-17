@@ -1,1 +1,1 @@
-{"name":"Palermo","id":"palermo","buildings":[{"latitude":"38.158095","address":["Via Ugo La Malfa 28","Palermo, Italy"],"longitude":"13.317140","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19638}]}
+{"buildings":[{"address":["Via Ugo La Malfa 28","Palermo, Italy"],"latitude":"38.158095","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19638,"longitude":"13.317140"}],"name":"Palermo","id":"palermo"}

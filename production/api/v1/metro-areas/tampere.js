@@ -1,1 +1,1 @@
-{"name":"Tampere","id":"tampere","buildings":[{"latitude":"61.4966686","address":["Kuninkaankatu 30 b","Tampere, Finland, FI-33200"],"longitude":"23.7573307","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":15140}]}
+{"buildings":[{"address":["Kuninkaankatu 30 b","Tampere, Finland, FI-33200"],"latitude":"61.4966686","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":15140,"longitude":"23.7573307"}],"name":"Tampere","id":"tampere"}
