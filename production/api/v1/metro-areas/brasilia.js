@@ -1,1 +1,1 @@
-{"buildings":[{"address":["\u003Caddress not available\u003E","Brasilia, Brazil"],"latitude":"-15.778460","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18831,"longitude":"-47.928661"}],"name":"Brasilia","id":"brasilia"}
+{"buildings":[{"address":["\u003Caddress not available\u003E","Brasilia, Brazil"],"latitude":"-15.778460","longitude":"-47.928661","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18831}],"name":"Brasilia","id":"brasilia"}

@@ -1,1 +1,1 @@
-{"buildings":[{"address":["University of Malta","Computing Services Centre","Msida, Malta"],"latitude":"35.90334713838345","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":8062,"longitude":"14.484368562698364"}],"name":"Malta","id":"malta"}
+{"buildings":[{"address":["University of Malta","Computing Services Centre","Msida, Malta"],"latitude":"35.90334713838345","longitude":"14.484368562698364","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":8062}],"name":"Malta","id":"malta"}

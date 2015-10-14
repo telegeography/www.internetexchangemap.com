@@ -1,1 +1,1 @@
-{"buildings":[{"address":["\u003Caddress not available\u003E","Troms\u00f8, Norway"],"latitude":"69.651025","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18339,"longitude":"18.955740"}],"name":"Troms\u00f8","id":"troms"}
+{"buildings":[{"address":["\u003Caddress not available\u003E","Troms\u00f8, Norway"],"latitude":"69.651025","longitude":"18.955740","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18339}],"name":"Troms\u00f8","id":"troms"}

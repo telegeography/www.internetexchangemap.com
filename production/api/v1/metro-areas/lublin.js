@@ -1,1 +1,1 @@
-{"buildings":[{"address":["Thinx Lublin","Okopowa 5","Lublin, Poland, 20-022"],"latitude":"51.245263","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19214,"longitude":"22.555848"}],"name":"Lublin","id":"lublin"}
+{"buildings":[{"address":["Thinx Lublin","Okopowa 5","Lublin, Poland, 20-022"],"latitude":"51.245263","longitude":"22.555848","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19214}],"name":"Lublin","id":"lublin"}

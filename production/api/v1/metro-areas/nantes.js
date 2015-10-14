@@ -1,1 +1,1 @@
-{"buildings":[{"address":["16 quai Ernest Renaud","CS 90517","Nantes, France, 44 105"],"latitude":"47.206208","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19391,"longitude":"-1.574240"}],"name":"Nantes","id":"nantes"}
+{"buildings":[{"address":["16 quai Ernest Renaud","CS 90517","Nantes, France, 44 105"],"latitude":"47.206208","longitude":"-1.574240","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19391}],"name":"Nantes","id":"nantes"}
