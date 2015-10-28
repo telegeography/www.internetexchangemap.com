@@ -188,13 +188,13 @@ class IxMap.Map
 
   constructor: (@element, @center, @zoom, @buildings) ->
     @gmap = new google.maps.Map(document.getElementById(@element), { 
-      zoom: @zoom,
-      maxZoom: 20,
-      minZoom: 2,
-      styles: [{featureType: "all",elementType: "all", stylers: [{ "gamma": 1.7 }]}],
-      center: @center
-      mapTypeId: google.maps.MapTypeId.ROADMAP
-    })
+        zoom: @zoom,
+        maxZoom: 20,
+        minZoom: 2,
+        styles: [{featureType: "all",elementType: "all", stylers: [{ "gamma": 1.7 }]}],
+        center: @center
+        mapTypeId: google.maps.MapTypeId.ROADMAP
+      })
     @infoBox = new InfoBox({closeBoxURL:"",alignBottom:true,pixelOffset:new google.maps.Size(-60,-45)})
     @search = new IxMap.Search(this)
     @showAllBuildings()

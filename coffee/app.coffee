@@ -15,7 +15,10 @@ App = Ember.Application.create
 App.deferReadiness()
 jQuery.getJSON IxMap.Map.buildingsGeojson, (data) ->
   App.buildings = new GeoJSON(data)
-  App.advanceReadiness()
+  jQuery.getScript "https://cdn.maptiks.com/maptiks-gmaps.min.js", ( data, textStatus, jqxhr ) =>
+    maptiks.trackcode='4a2ebe85-4bfc-4b0d-ac4c-77be505360d4'
+    App.advanceReadiness()
+
 
 App.ApplicationView = Ember.View.extend
   classNames: ['google-map']
