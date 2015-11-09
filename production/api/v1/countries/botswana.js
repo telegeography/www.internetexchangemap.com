@@ -1,1 +1,1 @@
-{"buildings":[{"address":["\u003Caddress not available\u003E","Gabarone, Botswana"],"latitude":"-22.344025","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"24.680156","id":18816}],"name":"Botswana","id":"botswana"}
+{"name":"Botswana","id":"botswana","buildings":[{"address":["\u003Caddress not available\u003E","Gabarone, Botswana"],"latitude":"-22.344025","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"24.680156","id":18816}]}

@@ -1,1 +1,1 @@
-{"buildings":[{"address":["Avenue Isaac Povoas, 901","Cuiaba, Brazil"],"latitude":"-15.594791","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-56.102809","id":19280}],"name":"Cuiaba","id":"cuiaba"}
+{"name":"Cuiaba","id":"cuiaba","buildings":[{"address":["Avenue Isaac Povoas, 901","Cuiaba, Brazil"],"latitude":"-15.594791","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-56.102809","id":19280}]}

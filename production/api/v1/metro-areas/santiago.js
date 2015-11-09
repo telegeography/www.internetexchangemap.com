@@ -1,1 +1,1 @@
-{"buildings":[{"address":["Av. Salvador 1068","Santiago, Chile"],"latitude":" -33.443178","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-70.6236591","id":8109}],"name":"Santiago","id":"santiago"}
+{"name":"Santiago","id":"santiago","buildings":[{"address":["Av. Salvador 1068","Santiago, Chile"],"latitude":" -33.443178","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-70.6236591","id":8109}]}

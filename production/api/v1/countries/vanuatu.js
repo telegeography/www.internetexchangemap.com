@@ -1,0 +1,1 @@
+{"name":"Vanuatu","id":"vanuatu","buildings":[{"address":["\u003Caddress not available\u003E","Port Vila, Vanuatu"],"latitude":"-17.730419","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"168.32298","id":20128}]}

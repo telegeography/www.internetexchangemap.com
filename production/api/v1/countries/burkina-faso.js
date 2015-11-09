@@ -1,1 +1,1 @@
-{"buildings":[{"address":["Avenue de l'Independance","Ouagadougou, Burkina Faso"],"latitude":"12.372606","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-1.513981","id":19645}],"name":"Burkina Faso","id":"burkina-faso"}
+{"name":"Burkina Faso","id":"burkina-faso","buildings":[{"address":["Avenue de l'Independance","Ouagadougou, Burkina Faso"],"latitude":"12.372606","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-1.513981","id":19645}]}

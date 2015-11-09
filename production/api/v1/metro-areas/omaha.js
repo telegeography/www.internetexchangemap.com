@@ -1,1 +1,1 @@
-{"buildings":[{"address":["1623 Farnam Plaza","Omaha, United States, 68102"],"latitude":"41.257592","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-95.938147","id":17445}],"name":"Omaha","id":"omaha"}
+{"name":"Omaha","id":"omaha","buildings":[{"address":["1623 Farnam Plaza","Omaha, United States, 68102"],"latitude":"41.257592","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-95.938147","id":17445}]}

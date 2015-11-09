@@ -189,6 +189,7 @@ class IxMap.Map
   constructor: (@element, @center, @zoom, @buildings) ->
     @gmap = new google.maps.Map(document.getElementById(@element), { 
         zoom: @zoom,
+        maptiks_id: "IX Map",
         maxZoom: 20,
         minZoom: 2,
         styles: [{featureType: "all",elementType: "all", stylers: [{ "gamma": 1.7 }]}],
