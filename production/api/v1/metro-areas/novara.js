@@ -1,1 +1,1 @@
-{"name":"Novara","id":"novara","buildings":[{"address":["Viale Manzoni 26","Novara, Italy"],"latitude":"45.448250","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"8.627669","id":19624}]}
+{"name":"Novara","id":"novara","buildings":[{"latitude":"45.448250","address":["Viale Manzoni 26","Novara, Italy"],"longitude":"8.627669","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19624}]}

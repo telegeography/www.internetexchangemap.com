@@ -1,1 +1,1 @@
-{"name":"Cotonou","id":"cotonou","buildings":[{"address":["Avenue Clozel 01","Cotonou, Benin, BP 5959"],"latitude":"6.354474","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"2.436143","id":19635}]}
+{"name":"Cotonou","id":"cotonou","buildings":[{"latitude":"6.354474","address":["Avenue Clozel 01","Cotonou, Benin, BP 5959"],"longitude":"2.436143","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19635}]}

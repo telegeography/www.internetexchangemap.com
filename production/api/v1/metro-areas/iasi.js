@@ -1,1 +1,1 @@
-{"name":"Iasi","id":"iasi","buildings":[{"address":["Pietonalul Lapusneanu","Iasi, Romania"],"latitude":"47.1679427","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"27.5782642","id":18644}]}
+{"name":"Iasi","id":"iasi","buildings":[{"latitude":"47.1679427","address":["Pietonalul Lapusneanu","Iasi, Romania"],"longitude":"27.5782642","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18644}]}
