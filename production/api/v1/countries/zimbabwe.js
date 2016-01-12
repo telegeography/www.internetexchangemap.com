@@ -1,1 +1,1 @@
-{"name":"Zimbabwe","id":"zimbabwe","buildings":[{"latitude":"-17.831536","address":["Eastgate Centre","Robert Mugabe Road","Harare, Zimbabwe"],"longitude":"31.052680","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18812}]}
+{"buildings":[{"latitude":"-17.831536","address":["Eastgate Centre","Robert Mugabe Road","Harare, Zimbabwe"],"longitude":"31.052680","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18812}],"name":"Zimbabwe","id":"zimbabwe"}

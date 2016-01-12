@@ -1,1 +1,1 @@
-{"name":"Athens","id":"athens","buildings":[{"latitude":"37.9884216","address":["48 Vassileos Constantinou Avenue","Athens, Greece, 11635"],"longitude":"23.7675972","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18349}]}
+{"buildings":[{"latitude":"37.9884216","address":["48 Vassileos Constantinou Avenue","Athens, Greece, 11635"],"longitude":"23.7675972","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18349}],"name":"Athens","id":"athens"}

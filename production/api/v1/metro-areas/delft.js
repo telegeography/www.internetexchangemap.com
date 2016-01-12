@@ -1,1 +1,1 @@
-{"name":"Delft","id":"delft","buildings":[{"latitude":"51.993398","address":["Molengraaffsingel 12","Delft, Netherlands"],"longitude":"4.386851","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20122}]}
+{"buildings":[{"latitude":"51.993398","address":["Molengraaffsingel 12","Delft, Netherlands"],"longitude":"4.386851","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20122}],"name":"Delft","id":"delft"}

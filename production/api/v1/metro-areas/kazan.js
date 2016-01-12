@@ -1,1 +1,1 @@
-{"name":"Kazan","id":"kazan","buildings":[{"latitude":"55.7808568","address":["52 Peterburgskaya Ulitsa","Kazan, Russia"],"longitude":"49.1342594","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18705}]}
+{"buildings":[{"latitude":"55.7808568","address":["52 Peterburgskaya Ulitsa","Kazan, Russia"],"longitude":"49.1342594","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18705}],"name":"Kazan","id":"kazan"}

@@ -1,1 +1,1 @@
-{"name":"Sarawak","id":"sarawak","buildings":[{"latitude":"1.581129","address":["Jalan Bako","Petra Jaya","Sarawak, Malaysia, 93673"],"longitude":"110.364968","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18859}]}
+{"buildings":[{"latitude":"1.581129","address":["Jalan Bako","Petra Jaya","Sarawak, Malaysia, 93673"],"longitude":"110.364968","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18859}],"name":"Sarawak","id":"sarawak"}

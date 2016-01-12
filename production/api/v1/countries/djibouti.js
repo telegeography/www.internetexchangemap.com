@@ -1,1 +1,1 @@
-{"name":"Djibouti","id":"djibouti","buildings":[{"latitude":"11.590976","address":["Djibouti Data Center S.A.R.L.","Boulaos","Djibouti City, Djibouti"],"longitude":"43.153023","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19615}]}
+{"buildings":[{"latitude":"11.590976","address":["Djibouti Data Center S.A.R.L.","Boulaos","Djibouti City, Djibouti"],"longitude":"43.153023","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19615}],"name":"Djibouti","id":"djibouti"}
