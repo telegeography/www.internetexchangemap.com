@@ -1,0 +1,1 @@
+{"buildings":[{"latitude":"45.798272","address":["39 Rue des Lauriers","Clermont Ferrand, France"],"longitude":"3.082015","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20146}],"name":"Clermont Ferrand","id":"clermont-ferrand"}

@@ -1,1 +1,1 @@
-{"exchanges":[{"info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.saix.at","value":"Website"}],"slug":"saix-salzburg-austria","name":"SAIX"}],"address":["Jakob-Harringer Strasse 1","Salzburg, Austria, 5020"],"id":19602}
+{"address":["Jakob-Harringer Strasse 1","Salzburg, Austria, 5020"],"exchanges":[{"info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.saix.at","value":"Website"}],"slug":"saix-salzburg-austria","name":"SAIX"}],"id":19602}

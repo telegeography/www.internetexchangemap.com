@@ -1,0 +1,1 @@
+{"address":["39 Rue des Lauriers","Clermont Ferrand, France"],"exchanges":[{"info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.auvernix.org/","value":"Website"},{"onclick":null,"link":null,"value":"Online since: January 2013"}],"slug":"auvernix-clermont-ferrand-france","name":"AuvernIX"}],"id":20146}
