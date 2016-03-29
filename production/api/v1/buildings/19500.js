@@ -1,1 +1,1 @@
-{"address":["\u003Caddress not available\u003E","San Jos\u00e9, Costa Rica"],"exchanges":[{"info":[{"onclick":null,"link":null,"value":"Online since: April 2014"}],"slug":"ixp-costa-rica-san-jos-costa-rica","name":"IXP Costa Rica"}],"id":19500}
+{"exchanges":[{"info":[{"onclick":null,"link":null,"value":"Online since: April 2014"}],"slug":"ixp-costa-rica-san-jos-costa-rica","name":"IXP Costa Rica"}],"address":["\u003Caddress not available\u003E","San Jos\u00e9, Costa Rica"],"id":19500}

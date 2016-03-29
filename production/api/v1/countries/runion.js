@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"-20.902287","address":["Universit\u00e9 de la R\u00e9union","15, Avenue Rene Cassin","Saint Denis, R\u00e9union, 97400"],"longitude":"55.484496","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19286}],"name":"R\u00e9union","id":"runion"}
+{"buildings":[{"address":["Universit\u00e9 de la R\u00e9union","15, Avenue Rene Cassin","Saint Denis, R\u00e9union, 97400"],"latitude":"-20.902287","longitude":"55.484496","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19286}],"name":"R\u00e9union","id":"runion"}

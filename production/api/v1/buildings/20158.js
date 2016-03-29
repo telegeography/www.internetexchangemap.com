@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.mixp.org","value":"Website"},{"onclick":null,"link":null,"value":"Online since: June 2006"}],"slug":"mixp-port-louis-mauritius","name":"MIXP"}],"address":["Raffles Tower","11th floor","Ebene, Mauritius"],"id":20158}
