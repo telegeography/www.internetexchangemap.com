@@ -1,1 +1,1 @@
-{"buildings":[{"address":["\u003Caddress not available\u003E","La Plata, Argentina"],"latitude":"-34.913889","longitude":"-57.946329","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20168}],"name":"La Plata","id":"la-plata"}
+{"buildings":[{"latitude":"-34.913889","longitude":"-57.946329","address":["\u003Caddress not available\u003E","La Plata, Argentina"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20168}],"name":"La Plata","id":"la-plata"}

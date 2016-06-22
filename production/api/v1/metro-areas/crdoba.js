@@ -1,1 +1,1 @@
-{"buildings":[{"address":["\u003Caddress not available\u003E","C\u00f3rdoba, Argentina"],"latitude":"-31.407181","longitude":"-64.185679","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20167}],"name":"C\u00f3rdoba","id":"crdoba"}
+{"buildings":[{"latitude":"-31.407181","longitude":"-64.185679","address":["\u003Caddress not available\u003E","C\u00f3rdoba, Argentina"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20167}],"name":"C\u00f3rdoba","id":"crdoba"}

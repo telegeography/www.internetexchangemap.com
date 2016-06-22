@@ -1,1 +1,1 @@
-{"buildings":[{"address":["\u003Caddress not available\u003E","Natal, Brazil"],"latitude":"-5.794864","longitude":"-35.211184","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18838}],"name":"Natal","id":"natal"}
+{"buildings":[{"latitude":"-5.794864","longitude":"-35.211184","address":["\u003Caddress not available\u003E","Natal, Brazil"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18838}],"name":"Natal","id":"natal"}

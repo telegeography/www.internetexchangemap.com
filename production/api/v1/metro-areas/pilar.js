@@ -1,1 +1,1 @@
-{"buildings":[{"address":["\u003Caddress not available\u003E","Pilar, Argentina"],"latitude":"-34.459344","longitude":"-58.915304","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20178}],"name":"Pilar","id":"pilar"}
+{"buildings":[{"latitude":"-34.459344","longitude":"-58.915304","address":["\u003Caddress not available\u003E","Pilar, Argentina"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20178}],"name":"Pilar","id":"pilar"}

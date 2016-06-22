@@ -1,1 +1,1 @@
-{"buildings":[{"address":["39 Rue des Lauriers","Clermont Ferrand, France"],"latitude":"45.798272","longitude":"3.082015","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20146}],"name":"Clermont Ferrand","id":"clermont-ferrand"}
+{"buildings":[{"latitude":"45.798272","longitude":"3.082015","address":["39 Rue des Lauriers","Clermont Ferrand, France"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20146}],"name":"Clermont Ferrand","id":"clermont-ferrand"}

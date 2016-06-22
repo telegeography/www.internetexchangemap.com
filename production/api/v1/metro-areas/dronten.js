@@ -1,1 +1,1 @@
-{"buildings":[{"address":["De Linge 26","Dronten, Netherlands"],"latitude":"52.5436556","longitude":"5.7048204","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18614}],"name":"Dronten","id":"dronten"}
+{"buildings":[{"latitude":"52.5436556","longitude":"5.7048204","address":["De Linge 26","Dronten, Netherlands"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18614}],"name":"Dronten","id":"dronten"}

@@ -1,0 +1,1 @@
+{"address":["Hermann-Ritter-Strasse 104","Bremen, Germany"],"exchanges":[{"info":[{"onclick":null,"link":null,"value":"49 421 9 88 88 88"},{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.brem-ix.net","value":"Website"}],"slug":"brem-ix-bremen-germany","name":"BREM-IX"}],"id":17427}
