@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"onclick":null,"link":"mailto:mkaoruka@nic.br","value":"mkaoruka@nic.br"},{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://ptt.br/adesao/sc/","value":"Website"}],"slug":"ptt-florianpolis-brazil","name":"PTT"}],"address":["Universidade Federal de Santa Catarina","Florian\u00f3polis, Brazil"],"id":20631}

@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"43.852127","longitude":"25.951498","address":["16 Tsarkovna nezavisimost street","Ruse, Bulgaria"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20153}],"name":"Ruse","id":"ruse"}
+{"buildings":[{"latitude":"43.852127","address":["16 Tsarkovna nezavisimost street","Ruse, Bulgaria"],"longitude":"25.951498","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20153}],"name":"Ruse","id":"ruse"}

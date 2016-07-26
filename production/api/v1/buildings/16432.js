@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"onclick":null,"link":"mailto:mkaoruka@nic.br","value":"mkaoruka@nic.br"},{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.ptt.br/adesao/pr/","value":"Website"}],"slug":"ptt-fortaleza-brazil","name":"PTT"}],"address":["Rua 24 de Maio, 1550 ","Fortaleza, Brazil, 60020-001 "],"id":16432}

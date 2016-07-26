@@ -1,0 +1,1 @@
+{"address":["LIXP (Maseru, Lesotho)","\u003Caddress not available\u003E","Maseru, Lesotho"],"buildings":[{"latitude":"-29.316231","address":["\u003Caddress not available\u003E","Maseru, Lesotho"],"longitude":"27.493130","offset":"background:url('images/markers.png') no-repeat -22px 0;","id":20470}],"name":"LIXP (Maseru, Lesotho)","id":"lixp-maseru-lesotho","exchange_info":[]}

@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"-42.769448","longitude":"-65.031718","address":["\u003Caddress not available\u003E","Puerto Madryn, Argentina"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20172}],"name":"Puerto Madryn","id":"puerto-madryn"}
+{"buildings":[{"latitude":"-42.769448","address":["\u003Caddress not available\u003E","Puerto Madryn, Argentina"],"longitude":"-65.031718","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20172}],"name":"Puerto Madryn","id":"puerto-madryn"}

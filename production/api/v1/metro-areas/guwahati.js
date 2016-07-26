@@ -1,0 +1,1 @@
+{"buildings":[{"latitude":"26.143531","address":["C/O Assam Electronics Development Corp Ltd.","Guwahati-21","Guwahati, India"],"longitude":"91.658822","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20561}],"name":"Guwahati","id":"guwahati"}

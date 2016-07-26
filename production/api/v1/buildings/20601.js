@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"onclick":null,"link":"mailto:mkaoruka@nic.br","value":"mkaoruka@nic.br"},{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.ptt.br/adesao/pr/","value":"Website"}],"slug":"ptt-curitiba-brazil","name":"PTT"}],"address":[" Rua Nunes Machado, 1797","Curitiba, Brazil"],"id":20601}

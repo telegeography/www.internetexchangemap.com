@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"onclick":null,"link":"mailto:mkaoruka@nic.br","value":"mkaoruka@nic.br"},{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://ptt.br/adesao/bel/","value":"Website"}],"slug":"ptt-belm-brazil","name":"PTT"}],"address":["Rod. Augusto Montenegro, Km 10","Bel\u00e9m, Brazil"],"id":20616}

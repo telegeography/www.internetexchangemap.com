@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"56.014300","longitude":"92.870980","address":["\u003Caddress not available\u003E","Krasnoyarsk, Russia"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18344}],"name":"Krasnoyarsk","id":"krasnoyarsk"}
+{"buildings":[{"latitude":"56.010379","address":["78 Karla Marksa Street","Krasnoyarsk, Russia"],"longitude":"92.868668","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20584}],"name":"Krasnoyarsk","id":"krasnoyarsk"}

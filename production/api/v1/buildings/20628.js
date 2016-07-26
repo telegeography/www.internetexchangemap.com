@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"onclick":null,"link":"mailto:mkaoruka@nic.br","value":"mkaoruka@nic.br"},{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://ptt.br/adesao/cpv/","value":"Website"}],"slug":"ptt-campina-grande-brazil","name":"PTT"}],"address":["Rua Jo\u00e3o A. Filho","Quarenta - Campina Grande","Campina Grande, Brazil"],"id":20628}

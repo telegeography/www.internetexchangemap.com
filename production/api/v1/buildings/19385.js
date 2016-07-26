@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"onclick":null,"link":"mailto:hostmaster@mass-ix.net","value":"hostmaster@mass-ix.net"},{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.mass-ix.net","value":"Website"}],"slug":"mix-brockton-united-states","name":"MIX"}],"address":["60 School Street","Brockton, United States"],"id":19385}

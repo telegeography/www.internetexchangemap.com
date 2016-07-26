@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"onclick":null,"link":"mailto:hostmaster@mass-ix.net","value":"hostmaster@mass-ix.net"},{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.mass-ix.net","value":"Website"}],"slug":"mix-boston-united-states","name":"MIX"}],"address":["Level 3 Cambridge","300 Bent Street","Cambridge, United States, 02141"],"id":10292}

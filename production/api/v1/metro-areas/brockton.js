@@ -1,0 +1,1 @@
+{"buildings":[{"latitude":"42.082882","address":["60 School Street","Brockton, United States"],"longitude":"-71.018268","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19385}],"name":"Brockton","id":"brockton"}

@@ -1,0 +1,1 @@
+{"buildings":[{"latitude":"38.080971","address":["\u003Caddress not available\u003E","Tabriz, Iran"],"longitude":"46.290112","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20486}],"name":"Tabriz","id":"tabriz"}

@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"onclick":null,"link":"mailto:mkaoruka@nic.br","value":"mkaoruka@nic.br"},{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://ptt.br/adesao/pe/","value":"Website"}],"slug":"ptt-recife-brazil","name":"PTT"}],"address":["Rua Vital de Oliveira, 32","Recife, Brazil"],"id":20646}

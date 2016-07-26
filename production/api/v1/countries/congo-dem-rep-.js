@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"-4.302922","longitude":"15.311624","address":["Gecamines Blvd 30 Juin","Kinshasa, Congo, Dem. Rep."],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20129}],"name":"Congo, Dem. Rep.","id":"congo-dem-rep-"}
+{"buildings":[{"latitude":"-4.302922","address":["Gecamines Blvd 30 Juin","Kinshasa, Congo, Dem. Rep."],"longitude":"15.311624","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20129}],"name":"Congo, Dem. Rep.","id":"congo-dem-rep-"}

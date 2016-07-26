@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"-16.500000","longitude":"-68.150000","address":["\u003Caddress not available\u003E","La Paz, Bolivia"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19498}],"name":"La Paz","id":"la-paz"}
+{"buildings":[{"latitude":"-16.511761","address":["Av. Sanchez Lima 2520","Edif. Anibal PB-2","La Paz, Bolivia"],"longitude":"-68.126417","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20582}],"name":"La Paz","id":"la-paz"}

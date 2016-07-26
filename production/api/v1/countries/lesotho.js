@@ -1,0 +1,1 @@
+{"buildings":[{"latitude":"-29.316231","address":["\u003Caddress not available\u003E","Maseru, Lesotho"],"longitude":"27.493130","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20470}],"name":"Lesotho","id":"lesotho"}

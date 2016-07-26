@@ -1,0 +1,1 @@
+{"exchanges":[{"info":[{"onclick":null,"link":"mailto:mkaoruka@nic.br","value":"mkaoruka@nic.br"},{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://ptt.br/adesao/bel/","value":"Website"}],"slug":"ptt-belm-brazil","name":"PTT"}],"address":[" Rua Augusto Correia, 1","Bel\u00e9m, Brazil"],"id":20615}
