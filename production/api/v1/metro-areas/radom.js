@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"51.399451","address":["Zeromskiego 94","Radom, Poland"],"longitude":"21.166700","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20185}],"name":"Radom","id":"radom"}
+{"name":"Radom","id":"radom","buildings":[{"address":["Zeromskiego 94","Radom, Poland"],"latitude":"51.399451","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"21.166700","id":20185}]}

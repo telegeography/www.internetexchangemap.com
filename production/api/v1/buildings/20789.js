@@ -1,0 +1,1 @@
+{"address":["Karlsruhe SCC, KIT Campus South","Building 20.21","Zirkel 2","Karlsruhe, Germany"],"exchanges":[{"info":[{"onclick":null,"link":null,"value":"49 721 388 590"},{"onclick":null,"link":"mailto:info@bw-ix.net","value":"info@bw-ix.net"},{"onclick":null,"link":null,"value":"Online since: June 2016"}],"slug":"bw-ix-karlsruhe-germany","name":"BW-IX"}],"id":20789}

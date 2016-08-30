@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"-26.808285","address":["\u003Caddress not available\u003E","San Miguel de Tucuman, Argentina"],"longitude":"-65.217590","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20176}],"name":"San Miguel de Tucuman","id":"san-miguel-de-tucuman"}
+{"name":"San Miguel de Tucuman","id":"san-miguel-de-tucuman","buildings":[{"address":["\u003Caddress not available\u003E","San Miguel de Tucuman, Argentina"],"latitude":"-26.808285","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-65.217590","id":20176}]}

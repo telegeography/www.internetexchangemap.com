@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"-32.891229","address":["\u003Caddress not available\u003E","Mendoza, Argentina"],"longitude":"-68.839554","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20164}],"name":"Mendoza","id":"mendoza"}
+{"name":"Mendoza","id":"mendoza","buildings":[{"address":["\u003Caddress not available\u003E","Mendoza, Argentina"],"latitude":"-32.891229","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-68.839554","id":20164}]}

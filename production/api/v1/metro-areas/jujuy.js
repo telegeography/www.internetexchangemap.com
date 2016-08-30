@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"-24.185786","address":["\u003Caddress not available\u003E","Jujuy, Argentina"],"longitude":"-65.299477","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20177}],"name":"Jujuy","id":"jujuy"}
+{"name":"Jujuy","id":"jujuy","buildings":[{"address":["\u003Caddress not available\u003E","Jujuy, Argentina"],"latitude":"-24.185786","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-65.299477","id":20177}]}

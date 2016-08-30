@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"-3.368072","address":["Arusha International Conference Center","Arusha, Tanzania"],"longitude":"36.696569","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18864}],"name":"Arusha","id":"arusha"}
+{"name":"Arusha","id":"arusha","buildings":[{"address":["Arusha International Conference Center","Arusha, Tanzania"],"latitude":"-3.368072","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"36.696569","id":18864}]}

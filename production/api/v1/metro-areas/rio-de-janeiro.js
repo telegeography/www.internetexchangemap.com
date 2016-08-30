@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"-22.903448","address":["\u003Caddress not available\u003E","Rio de Janeiro, Brazil"],"longitude":"-43.209557","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18671}],"name":"Rio de Janeiro","id":"rio-de-janeiro"}
+{"name":"Rio de Janeiro","id":"rio-de-janeiro","buildings":[{"address":["\u003Caddress not available\u003E","Rio de Janeiro, Brazil"],"latitude":"-22.903448","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-43.209557","id":18671}]}

@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"47.481851","address":["18 Boulevard de Lavoisier","Angers, France"],"longitude":"-0.608314","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20195}],"name":"Angers","id":"angers"}
+{"name":"Angers","id":"angers","buildings":[{"address":["18 Boulevard de Lavoisier","Angers, France"],"latitude":"47.481851","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-0.608314","id":20195}]}

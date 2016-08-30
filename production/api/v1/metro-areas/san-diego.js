@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"32.887657","address":["10100 Hopkins Drive","San Diego, United States, 92037"],"longitude":"-117.238785","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":8133}],"name":"San Diego","id":"san-diego"}
+{"name":"San Diego","id":"san-diego","buildings":[{"address":["10100 Hopkins Drive","San Diego, United States, 92037"],"latitude":"32.887657","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-117.238785","id":8133}]}
