@@ -1,1 +1,1 @@
-{"name":"San Antonio","id":"san-antonio","buildings":[{"address":["CyrusOne San Antonio I","9999 Westover Hills Boulevard","San Antonio, United States, 78251"],"latitude":"29.466508","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-98.688287","id":18957}]}
+{"buildings":[{"address":["CyrusOne San Antonio I","9999 Westover Hills Boulevard","San Antonio, United States, 78251"],"latitude":"29.466508","longitude":"-98.688287","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18957}],"name":"San Antonio","id":"san-antonio"}

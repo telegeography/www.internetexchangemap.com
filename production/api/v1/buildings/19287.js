@@ -1,1 +1,1 @@
-{"address":["Observatoire Boutilliers","Port-au-Prince, Haiti"],"exchanges":[{"info":[{"onclick":null,"link":null,"value":"Online since: May 2009"}],"slug":"aixp-port-au-prince-haiti","name":"AIXP"}],"id":19287}
+{"address":["Observatoire Boutilliers","Port-au-Prince, Haiti"],"exchanges":[{"slug":"aixp-port-au-prince-haiti","info":[{"link":null,"value":"Online since: May 2009","onclick":null}],"name":"AIXP"}],"id":19287}

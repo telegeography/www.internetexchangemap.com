@@ -1,1 +1,1 @@
-{"name":"Rosario","id":"rosario","buildings":[{"address":["\u003Caddress not available\u003E","Rosario, Argentina"],"latitude":"-32.967799","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-60.659239","id":20162}]}
+{"buildings":[{"address":["\u003Caddress not available\u003E","Rosario, Argentina"],"latitude":"-32.967799","longitude":"-60.659239","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20162}],"name":"Rosario","id":"rosario"}

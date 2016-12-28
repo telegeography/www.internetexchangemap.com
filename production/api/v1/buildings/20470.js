@@ -1,1 +1,1 @@
-{"address":["\u003Caddress not available\u003E","Maseru, Lesotho"],"exchanges":[{"info":[],"slug":"lixp-maseru-lesotho","name":"LIXP"}],"id":20470}
+{"address":["\u003Caddress not available\u003E","Maseru, Lesotho"],"exchanges":[{"slug":"lixp-maseru-lesotho","info":[],"name":"LIXP"}],"id":20470}

@@ -1,1 +1,1 @@
-{"name":"Santa Fe","id":"santa-fe","buildings":[{"address":["\u003Caddress not available\u003E","Santa Fe, Argentina"],"latitude":"-31.636664","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-60.711999","id":20163}]}
+{"buildings":[{"address":["\u003Caddress not available\u003E","Santa Fe, Argentina"],"latitude":"-31.636664","longitude":"-60.711999","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20163}],"name":"Santa Fe","id":"santa-fe"}

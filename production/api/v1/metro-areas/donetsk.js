@@ -1,1 +1,1 @@
-{"name":"Donetsk","id":"donetsk","buildings":[{"address":["\u003Caddress not available\u003E","Donetsk, Ukraine"],"latitude":"48.000950","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"37.805776","id":18848}]}
+{"buildings":[{"address":["\u003Caddress not available\u003E","Donetsk, Ukraine"],"latitude":"48.000950","longitude":"37.805776","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18848}],"name":"Donetsk","id":"donetsk"}

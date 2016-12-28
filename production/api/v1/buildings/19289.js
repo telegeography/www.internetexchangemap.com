@@ -1,1 +1,1 @@
-{"address":["\u003Caddress not available\u003E","Road Town, Virgin Islands (U.K.)"],"exchanges":[{"info":[{"onclick":null,"link":null,"value":"Online since: June 2011"}],"slug":"bvix-roadtown-virgin-islands-u-k-","name":"BVIX"}],"id":19289}
+{"address":["\u003Caddress not available\u003E","Road Town, Virgin Islands (U.K.)"],"exchanges":[{"slug":"bvix-roadtown-virgin-islands-u-k-","info":[{"link":null,"value":"Online since: June 2011","onclick":null}],"name":"BVIX"}],"id":19289}

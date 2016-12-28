@@ -1,0 +1,1 @@
+{"buildings":[{"address":["Fausstraat 1","Apeldoorn, Netherlands"],"latitude":"52.232416","longitude":"5.976736","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20676}],"name":"Apeldoorn","id":"apeldoorn"}

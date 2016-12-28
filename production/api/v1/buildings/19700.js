@@ -1,0 +1,1 @@
+{"address":["Jl. Jatinegara Barat No.44, Jatinegara Jakarta Timur","Jakarta, Indonesia"],"exchanges":[{"slug":"tixnet-jakarta-indonesia","info":[{"link":"mailto:peering@telin.co.id","value":"peering@telin.co.id","onclick":null},{"link":"https://www.telin.co.id","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"TIXNet"}],"id":19700}

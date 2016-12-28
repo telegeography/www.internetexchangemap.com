@@ -1,1 +1,1 @@
-{"name":"Liverpool","id":"liverpool","buildings":[{"address":["25 Parliament Street","Liverpool, United Kingdom"],"latitude":"53.394558","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-2.979130","id":20657}]}
+{"buildings":[{"address":["25 Parliament Street","Liverpool, United Kingdom"],"latitude":"53.394558","longitude":"-2.979130","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20657}],"name":"Liverpool","id":"liverpool"}

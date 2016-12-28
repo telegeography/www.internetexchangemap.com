@@ -1,0 +1,1 @@
+{"address":["Jalan Kalisosok I No 12","Krembangan Sei","Surabaya, Indonesia"],"exchanges":[{"slug":"tixnet-surabaya-indonesia","info":[{"link":"mailto:peering@telin.co.id","value":"peering@telin.co.id","onclick":null},{"link":"https://www.telin.co.id","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"TIXNet"}],"id":20810}

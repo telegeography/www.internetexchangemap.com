@@ -1,1 +1,1 @@
-{"name":"Caxias do Sul","id":"caxias-do-sul","buildings":[{"address":["Rua Garibaldi 789","Caxias do Sul, Brazil"],"latitude":"-29.168109","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"-51.182957","id":18829}]}
+{"buildings":[{"address":["Rua Garibaldi 789","Caxias do Sul, Brazil"],"latitude":"-29.168109","longitude":"-51.182957","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18829}],"name":"Caxias do Sul","id":"caxias-do-sul"}

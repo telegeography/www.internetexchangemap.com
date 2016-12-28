@@ -1,1 +1,1 @@
-{"address":["Master DC Brno","20 Cejl Street","Brno, Czech Republic"],"exchanges":[{"info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.cbix.cz/cbix/en/","value":"Website"}],"slug":"cbix-brno-czech-republic","name":"CBIX"}],"id":18546}
+{"address":["Master DC Brno","20 Cejl Street","Brno, Czech Republic"],"exchanges":[{"slug":"cbix-brno-czech-republic","info":[{"link":"http://www.cbix.cz/cbix/en/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"CBIX"}],"id":18546}

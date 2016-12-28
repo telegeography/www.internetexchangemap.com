@@ -1,1 +1,1 @@
-{"name":"Krak\u00f3w","id":"krakw","buildings":[{"address":["Ul. Westerplatte 19","Krak\u00f3w, Poland"],"latitude":"50.0600233","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"19.9431201","id":14457}]}
+{"buildings":[{"address":["Ul. Westerplatte 19","Krak\u00f3w, Poland"],"latitude":"50.0600233","longitude":"19.9431201","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":14457}],"name":"Krak\u00f3w","id":"krakw"}
