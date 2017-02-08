@@ -1,1 +1,1 @@
-{"address":["222 North 32nd Street Suite 503","Billings, United States, 59101"],"exchanges":[{"slug":"yrix-billings-united-states","info":[{"link":"http://www.yrix.org","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"YRIX"}],"id":15148}
+{"address":["222 North 32nd Street Suite 503","Billings, United States, 59101"],"id":15148,"exchanges":[{"slug":"yrix-billings-united-states","info":[{"link":"http://www.yrix.org","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"YRIX"}]}

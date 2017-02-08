@@ -1,1 +1,1 @@
-{"address":["Wells Building","324 East Wisconsin","Milwaukee, United States, 53202"],"exchanges":[{"slug":"mkeix-milwaukee-united-states","info":[{"link":"http://www.mkeix.net","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"MKEIX"}],"id":14750}
+{"address":["Wells Building","324 East Wisconsin","Milwaukee, United States, 53202"],"id":14750,"exchanges":[{"slug":"mkeix-milwaukee-united-states","info":[{"link":"http://www.mkeix.net","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"MKEIX"}]}

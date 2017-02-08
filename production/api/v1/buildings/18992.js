@@ -1,1 +1,1 @@
-{"address":["CITIC Telecom Tower","93 Kwai Fuk Road","Hong Kong, China"],"exchanges":[{"slug":"level-3-exchange-hong-kong-hong-kong-china","info":[{"link":null,"value":"Online since:  2001","onclick":null}],"name":"Level 3 Exchange Hong Kong"}],"id":18992}
+{"address":["CITIC Telecom Tower","93 Kwai Fuk Road","Hong Kong, China"],"id":18992,"exchanges":[{"slug":"level-3-exchange-hong-kong-hong-kong-china","info":[{"link":null,"value":"Online since:  2001","onclick":null}],"name":"Level 3 Exchange Hong Kong"}]}
