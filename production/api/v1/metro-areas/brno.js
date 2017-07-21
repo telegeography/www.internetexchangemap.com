@@ -1,1 +1,1 @@
-{"buildings":[{"address":["Master DC Brno","20 Cejl Street","Brno, Czech Republic"],"latitude":"49.196817","longitude":"16.6187636","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18546}],"name":"Brno","id":"brno"}
+{"buildings":[{"longitude":"16.6187636","address":["Master DC Brno","20 Cejl Street","Brno, Czech Republic"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"49.196817","id":18546}],"name":"Brno","id":"brno"}

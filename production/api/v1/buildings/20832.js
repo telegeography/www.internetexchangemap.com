@@ -1,0 +1,1 @@
+{"address":["Hub 9492","Eschen, Liechtenstein"],"exchanges":[{"slug":"rheintal-ix-eschen-liechtenstein","info":[{"link":"mailto:info@rheintal-ix.net","value":"info@rheintal-ix.net","onclick":null},{"link":"https://www.rheintal-ix.net/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"Rheintal IX"}],"id":20832}

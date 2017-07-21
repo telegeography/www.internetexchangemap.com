@@ -1,1 +1,1 @@
-{"buildings":[{"address":["NIC Costa Rica","Calle 27A","San Jos\u00e9, Costa Rica"],"latitude":"9.919380","longitude":"-84.102548","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20800}],"name":"San Jos\u00e9","id":"san-jos"}
+{"buildings":[{"longitude":"-84.102548","address":["NIC Costa Rica","Calle 27A","San Jos\u00e9, Costa Rica"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"9.919380","id":20800}],"name":"San Jos\u00e9","id":"san-jos"}

@@ -1,1 +1,1 @@
-{"buildings":[{"address":["\u003Caddress not available\u003E ","Mombasa, Kenya"],"latitude":"-4.043477","longitude":"39.668206","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20653}],"name":"Mombasa","id":"mombasa"}
+{"buildings":[{"longitude":"39.668206","address":["\u003Caddress not available\u003E ","Mombasa, Kenya"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-4.043477","id":20653}],"name":"Mombasa","id":"mombasa"}

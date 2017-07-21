@@ -1,1 +1,1 @@
-{"buildings":[{"address":["9680 Atlee Commons Dr","Ste 106","Ashland, United States"],"latitude":"37.698641","longitude":"-77.436436","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20815}],"name":"Richmond","id":"richmond"}
+{"buildings":[{"longitude":"-77.436436","address":["9680 Atlee Commons Dr","Ste 106","Ashland, United States"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"37.698641","id":20815}],"name":"Richmond","id":"richmond"}

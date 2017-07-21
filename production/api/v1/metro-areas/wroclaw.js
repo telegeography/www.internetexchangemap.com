@@ -1,1 +1,1 @@
-{"buildings":[{"address":["Nabycinska 19","Wroclaw, Poland"],"latitude":"51.109862","longitude":"17.016696","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20183}],"name":"Wroclaw","id":"wroclaw"}
+{"buildings":[{"longitude":"17.016696","address":["Nabycinska 19","Wroclaw, Poland"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"51.109862","id":20183}],"name":"Wroclaw","id":"wroclaw"}

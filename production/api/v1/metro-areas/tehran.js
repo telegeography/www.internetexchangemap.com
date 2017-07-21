@@ -1,1 +1,1 @@
-{"buildings":[{"address":["Shariati Avenue","Tehran, Iran"],"latitude":"35.754266","longitude":"51.448588","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20483}],"name":"Tehran","id":"tehran"}
+{"buildings":[{"longitude":"51.448588","address":["Shariati Avenue","Tehran, Iran"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"35.754266","id":20483}],"name":"Tehran","id":"tehran"}

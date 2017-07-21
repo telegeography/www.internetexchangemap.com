@@ -1,1 +1,1 @@
-{"buildings":[{"address":["NiaNet- Skanderborg","Niels Bohrs Vej 35","Skanderborg, Denmark, 8660"],"latitude":"56.070062","longitude":"9.992591","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19296}],"name":"Aarhus","id":"aarhus"}
+{"buildings":[{"longitude":"9.992591","address":["NiaNet- Skanderborg","Niels Bohrs Vej 35","Skanderborg, Denmark, 8660"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"56.070062","id":19296}],"name":"Aarhus","id":"aarhus"}

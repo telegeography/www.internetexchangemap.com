@@ -1,1 +1,1 @@
-{"buildings":[{"address":["\u003Caddress not available\u003E","Pergamino, Argentina"],"latitude":"-33.894164","longitude":"-60.569924","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20175}],"name":"Pergamino","id":"pergamino"}
+{"buildings":[{"longitude":"-60.569924","address":["\u003Caddress not available\u003E","Pergamino, Argentina"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-33.894164","id":20175}],"name":"Pergamino","id":"pergamino"}

@@ -1,1 +1,1 @@
-{"buildings":[{"address":["STPI-STP Complex","Lucknow, India"],"latitude":"26.846694","longitude":"80.946166","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20563}],"name":"Lucknow","id":"lucknow"}
+{"buildings":[{"longitude":"80.946166","address":["STPI-STP Complex","Lucknow, India"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"26.846694","id":20563}],"name":"Lucknow","id":"lucknow"}

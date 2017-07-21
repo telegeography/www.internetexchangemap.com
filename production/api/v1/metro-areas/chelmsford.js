@@ -1,1 +1,1 @@
-{"buildings":[{"address":["187 Billerica Rd","Chelmsford, United States"],"latitude":"42.597085","longitude":"-71.331383","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20473}],"name":"Chelmsford","id":"chelmsford"}
+{"buildings":[{"longitude":"-71.331383","address":["187 Billerica Rd","Chelmsford, United States"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"42.597085","id":20473}],"name":"Chelmsford","id":"chelmsford"}

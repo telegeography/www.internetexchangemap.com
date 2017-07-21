@@ -1,0 +1,1 @@
+{"address":["\u003Caddress not available\u003E","Budapest, Hungary"],"exchanges":[{"slug":"mt-ix-budapest-hungary","info":[{"link":"http://www.telekom.hu/about-us/mt-ix","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"MT-IX"}],"id":17920}

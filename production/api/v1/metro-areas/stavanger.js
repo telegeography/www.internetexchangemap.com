@@ -1,1 +1,1 @@
-{"buildings":[{"address":["University of Stavanger","Stavanger, Norway"],"latitude":"58.969976","longitude":"5.733107","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20578}],"name":"Stavanger","id":"stavanger"}
+{"buildings":[{"longitude":"5.733107","address":["University of Stavanger","Stavanger, Norway"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"58.969976","id":20578}],"name":"Stavanger","id":"stavanger"}

@@ -1,1 +1,1 @@
-{"buildings":[{"address":["9705 SW Sunshine Court","Beaverton, United States, 97005"],"latitude":"45.4759561","longitude":"-122.7775885","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18379}],"name":"Beaverton","id":"beaverton"}
+{"buildings":[{"longitude":"-122.7775885","address":["9705 SW Sunshine Court","Beaverton, United States, 97005"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"45.4759561","id":18379}],"name":"Beaverton","id":"beaverton"}

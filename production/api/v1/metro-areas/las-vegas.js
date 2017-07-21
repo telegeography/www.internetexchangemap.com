@@ -1,0 +1,1 @@
+{"buildings":[{"longitude":"-115.130697","address":["1541 Pama Lane","Las Vegas, United States"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"36.065190","id":19862}],"name":"Las Vegas","id":"las-vegas"}
