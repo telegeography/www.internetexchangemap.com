@@ -1,0 +1,1 @@
+{"buildings":[{"address":["\u003Caddress not available\u003E","Sulaimaniya, Iraq"],"latitude":"35.52147","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21590,"longitude":"44.3166746"}],"name":"Sulaimaniya","id":"sulaimaniya"}

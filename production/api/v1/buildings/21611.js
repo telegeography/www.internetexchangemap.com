@@ -1,0 +1,1 @@
+{"address":["The Internet Centre ","4130 \u2013 95th Street NW","Edmonton, Canada"],"exchanges":[{"slug":"yegix-edmonton-canada","info":[{"link":"mailto:peering@yegix.ca","value":"peering@yegix.ca","onclick":null},{"link":"http://www.yegix.ca","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"YEGIX"}],"id":21611}

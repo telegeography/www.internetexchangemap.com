@@ -1,0 +1,1 @@
+{"buildings":[{"address":["A. Juozapaviciaus str. 13","Vilnius, Lithuania"],"latitude":"54.403562","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20612,"longitude":"24.059976"}],"name":"Lithuania","id":"lithuania"}

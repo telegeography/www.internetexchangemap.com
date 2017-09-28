@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"36.806261","address":["\u003Caddress not available\u003E","Nairobi, Kenya"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-1.277298","id":15179}],"name":"Nairobi","id":"nairobi"}
+{"buildings":[{"address":["Sameer Industrial Park ","JUNCTION ENTERPRISE RD AND MOMBASA RD","Nairobi, Kenya, 00200"],"latitude":"-1.329487","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19274,"longitude":"36.870477"}],"name":"Nairobi","id":"nairobi"}

@@ -1,0 +1,1 @@
+{"address":["Avenida Isaac Povoas","901 Sala 201 Edificio Mirante Do Coxim","Centro","Cuiaba, Brazil, 78045"],"exchanges":[{"slug":"ptt-cgb-cuiaba-brazil","info":[{"link":"http://ix.br/adesao/cgb/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"PTT-CGB"}],"id":21402}

@@ -1,0 +1,1 @@
+{"buildings":[{"address":["CyrusOne Wappingers Falls - NY","155 Myers Corners Road","Wappingers Falls, United States, 12590"],"latitude":"41.599445","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19945,"longitude":"-73.881668"}],"name":"Wappingers Falls","id":"wappingers-falls"}

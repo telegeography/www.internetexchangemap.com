@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"-58.915304","address":["\u003Caddress not available\u003E","Pilar, Argentina"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-34.459344","id":20178}],"name":"Pilar","id":"pilar"}
+{"buildings":[{"address":["Cabase Norte de Gran Buenos Aires","Colectora Panamericana km 42,5 (bajada Office Park) ","Pilar, Argentina"],"latitude":"-34.476888","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21563,"longitude":"-58.9519236"}],"name":"Pilar","id":"pilar"}

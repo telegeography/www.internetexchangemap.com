@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"149.133846","address":["470 Northbourne Ave","Canberra, Australia, 2602"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-35.2516189","id":15126}],"name":"Canberra","id":"canberra"}
+{"buildings":[{"address":["470 Northbourne Ave","Canberra, Australia, 2602"],"latitude":"-35.2516189","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":15126,"longitude":"149.133846"}],"name":"Canberra","id":"canberra"}

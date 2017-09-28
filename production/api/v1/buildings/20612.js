@@ -1,0 +1,1 @@
+{"address":["A. Juozapaviciaus str. 13","Vilnius, Lithuania"],"exchanges":[{"slug":"lixp-vilnius-lithuania","info":[{"link":null,"value":"370 67 274 818","onclick":null},{"link":"mailto:noc@lixp.lt","value":"noc@lixp.lt","onclick":null},{"link":"http://www.lixp.lt/en","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"LIXP"}],"id":20612}

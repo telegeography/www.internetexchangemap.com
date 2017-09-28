@@ -1,0 +1,1 @@
+{"buildings":[{"address":["Montes Sierra","Avenida Montes Sierra, 36","Seville, Spain, 41007"],"latitude":"37.397280","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19111,"longitude":"-5.947282"}],"name":"Seville","id":"seville"}

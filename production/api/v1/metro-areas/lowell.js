@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"-71.305918","address":["2 Prince Avenue","Lowell, United States"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"42.629809","id":19735}],"name":"Lowell","id":"lowell"}
+{"buildings":[{"address":["2 Prince Avenue","Lowell, United States"],"latitude":"42.629809","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19735,"longitude":"-71.305918"}],"name":"Lowell","id":"lowell"}

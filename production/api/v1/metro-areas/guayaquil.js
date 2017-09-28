@@ -1,0 +1,1 @@
+{"buildings":[{"address":["\u003Caddress not available\u003E","Guayaquil, Ecuador"],"latitude":"-2.203820","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18314,"longitude":"-79.897461"}],"name":"Guayaquil","id":"guayaquil"}

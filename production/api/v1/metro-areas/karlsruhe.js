@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"8.408150","address":["Karlsruhe SCC, KIT Campus South","Building 20.21","Zirkel 2","Karlsruhe, Germany"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"49.012257","id":20789}],"name":"Karlsruhe","id":"karlsruhe"}
+{"buildings":[{"address":["Karlsruhe SCC, KIT Campus South","Building 20.21","Zirkel 2","Karlsruhe, Germany"],"latitude":"49.012257","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20789,"longitude":"8.408150"}],"name":"Karlsruhe","id":"karlsruhe"}

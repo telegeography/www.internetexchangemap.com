@@ -1,0 +1,1 @@
+{"buildings":[{"address":["ulitsa Mamina-Sibiryaka, 145","**Yekaterinburg**, Russia"],"latitude":"56.836212","offset":"background:url('images/markers.png') no-repeat -1166px 0;","longitude":"60.619599","id":21616}],"name":"Yekaterinburg","id":"yekaterinburg"}

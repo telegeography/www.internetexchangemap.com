@@ -1,0 +1,1 @@
+{"address":["LVSB","GK -1","Bangla Sahib Road","New Delhi, India, 110048"],"exchanges":[{"slug":"extreme-ix-delhi-delhi-india","info":[{"link":"mailto:ix@x3me.net","value":"ix@x3me.net","onclick":null},{"link":"extreme-ix.org","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"Extreme IX Delhi"}],"id":15134}

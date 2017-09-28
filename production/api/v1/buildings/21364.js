@@ -1,0 +1,1 @@
+{"address":["Av Centenario 1097 Pav.01","Gravata\u00ed, Brazil, 94010"],"exchanges":[{"slug":"ptt-rs-porto-alegre-brazil","info":[{"link":"http://ix.br/adesao/rs/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"},{"link":null,"value":"Online since:  2000","onclick":null}],"name":"PTT-RS"}],"id":21364}

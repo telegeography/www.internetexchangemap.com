@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"174.696070","address":["7 Parkhead Pl","Albany, New Zealand, 0632"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-36.750412","id":19107}],"name":"Albany","id":"albany"}
+{"buildings":[{"address":["7 Parkhead Pl","Albany, New Zealand, 0632"],"latitude":"-36.750412","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19107,"longitude":"174.696070"}],"name":"Albany","id":"albany"}

@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"21.164539","address":["\u003Caddress not available\u003E","Pristina, Serbia"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"42.672421","id":18905}],"name":"Pristina","id":"pristina"}
+{"buildings":[{"address":["\u003Caddress not available\u003E","Pristina, Serbia"],"latitude":"42.672421","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18905,"longitude":"21.164539"}],"name":"Pristina","id":"pristina"}

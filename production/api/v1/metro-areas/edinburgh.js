@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"-3.305941","address":["The Clocktower Estate","South Gyle Crescent","Edinburgh, United Kingdom, EH12 9LB"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"55.933469","id":19131}],"name":"Edinburgh","id":"edinburgh"}
+{"buildings":[{"address":["Pulsant South Gyle","South Gyle Crescent","Edinburgh, United Kingdom, EH12 9LB"],"latitude":"55.933469","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19131,"longitude":"-3.305941"}],"name":"Edinburgh","id":"edinburgh"}

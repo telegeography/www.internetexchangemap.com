@@ -1,0 +1,1 @@
+{"address":["\u003Caddress not available\u003E","Tanguisson Point, Guam"],"exchanges":[{"slug":"gu-ix-tanguisson-point-guam","info":[{"link":"mailto:technical@gu-ix.net","value":"technical@gu-ix.net","onclick":null},{"link":"http://www.gu-ix.net","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"GU-IX"}],"id":21587}

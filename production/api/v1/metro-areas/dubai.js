@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"55.17096","address":["Al Salam Tower","Dubai Media City","Dubai, United Arab Emirates"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"25.10173","id":18850}],"name":"Dubai","id":"dubai"}
+{"buildings":[{"address":["Equinix Dubai","IMPZ, Dubai Production City","Dubai, United Arab Emirates"],"latitude":"25.026460","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18850,"longitude":"55.186860"}],"name":"Dubai","id":"dubai"}

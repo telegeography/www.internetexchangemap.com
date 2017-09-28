@@ -1,0 +1,1 @@
+{"address":["Orange Polska","\u015aw. Barbary 10","Warsaw, Poland, 00-686"],"exchanges":[{"slug":"tpix-warsaw-poland","info":[{"link":null,"value":"(+48 22) 527 00 00","onclick":null},{"link":"http://www.tpix.pl/en/index.html","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"TPIX"}],"id":21427}

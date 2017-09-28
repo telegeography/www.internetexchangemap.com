@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"-66.337609","address":["\u003Caddress not available\u003E","San Luis, Argentina"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-33.302144","id":20173}],"name":"San Luis","id":"san-luis"}
+{"buildings":[{"address":["Cabase San Luis","Ejercito de Los Andes 950","San Luis, Argentina"],"latitude":"-33.2921441","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21567,"longitude":"-66.3418097"}],"name":"San Luis","id":"san-luis"}

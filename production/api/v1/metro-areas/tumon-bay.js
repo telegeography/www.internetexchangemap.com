@@ -1,0 +1,1 @@
+{"buildings":[{"address":["\u003Caddress not available\u003E","Tumon Bay, Guam"],"latitude":"13.5091315","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21585,"longitude":"144.7607147"}],"name":"Tumon Bay","id":"tumon-bay"}

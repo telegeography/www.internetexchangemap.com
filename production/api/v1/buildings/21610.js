@@ -1,0 +1,1 @@
+{"address":["Macewan University ","10700 104 Ave NW","Edmonton, Canada"],"exchanges":[{"slug":"yegix-edmonton-canada","info":[{"link":"mailto:peering@yegix.ca","value":"peering@yegix.ca","onclick":null},{"link":"http://www.yegix.ca","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"YEGIX"}],"id":21610}

@@ -1,0 +1,1 @@
+{"buildings":[{"address":["Abuja Office","23, Kolda Street","Abuja, Nigeria"],"latitude":"9.070286","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21390,"longitude":"7.488363"}],"name":"Abuja","id":"abuja"}

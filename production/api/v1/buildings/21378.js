@@ -1,0 +1,1 @@
+{"address":["Av Brig Faria Lima, 1912 6F","Jardim Europa","S\u00e3o Paulo, Brazil, 01441"],"exchanges":[{"slug":"ptt-sp-so-paulo-brazil","info":[{"link":"http://ix.br/adesao/sp/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"PTT-SP"}],"id":21378}

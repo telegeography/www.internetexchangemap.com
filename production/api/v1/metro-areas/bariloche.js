@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"-71.310278","address":["\u003Caddress not available\u003E","Bariloche, Argentina"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-41.133472","id":20171}],"name":"Bariloche","id":"bariloche"}
+{"buildings":[{"address":["Cabase Bariloche","Avda Commander Luis Piedrabuena 4950","San Carlos de Bariloche","Bariloche, Argentina"],"latitude":"-41.1249997","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21557,"longitude":"-71.2438093"}],"name":"Bariloche","id":"bariloche"}

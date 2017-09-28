@@ -1,0 +1,1 @@
+{"address":["Frankenallee 71-81","Frankfurt, Germany, 60327"],"exchanges":[{"slug":"ge-cix-frankfurt-germany","info":[{"link":null,"value":"41 445 096 541","onclick":null},{"link":"http://www.ge-cix.net/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"GE-CIX"}],"id":9034}

@@ -1,0 +1,1 @@
+{"address":["Rua Padre Julio, 139","Campo Bom, Brazil, 93700"],"exchanges":[{"slug":"ptt-rs-campo-bom-brazil","info":[{"link":"http://ix.br/adesao/rs/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"},{"link":null,"value":"Online since:  2000","onclick":null}],"name":"PTT-RS"}],"id":21365}

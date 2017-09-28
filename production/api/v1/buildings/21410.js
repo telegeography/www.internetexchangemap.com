@@ -1,0 +1,1 @@
+{"address":["Av. Rodrigo Oct\u00e1vio, 6200","Setor Norte - Faculdade de Tecnologia - Bloco CPD","Manaus, Brazil"],"exchanges":[{"slug":"ptt-mao-manaus-brazil","info":[{"link":"http://ix.br/adesao/mao/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"PTT-MAO"}],"id":21410}

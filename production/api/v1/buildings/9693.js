@@ -1,0 +1,1 @@
+{"address":["Level 3 Frankfurt","R\u00fcsselsheimerstrasse 22","Frankfurt, Germany, 60326"],"exchanges":[{"slug":"ge-cix-frankfurt-germany","info":[{"link":null,"value":"41 445 096 541","onclick":null},{"link":"http://www.ge-cix.net/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"GE-CIX"}],"id":9693}

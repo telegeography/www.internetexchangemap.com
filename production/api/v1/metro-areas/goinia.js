@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"-49.233554","address":["14\u00ba Ed. Aquarius Center","Goi\u00e2nia, Brazil"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-16.665167","id":20636}],"name":"Goi\u00e2nia","id":"goinia"}
+{"buildings":[{"address":["Av. T-63, 3182","Ed. Aquarius Center","Setor Bueno","Goi\u00e2nia, Brazil, 74115"],"latitude":"-16.714315","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20636,"longitude":"-49.2671424"}],"name":"Goi\u00e2nia","id":"goinia"}

@@ -1,0 +1,1 @@
+{"address":["Av Roraiama 1000, Cidade Universitaria","Santa Maria, Brazil, 97105"],"exchanges":[{"slug":"ptt-ria-santa-maria-brazil","info":[{"link":"http://ix.br/adesao/ria/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"PTT-RIA"}],"id":21416}

@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"147.3288239","address":["29 Elizabeth Street","Hobart, Australia, 7000"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-42.882027","id":15124}],"name":"Hobart","id":"hobart"}
+{"buildings":[{"address":["29 Elizabeth Street","Hobart, Australia, 7000"],"latitude":"-42.882027","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":15124,"longitude":"147.3288239"}],"name":"Hobart","id":"hobart"}

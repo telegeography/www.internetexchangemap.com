@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"69.218566","address":["\u003Caddress not available\u003E","Tashkent, Uzbekistan"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"41.275742","id":18904}],"name":"Uzbekistan","id":"uzbekistan"}
+{"buildings":[{"address":["Navoi Street 28","Tashkent, Uzbekistan"],"latitude":"41.3219863","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18904,"longitude":"69.2500238"}],"name":"Uzbekistan","id":"uzbekistan"}

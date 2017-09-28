@@ -1,0 +1,1 @@
+{"address":["Estrada Adhemar Bebiano 1380","Del Castilho","Rio de Janeiro, Brazil, 21051"],"exchanges":[{"slug":"ptt-rj-rio-de-janeiro-brazil","info":[{"link":"http://ix.br/adesao/rj/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"},{"link":null,"value":"Online since:  2007","onclick":null}],"name":"PTT-RJ"}],"id":19160}

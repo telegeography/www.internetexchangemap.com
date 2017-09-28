@@ -1,0 +1,1 @@
+{"address":["CIASC","Rodovia SC404 Km4","Florian\u00f3polis, Brazil, 88034"],"exchanges":[{"slug":"ptt-sc-florianpolis-brazil","info":[{"link":"http://ix.br/adesao/sc/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"PTT-SC"}],"id":21388}

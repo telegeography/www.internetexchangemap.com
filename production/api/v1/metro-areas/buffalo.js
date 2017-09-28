@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"-78.875452","address":["CentriLogic Buffalo","350 Main Street","Buffalo, United States, 14202"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"42.884423","id":14676}],"name":"Buffalo","id":"buffalo"}
+{"buildings":[{"address":["CentriLogic Buffalo","350 Main Street","Buffalo, United States, 14202"],"latitude":"42.884423","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":14676,"longitude":"-78.875452"}],"name":"Buffalo","id":"buffalo"}

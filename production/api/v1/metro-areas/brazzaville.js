@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"15.273096","address":["91 Avenue de l'Amitie","Brazzaville, Congo, Rep."],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-4.275569","id":20121}],"name":"Brazzaville","id":"brazzaville"}
+{"buildings":[{"address":["91 Avenue de l'Amitie","Brazzaville, Congo, Rep."],"latitude":"-4.275569","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20121,"longitude":"15.273096"}],"name":"Brazzaville","id":"brazzaville"}

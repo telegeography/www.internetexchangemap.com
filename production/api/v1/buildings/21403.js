@@ -1,0 +1,1 @@
+{"address":["Centro de Processamento de Dados de Mato Grosso (CEPROMAT)","Centro Politico Administrativo S/N","Bloco SEPLAN","Cuiaba, Brazil, 78050"],"exchanges":[{"slug":"ptt-cgb-cuiaba-brazil","info":[{"link":"http://ix.br/adesao/cgb/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"PTT-CGB"}],"id":21403}

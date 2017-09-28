@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"104.305018","address":["37 Tereshkovoi Street","Irkutsk, Russia"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"52.286974","id":20585}],"name":"Irkutsk","id":"irkutsk"}
+{"buildings":[{"address":["37 Tereshkovoi Street","Irkutsk, Russia"],"latitude":"52.286974","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20585,"longitude":"104.305018"}],"name":"Irkutsk","id":"irkutsk"}

@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"-68.839554","address":["\u003Caddress not available\u003E","Mendoza, Argentina"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"-32.891229","id":20164}],"name":"Mendoza","id":"mendoza"}
+{"buildings":[{"address":["Cabase Mendoza","General Paz 586 PB local 1","Mendoza, Argentina"],"latitude":"-32.883909","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20890,"longitude":"-68.845525"}],"name":"Mendoza","id":"mendoza"}

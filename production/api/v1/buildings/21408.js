@@ -1,0 +1,1 @@
+{"address":["Rua Jonathas Pedrosa 1937","Manaus, Brazil, 69020"],"exchanges":[{"slug":"ptt-mao-manaus-brazil","info":[{"link":"http://ix.br/adesao/mao/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"PTT-MAO"}],"id":21408}

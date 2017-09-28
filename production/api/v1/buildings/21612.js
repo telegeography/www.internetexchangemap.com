@@ -1,0 +1,1 @@
+{"address":["Cybera","Suite 200\u000B3512 \u2013 33 Street NW","Calgary, Canada"],"exchanges":[{"slug":"yegix-calgary-canada","info":[{"link":"mailto:peering@yegix.ca","value":"peering@yegix.ca","onclick":null},{"link":"http://www.yegix.ca","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"YEGIX"}],"id":21612}

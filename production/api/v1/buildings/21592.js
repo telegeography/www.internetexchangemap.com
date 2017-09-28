@@ -1,0 +1,1 @@
+{"address":["GoRack","800 Water Street \u2022 Suite 202","Jacksonville, United States"],"exchanges":[{"slug":"jxix-jacksonville-united-states","info":[{"link":"mailto:noc@jxix.org","value":"noc@jxix.org","onclick":null},{"link":"http://jxix.org","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"JXIX"}],"id":21592}

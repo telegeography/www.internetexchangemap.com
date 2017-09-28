@@ -1,0 +1,1 @@
+{"address":["TASCOM Telecomunicacoes","Av. Trancredo Neves, 274, Bl A - SL 204","Salvador, Brazil, 41820"],"exchanges":[{"slug":"ptt-ba-salvador-brazil","info":[{"link":"http://ix.br/adesao/ba/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"PTT-BA"}],"id":21392}

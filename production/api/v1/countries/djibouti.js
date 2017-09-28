@@ -1,1 +1,1 @@
-{"buildings":[{"longitude":"43.153023","address":["Haramous Building 3G","Boulaos","Djibouti City, Djibouti"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","latitude":"11.590976","id":19615}],"name":"Djibouti","id":"djibouti"}
+{"buildings":[{"address":["Haramous Building 3G","Boulaos","Djibouti City, Djibouti"],"latitude":"11.590976","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19615,"longitude":"43.153023"}],"name":"Djibouti","id":"djibouti"}
