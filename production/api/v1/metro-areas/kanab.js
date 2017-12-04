@@ -1,1 +1,1 @@
-{"buildings":[{"address":["South Central Communications ","318 North 100 East\u000B","Kanab, United States"],"latitude":"37.054016","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21605,"longitude":"-112.525885"}],"name":"Kanab","id":"kanab"}
+{"buildings":[{"address":["South Central Communications ","318 North 100 East\u000B","Kanab, United States"],"latitude":"37.054016","longitude":"-112.525885","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21605}],"name":"Kanab","id":"kanab"}

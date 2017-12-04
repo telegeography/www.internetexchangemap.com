@@ -1,1 +1,1 @@
-{"buildings":[{"address":[" Av. Borges de Medeiros, 566","Nova Ponte, Brazil, 95320"],"latitude":"-19.146564","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20567,"longitude":"-47.678389"}],"name":"Nova Ponte","id":"nova-ponte"}
+{"buildings":[{"address":[" Av. Borges de Medeiros, 566","Nova Ponte, Brazil, 95320"],"latitude":"-19.146564","longitude":"-47.678389","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20567}],"name":"Nova Ponte","id":"nova-ponte"}

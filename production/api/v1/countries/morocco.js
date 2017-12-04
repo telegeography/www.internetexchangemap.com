@@ -1,1 +1,1 @@
-{"buildings":[{"address":["14, Rue 16 Novembre Agdal","Rabat, Morocco"],"latitude":"33.990386","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20827,"longitude":"-6.849631"}],"name":"Morocco","id":"morocco"}
+{"buildings":[{"address":["14, Rue 16 Novembre Agdal","Rabat, Morocco"],"latitude":"33.990386","longitude":"-6.849631","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20827}],"name":"Morocco","id":"morocco"}

@@ -1,1 +1,1 @@
-{"buildings":[{"address":["Palestine Internet Exchange Point","Al Irsal Street","Ramallah, Palestinian Territory"],"latitude":"31.902599","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19285,"longitude":"35.195499"}],"name":"Ramallah","id":"ramallah"}
+{"buildings":[{"address":["Palestine Internet Exchange Point","Al Irsal Street","Ramallah, Palestinian Territory"],"latitude":"31.902599","longitude":"35.195499","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19285}],"name":"Ramallah","id":"ramallah"}

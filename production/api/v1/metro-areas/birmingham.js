@@ -1,1 +1,1 @@
-{"buildings":[{"address":["Barr Street","Birmingham, United Kingdom"],"latitude":"52.492141","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19605,"longitude":"-1.910122"}],"name":"Birmingham","id":"birmingham"}
+{"buildings":[{"address":["Barr Street","Birmingham, United Kingdom"],"latitude":"52.492141","longitude":"-1.910122","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19605}],"name":"Birmingham","id":"birmingham"}
