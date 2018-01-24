@@ -1,1 +1,1 @@
-{"buildings":[{"address":["Cabase Jujuy","Av.Bolivia 1239","Jujuy, Argentina"],"latitude":"-24.179016","longitude":"-65.328691","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20841}],"name":"Jujuy","id":"jujuy"}
+{"name":"Jujuy","id":"jujuy","buildings":[{"address":["Cabase Jujuy","Av.Bolivia 1239","Jujuy, Argentina"],"latitude":"-24.179016","longitude":"-65.328691","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20841}]}

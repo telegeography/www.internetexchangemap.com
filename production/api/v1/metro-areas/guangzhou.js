@@ -1,0 +1,1 @@
+{"name":"Guangzhou","id":"guangzhou","buildings":[{"address":["6/F Building G6 Huanan Creative Park","31 Kefeng Road","Science Park","Guangzhou, China"],"latitude":"23.09723","longitude":"113.271241","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21675}]}

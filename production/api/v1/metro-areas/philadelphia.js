@@ -1,1 +1,1 @@
-{"buildings":[{"address":["3401 Walnut Street","Philadelphia, United States"],"latitude":"39.952998","longitude":"-75.193026","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18893}],"name":"Philadelphia","id":"philadelphia"}
+{"name":"Philadelphia","id":"philadelphia","buildings":[{"address":["3401 Walnut Street","Philadelphia, United States"],"latitude":"39.952998","longitude":"-75.193026","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18893}]}

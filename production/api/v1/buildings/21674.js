@@ -1,0 +1,1 @@
+{"address":["8 Zhu Yuan 3rd St","Tianzhu Free Trade Zone","Beijing, China"],"exchanges":[{"slug":"chn-ix-beijing-beijing-china","info":[{"link":"http://www.chn-ix.net/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"},{"link":null,"value":"Online since: April 2016","onclick":null}],"name":"CHN-IX Beijing"}],"id":21674}

@@ -1,1 +1,1 @@
-{"buildings":[{"address":["\u003Caddress not available\u003E","Maseru, Lesotho"],"latitude":"-29.316231","longitude":"27.493130","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20470}],"name":"Lesotho","id":"lesotho"}
+{"name":"Lesotho","id":"lesotho","buildings":[{"address":["\u003Caddress not available\u003E","Maseru, Lesotho"],"latitude":"-29.316231","longitude":"27.493130","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20470}]}

@@ -1,0 +1,1 @@
+{"address":["West Changjiang Road No 101","Shanghai, China"],"exchanges":[{"slug":"chn-ix-shanghai-shanghai-china","info":[{"link":"http://www.chn-ix.net/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"},{"link":null,"value":"Online since: April 2016","onclick":null}],"name":"CHN-IX Shanghai"}],"id":20331}
