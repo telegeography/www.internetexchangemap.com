@@ -1,1 +1,1 @@
-{"name":"Neuqu\u00e9n","id":"neuqun","buildings":[{"address":["Cabase Neuquen","Independencia 124 Piso 1","8300 Neuquen","Neuqu\u00e9n, Argentina"],"latitude":"-38.9549928","longitude":"-68.05914","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21561}]}
+{"buildings":[{"latitude":"-38.9549928","address":["Cabase Neuquen","Independencia 124 Piso 1","8300 Neuquen","Neuqu\u00e9n, Argentina"],"longitude":"-68.05914","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21561}],"name":"Neuqu\u00e9n","id":"neuqun"}

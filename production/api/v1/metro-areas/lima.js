@@ -1,1 +1,1 @@
-{"name":"Lima","id":"lima","buildings":[{"address":["GMD SA Grana Montero Digital SA","Av Paseo de la Republica","Surquillo","Lima, Peru, 4675"],"latitude":"-12.1118118","longitude":"-77.027714","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":8113}]}
+{"buildings":[{"latitude":"-12.1118118","address":["GMD SA Grana Montero Digital SA","Av Paseo de la Republica","Surquillo","Lima, Peru, 4675"],"longitude":"-77.027714","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":8113}],"name":"Lima","id":"lima"}

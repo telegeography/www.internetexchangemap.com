@@ -1,1 +1,1 @@
-{"address":["R. Mateus Leme","1561 Bom Retiro","Curitiba, Brazil"],"exchanges":[{"slug":"ptt-pr-curitiba-brazil","info":[{"link":"http://ix.br/adesao/pr/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"PTT-PR"}],"id":20602}
+{"exchanges":[{"slug":"ptt-pr-curitiba-brazil","info":[{"link":"http://ix.br/adesao/pr/","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"PTT-PR"}],"address":["R. Mateus Leme","1561 Bom Retiro","Curitiba, Brazil"],"id":20602}

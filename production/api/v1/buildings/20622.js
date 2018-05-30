@@ -1,1 +1,1 @@
-{"address":["Rua Espirito Santo 605 - Centro","Belo Horizonte, Brazil, 30160"],"exchanges":[{"slug":"ptt-mg-belo-horizonte-brazil","info":[{"link":"http://ix.br/adesao/mg/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"PTT-MG"}],"id":20622}
+{"exchanges":[{"slug":"ptt-mg-belo-horizonte-brazil","info":[{"link":"http://ix.br/adesao/mg/","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"PTT-MG"}],"address":["Rua Espirito Santo 605 - Centro","Belo Horizonte, Brazil, 30160"],"id":20622}

@@ -1,1 +1,1 @@
-{"name":"Chelyabinsk","id":"chelyabinsk","buildings":[{"address":["K.Marksa, 38 ","Chelyabinsk, Russia"],"latitude":"55.166062","longitude":"61.412391","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21621}]}
+{"buildings":[{"latitude":"55.166062","address":["K.Marksa, 38 ","Chelyabinsk, Russia"],"longitude":"61.412391","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21621}],"name":"Chelyabinsk","id":"chelyabinsk"}

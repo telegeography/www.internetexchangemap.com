@@ -1,1 +1,1 @@
-{"name":"Dumai","id":"dumai","buildings":[{"address":["\u003Caddress not available\u003E","Dumai, Indonesia"],"latitude":"1.665605","longitude":"101.44764","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20811}]}
+{"buildings":[{"latitude":"1.665605","address":["\u003Caddress not available\u003E","Dumai, Indonesia"],"longitude":"101.44764","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20811}],"name":"Dumai","id":"dumai"}

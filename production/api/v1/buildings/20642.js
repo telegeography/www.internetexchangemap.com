@@ -1,1 +1,1 @@
-{"address":["Av. Sen. Salgado Filho, 3000 ","Lagoa Nova","Natal, Brazil, 59072"],"exchanges":[{"slug":"ptt-nat-natal-brazil","info":[{"link":"http://ix.br/adesao/nat/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"PTT-NAT"}],"id":20642}
+{"exchanges":[{"slug":"ptt-nat-natal-brazil","info":[{"link":"http://ix.br/adesao/nat/","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"PTT-NAT"}],"address":["Av. Sen. Salgado Filho, 3000 ","Lagoa Nova","Natal, Brazil, 59072"],"id":20642}

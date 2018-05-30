@@ -1,1 +1,1 @@
-{"address":["Av. Colombo, 5790","bloco P03","Maringa, Brazil, 87020"],"exchanges":[{"slug":"ptt-mgf-maringa-brazil","info":[{"link":"http://ix.br/adesao/mgf/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"PTT-MGF"}],"id":21413}
+{"exchanges":[{"slug":"ptt-mgf-maringa-brazil","info":[{"link":"http://ix.br/adesao/mgf/","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"PTT-MGF"}],"address":["Av. Colombo, 5790","bloco P03","Maringa, Brazil, 87020"],"id":21413}

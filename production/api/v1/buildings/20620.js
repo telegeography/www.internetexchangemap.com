@@ -1,1 +1,1 @@
-{"address":["Rua Jorge Marine, 571","Belvedere","Belo Horizonte, Brazil"],"exchanges":[{"slug":"ptt-mg-belo-horizonte-brazil","info":[{"link":"http://ix.br/adesao/mg/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"PTT-MG"}],"id":20620}
+{"exchanges":[{"slug":"ptt-mg-belo-horizonte-brazil","info":[{"link":"http://ix.br/adesao/mg/","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"PTT-MG"}],"address":["Rua Jorge Marine, 571","Belvedere","Belo Horizonte, Brazil"],"id":20620}

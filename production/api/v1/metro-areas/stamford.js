@@ -1,1 +1,1 @@
-{"name":"Stamford","id":"stamford","buildings":[{"address":["CyrusOne Connecticut (Stamford)","10 Riverbend Drive South","Stamford, United States, 06907"],"latitude":"41.082774","longitude":"-73.519465","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19943}]}
+{"buildings":[{"latitude":"41.082774","address":["CyrusOne Connecticut (Stamford)","10 Riverbend Drive South","Stamford, United States, 06907"],"longitude":"-73.519465","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19943}],"name":"Stamford","id":"stamford"}

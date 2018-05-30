@@ -1,1 +1,1 @@
-{"address":["Rua 24 de Maio, 1550 ","Fortaleza, Brazil, 60020-001 "],"exchanges":[{"slug":"ptt-pr-fortaleza-brazil","info":[{"link":"http://ix.br/adesao/pr/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"PTT-PR"}],"id":16432}
+{"exchanges":[{"slug":"ptt-pr-fortaleza-brazil","info":[{"link":"http://ix.br/adesao/pr/","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"PTT-PR"}],"address":["Rua 24 de Maio, 1550 ","Fortaleza, Brazil, 60020-001 "],"id":16432}

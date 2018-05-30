@@ -1,1 +1,1 @@
-{"address":["Rua Am\u00e9lia da Cunha Ornelas, 320 ","Vit\u00f3ria, Brazil, 29050"],"exchanges":[{"slug":"ptt-vix-vitria-brazil","info":[{"link":"http://ix.br/adesao/vix/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"PTT-VIX"}],"id":20647}
+{"exchanges":[{"slug":"ptt-vix-vitria-brazil","info":[{"link":"http://ix.br/adesao/vix/","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"PTT-VIX"}],"address":["Rua Am\u00e9lia da Cunha Ornelas, 320 ","Vit\u00f3ria, Brazil, 29050"],"id":20647}

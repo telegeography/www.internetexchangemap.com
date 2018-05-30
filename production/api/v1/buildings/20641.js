@@ -1,1 +1,1 @@
-{"address":["Rua Senador Jose Ferreira de Souza, 1916 ","Candelaria","Natal, Brazil"],"exchanges":[{"slug":"ptt-nat-natal-brazil","info":[{"link":"http://ix.br/adesao/nat/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"PTT-NAT"}],"id":20641}
+{"exchanges":[{"slug":"ptt-nat-natal-brazil","info":[{"link":"http://ix.br/adesao/nat/","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"PTT-NAT"}],"address":["Rua Senador Jose Ferreira de Souza, 1916 ","Candelaria","Natal, Brazil"],"id":20641}

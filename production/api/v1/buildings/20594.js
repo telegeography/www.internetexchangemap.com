@@ -1,1 +1,1 @@
-{"address":["Rua Cubat\u00e3o, 929","11o andar","S\u00e3o Paulo, Brazil, 04013"],"exchanges":[{"slug":"ptt-sp-so-paulo-brazil","info":[{"link":"http://ix.br/adesao/sp/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"PTT-SP"}],"id":20594}
+{"exchanges":[{"slug":"ptt-sp-so-paulo-brazil","info":[{"link":"http://ix.br/adesao/sp/","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"PTT-SP"}],"address":["Rua Cubat\u00e3o, 929","11o andar","S\u00e3o Paulo, Brazil, 04013"],"id":20594}

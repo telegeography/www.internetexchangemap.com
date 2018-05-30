@@ -1,1 +1,1 @@
-{"name":"Liechtenstein","id":"liechtenstein","buildings":[{"address":["Hub 9492","Eschen, Liechtenstein"],"latitude":"47.209927","longitude":"9.529105","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20832}]}
+{"buildings":[{"latitude":"47.209927","address":["Hub 9492","Eschen, Liechtenstein"],"longitude":"9.529105","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20832}],"name":"Liechtenstein","id":"liechtenstein"}

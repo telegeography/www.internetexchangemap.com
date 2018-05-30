@@ -1,0 +1,1 @@
+{"exchanges":[{"slug":"mumbai-ix-mumbai-india","info":[{"link":"https://www.mumbaich.com/en/","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"},{"link":null,"onclick":null,"value":"Online since: August 2014"}],"name":"Mumbai IX"}],"address":["Lighthall C Wing","Hiranandani Business Park, Saki Vihar Road","Chandivalli","Mumbai, India"],"id":19960}

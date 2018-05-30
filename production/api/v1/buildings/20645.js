@@ -1,1 +1,1 @@
-{"address":[" Rua Manoel Bezerra, 165","Recife, Brazil, 50610"],"exchanges":[{"slug":"ptt-pe-recife-brazil","info":[{"link":"http://ix.br/adesao/pe/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"PTT-PE"}],"id":20645}
+{"exchanges":[{"slug":"ptt-pe-recife-brazil","info":[{"link":"http://ix.br/adesao/pe/","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"PTT-PE"}],"address":[" Rua Manoel Bezerra, 165","Recife, Brazil, 50610"],"id":20645}

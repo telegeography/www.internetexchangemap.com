@@ -1,1 +1,1 @@
-{"name":"Dortmund","id":"dortmund","buildings":[{"address":["euNetworks Dortmund","Im Sp\u00e4henfelde 51","Dortmund, Germany, 44143"],"latitude":"51.5135872","longitude":"7.4652981","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":14709}]}
+{"buildings":[{"latitude":"51.5135872","address":["euNetworks Dortmund","Im Sp\u00e4henfelde 51","Dortmund, Germany, 44143"],"longitude":"7.4652981","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":14709}],"name":"Dortmund","id":"dortmund"}

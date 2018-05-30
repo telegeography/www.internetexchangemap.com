@@ -1,1 +1,1 @@
-{"address":["Av. Adelia Franco, 3165","Grageru","Aracaj\u00fa, Brazil, 49027"],"exchanges":[{"slug":"ptt-se-aracaj-brazil","info":[{"link":"http://ix.br/adesao/se/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"PTT-SE"}],"id":21400}
+{"exchanges":[{"slug":"ptt-se-aracaj-brazil","info":[{"link":"http://ix.br/adesao/se/","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"PTT-SE"}],"address":["Av. Adelia Franco, 3165","Grageru","Aracaj\u00fa, Brazil, 49027"],"id":21400}

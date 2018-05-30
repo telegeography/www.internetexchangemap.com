@@ -1,1 +1,1 @@
-{"address":["\u003Caddress not available\u003E","Kingston, Jamaica"],"exchanges":[{"slug":"jixp-kingston-jamaica","info":[{"link":null,"value":"Online since: June 2015","onclick":null}],"name":"JIXP"}],"id":20476}
+{"exchanges":[{"slug":"jixp-kingston-jamaica","info":[{"link":null,"onclick":null,"value":"Online since: June 2015"}],"name":"JIXP"}],"address":["\u003Caddress not available\u003E","Kingston, Jamaica"],"id":20476}

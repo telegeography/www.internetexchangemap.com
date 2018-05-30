@@ -1,1 +1,1 @@
-{"address":["Artyoma Street, 63A","Donetsk, Ukraine"],"exchanges":[{"slug":"dn-ix-donetsk-ukraine","info":[{"link":"http://ix.dn.ua/point.html","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"DN-IX"}],"id":18848}
+{"exchanges":[{"slug":"dn-ix-donetsk-ukraine","info":[{"link":"http://ix.dn.ua/point.html","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"DN-IX"}],"address":["Artyoma Street, 63A","Donetsk, Ukraine"],"id":18848}
