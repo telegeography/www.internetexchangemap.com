@@ -1,0 +1,1 @@
+{"address":["Ulitsa Pobedy, 16","Ulitsa Pobedy, 16b","Yaroslavl, Russia, 150003"],"id":21971,"exchanges":[{"name":"YAR-IX","slug":"yar-ix-yaroslavl-russia","info":[{"link":"mailto:noc@zavolga.net","value":"noc@zavolga.net","onclick":null},{"link":"http://yar-ix.net/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

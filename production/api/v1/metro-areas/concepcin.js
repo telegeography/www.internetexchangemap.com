@@ -1,0 +1,1 @@
+{"name":"Concepci\u00f3n","id":"concepcin","buildings":[{"id":22090,"address":["Las Heras 883","Concepci\u00f3n, Chile"],"latitude":"-36.821180","longitude":"-73.050227","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

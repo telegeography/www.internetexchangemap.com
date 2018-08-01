@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"ptt-pe-recife-brazil","info":[{"link":"http://ix.br/adesao/pe/","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"PTT-PE"}],"address":["Rua Vital de Oliveira, 32","Recife, Brazil, 50030"],"id":20646}
+{"address":["Rua Vital de Oliveira, 32","Recife, Brazil, 50030"],"id":20646,"exchanges":[{"name":"PTT-PE","slug":"ptt-pe-recife-brazil","info":[{"link":"http://ix.br/adesao/pe/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

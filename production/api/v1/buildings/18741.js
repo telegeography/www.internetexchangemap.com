@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"ptt-sp-so-paulo-brazil","info":[{"link":"http://ix.br/adesao/sp/","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"PTT-SP"}],"address":["Avenida Ceci 1850","S\u00e3o Paulo, Brazil, 06460"],"id":18741}
+{"address":["Avenida Ceci 1850","S\u00e3o Paulo, Brazil, 06460"],"id":18741,"exchanges":[{"name":"PTT-SP","slug":"ptt-sp-so-paulo-brazil","info":[{"link":"http://ix.br/adesao/sp/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

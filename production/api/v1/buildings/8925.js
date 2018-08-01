@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"pta-ixp-islamabad-pakistan","info":[{"link":null,"onclick":null,"value":"Online since: January 2017"}],"name":"PTA IXP"}],"address":["\u003Caddress not available\u003E","Islamabad, Pakistan"],"id":8925}
+{"address":["<address not available>","Islamabad, Pakistan"],"id":8925,"exchanges":[{"name":"PTA IXP","slug":"pta-ixp-islamabad-pakistan","info":[{"link":null,"value":"Online since: January 2017","onclick":null}]}]}

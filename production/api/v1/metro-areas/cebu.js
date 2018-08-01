@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"10.2919023","address":["DOST-ICTO Building","A. Pigafetta Street","Cebu City","Cebu, Philippines"],"longitude":"123.9029396","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21424}],"name":"Cebu","id":"cebu"}
+{"name":"Cebu","id":"cebu","buildings":[{"id":21424,"address":["DOST-ICTO Building","A. Pigafetta Street","Cebu City","Cebu, Philippines"],"latitude":"10.2919023","longitude":"123.9029396","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

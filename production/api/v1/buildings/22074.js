@@ -1,0 +1,1 @@
+{"address":["9 Westland Avenue","Portland, United States, 04401"],"id":22074,"exchanges":[{"name":"NNENIX","slug":"nnenix-portland-united-states","info":[{"link":"mailto:noc@nnenix.net","value":"noc@nnenix.net","onclick":null},{"link":"http://www.nnenix.net","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

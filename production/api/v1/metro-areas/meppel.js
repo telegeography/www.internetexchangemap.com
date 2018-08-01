@@ -1,0 +1,1 @@
+{"name":"Meppel","id":"meppel","buildings":[{"id":21537,"address":["Ketelskamp 10","Meppel, Netherlands, 7942KG"],"latitude":"52.7172492","longitude":"6.1965309","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

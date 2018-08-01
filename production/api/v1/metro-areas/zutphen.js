@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"52.1454125","address":["Stedelijk Dalton College","Iseendoornstraat 3","Zutphen, Netherlands, 7201 NJ"],"longitude":"6.1964333","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21336}],"name":"Zutphen","id":"zutphen"}
+{"name":"Zutphen","id":"zutphen","buildings":[{"id":21336,"address":["Stedelijk Dalton College","Iseendoornstraat 3","Zutphen, Netherlands, 7201 NJ"],"latitude":"52.1454125","longitude":"6.1964333","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

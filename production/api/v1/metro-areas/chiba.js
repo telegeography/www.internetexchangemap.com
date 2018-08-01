@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"35.005408333333335","address":["Maruyama, Japan, 2698-19, 299-2521","Shirako, Minamiboso-shi","Chiba, Japan"],"longitude":"139.97547222222224","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21878}],"name":"Chiba","id":"chiba"}
+{"name":"Chiba","id":"chiba","buildings":[{"id":21878,"address":["Maruyama, Japan, 2698-19, 299-2521","Shirako, Minamiboso-shi","Chiba, Japan"],"latitude":"35.005408333333335","longitude":"139.97547222222224","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

@@ -1,0 +1,1 @@
+{"address":["<Address not available>","Ufa, Russia"],"id":21985,"exchanges":[{"name":"RB-IX","slug":"rb-ix-ufa-russia","info":[{"link":"mailto:noc@rb-ix.ru","value":"noc@rb-ix.ru","onclick":null},{"link":"http://rb-ix.ru/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

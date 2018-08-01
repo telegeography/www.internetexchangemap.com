@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"-40.809081","address":["Cabase Viedma","Belgrano 544","Rio Negro, Argentina"],"longitude":"-62.994161","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21552}],"name":"Rio Negro","id":"rio-negro"}
+{"name":"Rio Negro","id":"rio-negro","buildings":[{"id":21552,"address":["Cabase Viedma","Belgrano 544","Rio Negro, Argentina"],"latitude":"-40.809081","longitude":"-62.994161","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

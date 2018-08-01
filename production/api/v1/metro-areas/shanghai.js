@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"31.348499","address":["West Changjiang Road No 101","Shanghai, China"],"longitude":"121.489658","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20331}],"name":"Shanghai","id":"shanghai"}
+{"name":"Shanghai","id":"shanghai","buildings":[{"id":20331,"address":["West Changjiang Road No 101","Shanghai, China"],"latitude":"31.348499","longitude":"121.489658","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

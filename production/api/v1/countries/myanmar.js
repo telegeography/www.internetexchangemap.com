@@ -1,0 +1,1 @@
+{"name":"Myanmar","id":"myanmar","buildings":[{"id":21997,"address":["Building 17, Ground Floor, MICT Park","Yangon, Myanmar"],"latitude":"16.850614","longitude":"96.129043","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

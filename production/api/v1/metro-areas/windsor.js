@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"42.315133","address":["500 Ouellette Ave","Windsor, Canada"],"longitude":"-83.037014","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21638}],"name":"Windsor","id":"windsor"}
+{"name":"Windsor","id":"windsor","buildings":[{"id":21638,"address":["500 Ouellette Ave","Windsor, Canada"],"latitude":"42.315133","longitude":"-83.037014","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

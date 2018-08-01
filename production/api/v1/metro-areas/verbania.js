@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"45.929178","address":["Via dell'Industria 29","Verbania, Italy"],"longitude":"8.463882","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":19625}],"name":"Verbania","id":"verbania"}
+{"name":"Verbania","id":"verbania","buildings":[{"id":19625,"address":["Via dell'Industria 29","Verbania, Italy"],"latitude":"45.929178","longitude":"8.463882","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

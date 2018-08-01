@@ -1,0 +1,1 @@
+{"address":["Av S\u00e3o Paulo, 1223","Jo\u00e3o Pessoa, Brazil"],"id":21972,"exchanges":[{"name":"PTT-JPA","slug":"ptt-jpa-joo-pessoa-brazil","info":[{"link":"mailto:noc@ix.br","value":"noc@ix.br","onclick":null},{"link":"http://ix.br/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

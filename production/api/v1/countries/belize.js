@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"17.511900","address":["University of Belize","Belize City, Belize"],"longitude":"-88.201222","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20471}],"name":"Belize","id":"belize"}
+{"name":"Belize","id":"belize","buildings":[{"id":20471,"address":["University of Belize","Belize City, Belize"],"latitude":"17.511900","longitude":"-88.201222","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

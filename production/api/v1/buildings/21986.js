@@ -1,0 +1,1 @@
+{"address":["Embankment river Moyka, 61","St. Petersburg, Russia"],"id":21986,"exchanges":[{"name":"PITER-IX","slug":"piter-ix-st-petersburg-russia","info":[{"link":"mailto:noc@piter-ix.ru","value":"noc@piter-ix.ru","onclick":null},{"link":"http://piter-ix.ru","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

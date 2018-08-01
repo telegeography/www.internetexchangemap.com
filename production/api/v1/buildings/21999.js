@@ -1,0 +1,1 @@
+{"address":["Huailai Industrial Park","Zhangjiakou, China"],"id":21999,"exchanges":[{"name":"Cnean","slug":"cnean-zhangjiakou-china","info":[{"link":"mailto:noc@cnean.com","value":"noc@cnean.com","onclick":null},{"link":"http://www.cnean.com/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

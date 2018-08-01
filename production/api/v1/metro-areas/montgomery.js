@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"32.378355","address":["445 Dexter Ave","Montgomery, United States, 36104"],"longitude":"-86.302989","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20203}],"name":"Montgomery","id":"montgomery"}
+{"name":"Montgomery","id":"montgomery","buildings":[{"id":20203,"address":["445 Dexter Ave","Montgomery, United States, 36104"],"latitude":"32.378355","longitude":"-86.302989","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

@@ -1,0 +1,1 @@
+{"name":"Ivano-Frankivsk","id":"ivano-frankivsk","buildings":[{"id":22000,"address":["Ivano-Frankivsk, Ukraine"],"latitude":"48.922633","longitude":"24.711117","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

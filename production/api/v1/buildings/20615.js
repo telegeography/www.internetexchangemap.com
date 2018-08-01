@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"ptt-bel-belm-brazil","info":[{"link":"http://ix.br/adesao/bel/","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"PTT-Bel"}],"address":["Rua Augusto Correia, 1","Bel\u00e9m, Brazil, 66075"],"id":20615}
+{"address":["Rua Augusto Correia, 1","Bel\u00e9m, Brazil, 66075"],"id":20615,"exchanges":[{"name":"PTT-Bel","slug":"ptt-bel-belm-brazil","info":[{"link":"http://ix.br/adesao/bel/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

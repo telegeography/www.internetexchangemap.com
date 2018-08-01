@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"ixp-hn-tegucigalpa-honduras","info":[{"link":null,"onclick":null,"value":"Online since: June 2016"}],"name":"IXP-HN"}],"address":["Universidad Nacional Aut\u00f3noma de Honduras","Tegucigalpa, Honduras"],"id":20344}
+{"address":["Universidad Nacional Aut\u00f3noma de Honduras","Tegucigalpa, Honduras"],"id":20344,"exchanges":[{"name":"IXP-HN","slug":"ixp-hn-tegucigalpa-honduras","info":[{"link":null,"value":"Online since: June 2016","onclick":null}]}]}

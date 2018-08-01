@@ -1,0 +1,1 @@
+{"name":"Khabarovsk","id":"khabarovsk","buildings":[{"id":22064,"address":["Promyshlennaya Ulitsa, 20","Khabarovsk, Russia"],"latitude":"48.497145","longitude":"135.103797","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

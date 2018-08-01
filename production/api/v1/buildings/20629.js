@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"ptt-cas-campinas-brazil","info":[{"link":"http://ix.br/adesao/cas/","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"PTT-CAS"}],"address":["Av. Anchieta, 200","SUBSOLO","Campinas, Brazil, 13015"],"id":20629}
+{"address":["Av. Anchieta, 200","SUBSOLO","Campinas, Brazil, 13015"],"id":20629,"exchanges":[{"name":"PTT-CAS","slug":"ptt-cas-campinas-brazil","info":[{"link":"http://ix.br/adesao/cas/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

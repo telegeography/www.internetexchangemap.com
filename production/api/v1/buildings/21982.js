@@ -1,0 +1,1 @@
+{"address":["Younis Bldg 3rd Fl","Sami Solh Avenue","Beirut, Lebanon"],"id":21982,"exchanges":[{"name":"LBIX","slug":"lbix-beirut-lebanon","info":[{"link":"http://www.lbix.net/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

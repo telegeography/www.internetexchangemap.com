@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"ptt-bel-belm-brazil","info":[{"link":"http://ix.br/adesao/bel/","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"PTT-Bel"}],"address":["Travessa Doutor Moraes","21, 8 andar ","Bel\u00e9m, Brazil, 66035"],"id":20618}
+{"address":["Travessa Doutor Moraes","21, 8 andar ","Bel\u00e9m, Brazil, 66035"],"id":20618,"exchanges":[{"name":"PTT-Bel","slug":"ptt-bel-belm-brazil","info":[{"link":"http://ix.br/adesao/bel/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"53.898708","address":["29 K Marx Str","building 2","Minsk, Belarus"],"longitude":"27.558350","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21938}],"name":"Minsk","id":"minsk"}
+{"name":"Minsk","id":"minsk","buildings":[{"id":21938,"address":["29 K Marx Str","building 2","Minsk, Belarus"],"latitude":"53.898708","longitude":"27.558350","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

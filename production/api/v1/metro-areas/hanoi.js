@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"21.031950","address":["\u003Caddress not available\u003E","Hanoi, Vietnam"],"longitude":"105.819908","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":16548}],"name":"Hanoi","id":"hanoi"}
+{"name":"Hanoi","id":"hanoi","buildings":[{"id":16548,"address":["<address not available>","Hanoi, Vietnam"],"latitude":"21.031950","longitude":"105.819908","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

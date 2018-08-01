@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"12.8392817","address":["3rd Floor Cyber Park, 3rd Cross Road","Electronics City, Phase 1","Bangalore, India, 560100"],"longitude":"77.6622361","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18374}],"name":"Bangalore","id":"bangalore"}
+{"name":"Bangalore","id":"bangalore","buildings":[{"id":18374,"address":["3rd Floor Cyber Park, 3rd Cross Road","Electronics City, Phase 1","Bangalore, India, 560100"],"latitude":"12.8392817","longitude":"77.6622361","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

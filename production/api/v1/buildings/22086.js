@@ -1,0 +1,1 @@
+{"address":["Cooperativa de Tel\u00e9fonos de Cochabamba Ltda.","Av. Ballivian # 705 esq.","La Paz, Bolivia"],"id":22086,"exchanges":[{"name":"PITBOLIVIA","slug":"pitbolivia-la-paz-bolivia","info":[{"link":"http://pit.bo/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"},{"link":null,"value":"Online since: November 2013","onclick":null}]}]}

@@ -1,0 +1,1 @@
+{"address":["314 Lake Blvd","Redding, United States, 96003"],"id":22073,"exchanges":[{"name":"JSAX","slug":"jsax-redding-united-states","info":[{"link":"http://jsax.org/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"barix-bridgetown-barbados","info":[],"name":"BARIX"}],"address":["\u003Caddress not available\u003E","Bridgetown, Barbados"],"id":20474}
+{"address":["<address not available>","Bridgetown, Barbados"],"id":20474,"exchanges":[{"name":"BARIX","slug":"barix-bridgetown-barbados","info":[]}]}

@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"lixp-maseru-lesotho","info":[],"name":"LIXP"}],"address":["\u003Caddress not available\u003E","Maseru, Lesotho"],"id":20470}
+{"address":["Lesotho Communications Authority Building","30 Princess Margarent Road","Old Europa","Maseru, Lesotho"],"id":20470,"exchanges":[{"name":"LIXP","slug":"lixp-maseru-lesotho","info":[{"link":"mailto:info@lixp.org.ls","value":"info@lixp.org.ls","onclick":null},{"link":"www.lixp.org.ls","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

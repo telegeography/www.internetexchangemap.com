@@ -1,0 +1,1 @@
+{"address":["Prospekt Oktyabrya, 47","Yaroslavl, Russia"],"id":22120,"exchanges":[{"name":"YAR-IX","slug":"yar-ix-yaroslavl-russia","info":[{"link":"mailto:noc@zavolga.net","value":"noc@zavolga.net","onclick":null},{"link":"http://yar-ix.net/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

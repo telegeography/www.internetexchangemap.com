@@ -1,0 +1,1 @@
+{"name":"S\u00e3o Luis","id":"so-luis","buildings":[{"id":21974,"address":["Rua do Passeio, 877","S\u00e3o Luis, Brazil"],"latitude":"-2.538088","longitude":"-44.296482","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

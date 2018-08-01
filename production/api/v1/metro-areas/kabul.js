@@ -1,0 +1,1 @@
+{"name":"Kabul","id":"kabul","buildings":[{"id":21993,"address":["<Address not available>","Kabul, Afghanistan"],"latitude":"34.551959","longitude":"69.219320","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

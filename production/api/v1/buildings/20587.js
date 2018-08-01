@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"ptt-sp-so-paulo-brazil","info":[{"link":"http://ix.br/adesao/sp/","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"PTT-SP"}],"address":["Rua Casa do Ator 415","Vila Olimpia","S\u00e3o Paulo, Brazil, 04546"],"id":20587}
+{"address":["Rua Casa do Ator 415","Vila Olimpia","S\u00e3o Paulo, Brazil, 04546"],"id":20587,"exchanges":[{"name":"PTT-SP","slug":"ptt-sp-so-paulo-brazil","info":[{"link":"http://ix.br/adesao/sp/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

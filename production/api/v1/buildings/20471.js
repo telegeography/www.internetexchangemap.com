@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"bixp-belize-city-belize","info":[{"link":null,"onclick":null,"value":"Online since: April 2016"}],"name":"BIXP"}],"address":["University of Belize","Belize City, Belize"],"id":20471}
+{"address":["University of Belize","Belize City, Belize"],"id":20471,"exchanges":[{"name":"BIXP","slug":"bixp-belize-city-belize","info":[{"link":null,"value":"Online since: April 2016","onclick":null}]}]}

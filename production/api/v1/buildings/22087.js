@@ -1,0 +1,1 @@
+{"address":["Cooperativa de Telecomunicaciones Sta Cruz Ltda.","Calle Chuquisaca # 168","Santa Cruz, Bolivia"],"id":22087,"exchanges":[{"name":"PITBOLIVIA","slug":"pitbolivia-santa-cruz-bolivia","info":[{"link":"http://pit.bo/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"},{"link":null,"value":"Online since: November 2013","onclick":null}]}]}

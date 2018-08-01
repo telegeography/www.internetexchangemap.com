@@ -1,0 +1,1 @@
+{"name":"Arica","id":"arica","buildings":[{"id":21990,"address":["Loa 1474","Arica, Chile"],"latitude":"-18.471767","longitude":"-70.292504","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

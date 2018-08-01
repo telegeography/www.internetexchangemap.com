@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"ptt-ria-santa-maria-brazil","info":[{"link":"http://ix.br/adesao/ria/","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"PTT-RIA"}],"address":["Rua Dr. Bozano, 1293 - Centro","Santa Maria, Brazil, 97015"],"id":21414}
+{"address":["Rua Dr. Bozano, 1293 - Centro","Santa Maria, Brazil, 97015"],"id":21414,"exchanges":[{"name":"PTT-RIA","slug":"ptt-ria-santa-maria-brazil","info":[{"link":"http://ix.br/adesao/ria/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

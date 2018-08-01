@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"-29.316231","address":["\u003Caddress not available\u003E","Maseru, Lesotho"],"longitude":"27.493130","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20470}],"name":"Maseru","id":"maseru"}
+{"name":"Maseru","id":"maseru","buildings":[{"id":20470,"address":["Lesotho Communications Authority Building","30 Princess Margarent Road","Old Europa","Maseru, Lesotho"],"latitude":"-29.313163","longitude":"27.472953","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

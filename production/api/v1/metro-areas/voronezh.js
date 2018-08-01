@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"51.676250","address":["Studencheskaya, 12\u0430 ","Voronezh, Russia"],"longitude":"39.203748","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21620}],"name":"Voronezh","id":"voronezh"}
+{"name":"Voronezh","id":"voronezh","buildings":[{"id":21620,"address":["Studencheskaya, 12\u0430 ","Voronezh, Russia"],"latitude":"51.676250","longitude":"39.203748","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

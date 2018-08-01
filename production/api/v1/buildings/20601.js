@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"ptt-pr-curitiba-brazil","info":[{"link":"http://ix.br/adesao/pr/","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"PTT-PR"}],"address":[" Rua Nunes Machado, 1797","Curitiba, Brazil, 80220"],"id":20601}
+{"address":[" Rua Nunes Machado, 1797","Curitiba, Brazil, 80220"],"id":20601,"exchanges":[{"name":"PTT-PR","slug":"ptt-pr-curitiba-brazil","info":[{"link":"http://ix.br/adesao/pr/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

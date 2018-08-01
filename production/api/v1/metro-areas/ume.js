@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"63.822923","address":["Umea University","Ume\u00e5, Sweden"],"longitude":"20.310695","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20787}],"name":"Ume\u00e5","id":"ume"}
+{"name":"Ume\u00e5","id":"ume","buildings":[{"id":20787,"address":["Umea University","Ume\u00e5, Sweden"],"latitude":"63.822923","longitude":"20.310695","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"13.5427054","address":["\u003Caddress not available\u003E","Tanguisson Point, Guam"],"longitude":"144.8060918","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":21587}],"name":"Tanguisson Point","id":"tanguisson-point"}
+{"name":"Tanguisson Point","id":"tanguisson-point","buildings":[{"id":21587,"address":["<address not available>","Tanguisson Point, Guam"],"latitude":"13.5427054","longitude":"144.8060918","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

@@ -1,0 +1,1 @@
+{"address":["TELECEL S.A.","Avenida Viedma # 64\u000B","Santa Cruz, Bolivia"],"id":22088,"exchanges":[{"name":"PITBOLIVIA","slug":"pitbolivia-santa-cruz-bolivia","info":[{"link":"http://pit.bo/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"},{"link":null,"value":"Online since: November 2013","onclick":null}]}]}

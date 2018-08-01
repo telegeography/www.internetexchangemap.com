@@ -1,1 +1,1 @@
-{"exchanges":[{"slug":"dn-ix-donetsk-ukraine","info":[{"link":"http://ix.dn.ua/point.html","onclick":"window.open(this.href,'ix-new-window');return false;","value":"Website"}],"name":"DN-IX"}],"address":["Postysheva Street, 60","Donetsk, Ukraine"],"id":21377}
+{"address":["Postysheva Street, 60","Donetsk, Ukraine"],"id":21377,"exchanges":[{"name":"DN-IX","slug":"dn-ix-donetsk-ukraine","info":[{"link":"http://ix.dn.ua/point.html","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

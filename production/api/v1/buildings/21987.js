@@ -1,0 +1,1 @@
+{"address":["Sedova 11B","St. Petersburg, Russia"],"id":21987,"exchanges":[{"name":"PITER-IX","slug":"piter-ix-st-petersburg-russia","info":[{"link":"mailto:noc@piter-ix.ru","value":"noc@piter-ix.ru","onclick":null},{"link":"http://piter-ix.ru","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

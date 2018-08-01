@@ -1,1 +1,1 @@
-{"buildings":[{"latitude":"44.655166","address":["7071 Bayers Road","Halifax, Canada"],"longitude":"-63.626648","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":20160}],"name":"Halifax","id":"halifax"}
+{"name":"Halifax","id":"halifax","buildings":[{"id":20160,"address":["7071 Bayers Road","Halifax, Canada"],"latitude":"44.655166","longitude":"-63.626648","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

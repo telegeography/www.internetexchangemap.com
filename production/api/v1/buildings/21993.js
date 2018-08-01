@@ -1,0 +1,1 @@
+{"address":["<Address not available>","Kabul, Afghanistan"],"id":21993,"exchanges":[{"name":"NIXA","slug":"nixa-kabul-afghanistan","info":[{"link":"mailto:support@nixa.af","value":"support@nixa.af","onclick":null},{"link":"http://www.nixa.af","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}
