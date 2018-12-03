@@ -1,0 +1,1 @@
+{"address":["Rua 14, n. 1161","Maracanau, Brazil"],"id":22294,"exchanges":[{"name":"PTT-CE","slug":"ptt-ce-maracanau-brazil","info":[{"link":"http://ix.br/adesao/ce/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

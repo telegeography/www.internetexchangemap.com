@@ -1,0 +1,1 @@
+{"name":"Point Noire","id":"point-noire","buildings":[{"id":22289,"address":["<Address not available>","Pointe-Noire, Congo, Rep."],"latitude":"-4.769162","longitude":"11.866362","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

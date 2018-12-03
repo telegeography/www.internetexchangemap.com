@@ -1,1 +1,1 @@
-{"name":"Dunedin","id":"dunedin","buildings":[{"id":20545,"address":["<address not available>","Dunedin, New Zealand"],"latitude":"-45.878760","longitude":"170.502798","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Dunedin","id":"dunedin","buildings":[{"id":20545,"address":["<address not available>","Dunedin, New Zealand"],"latitude":"-45.878760","longitude":"170.502798","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

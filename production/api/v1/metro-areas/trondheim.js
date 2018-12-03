@@ -1,1 +1,1 @@
-{"name":"Trondheim","id":"trondheim","buildings":[{"id":20576,"address":["NTNU, Technical University of Trondheim","Trondheim, Norway"],"latitude":"63.430515","longitude":"10.395053","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Trondheim","id":"trondheim","buildings":[{"id":20576,"address":["NTNU, Technical University of Trondheim","Trondheim, Norway"],"latitude":"63.430515","longitude":"10.395053","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

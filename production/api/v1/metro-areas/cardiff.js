@@ -1,1 +1,1 @@
-{"name":"Cardiff","id":"cardiff","buildings":[{"id":19613,"address":["BT Stadium House","5 Park Street","Cardiff, United Kingdom"],"latitude":"51.478187","longitude":"-3.180582","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Cardiff","id":"cardiff","buildings":[{"id":19613,"address":["BT Stadium House","5 Park Street","Cardiff, United Kingdom"],"latitude":"51.478187","longitude":"-3.180582","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

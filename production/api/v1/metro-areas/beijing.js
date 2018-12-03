@@ -1,1 +1,1 @@
-{"name":"Beijing","id":"beijing","buildings":[{"id":21674,"address":["8 Zhu Yuan 3rd St","Tianzhu Free Trade Zone","Beijing, China"],"latitude":"40.096353","longitude":"116.569186","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Beijing","id":"beijing","buildings":[{"id":21674,"address":["8 Zhu Yuan 3rd St","Tianzhu Free Trade Zone","Beijing, China"],"latitude":"40.096353","longitude":"116.569186","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

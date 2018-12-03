@@ -1,1 +1,1 @@
-{"name":"Dubai","id":"dubai","buildings":[{"id":18850,"address":["Equinix Dubai","IMPZ, Dubai Production City","Dubai, United Arab Emirates"],"latitude":"25.026460","longitude":"55.186860","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Dubai","id":"dubai","buildings":[{"id":18850,"address":["Equinix Dubai","IMPZ, Dubai Production City","Dubai, United Arab Emirates"],"latitude":"25.0264601","longitude":"55.1846659","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

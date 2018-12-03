@@ -1,1 +1,1 @@
-{"name":"Piacenza","id":"piacenza","buildings":[{"id":21646,"address":["PIA1 Naquadria","Via Orsi 39","Piacenza, Italy, 29122"],"latitude":"45.050143","longitude":"9.738243","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Piacenza","id":"piacenza","buildings":[{"id":21646,"address":["PIA1 Naquadria","Via Orsi 39","Piacenza, Italy, 29122"],"latitude":"45.050143","longitude":"9.738243","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

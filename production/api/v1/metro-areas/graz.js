@@ -1,1 +1,1 @@
-{"name":"Graz","id":"graz","buildings":[{"id":18030,"address":["Neufeldweg 162","Graz, Austria"],"latitude":"47.0435459","longitude":"15.4659697","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Graz","id":"graz","buildings":[{"id":18030,"address":["Neufeldweg 162","Graz, Austria"],"latitude":"47.0435459","longitude":"15.4659697","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

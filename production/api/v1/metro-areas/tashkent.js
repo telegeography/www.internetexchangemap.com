@@ -1,1 +1,1 @@
-{"name":"Tashkent","id":"tashkent","buildings":[{"id":18904,"address":["Navoi Street 28","Tashkent, Uzbekistan"],"latitude":"41.3219863","longitude":"69.2500238","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Tashkent","id":"tashkent","buildings":[{"id":18904,"address":["Navoi Street 28","Tashkent, Uzbekistan"],"latitude":"41.3219863","longitude":"69.2500238","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

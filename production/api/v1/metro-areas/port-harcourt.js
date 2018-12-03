@@ -1,1 +1,1 @@
-{"name":"Port Harcourt","id":"port-harcourt","buildings":[{"id":22067,"address":["7 Choba Street","Port Harcourt, Nigeria"],"latitude":"4.805936","longitude":"7.005950","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Port Harcourt","id":"port-harcourt","buildings":[{"id":22067,"address":["7 Choba Street","Port Harcourt, Nigeria"],"latitude":"4.805936","longitude":"7.005950","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

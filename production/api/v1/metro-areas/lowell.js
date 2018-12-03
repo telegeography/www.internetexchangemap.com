@@ -1,1 +1,1 @@
-{"name":"Lowell","id":"lowell","buildings":[{"id":19735,"address":["2 Prince Avenue","Lowell, United States"],"latitude":"42.629809","longitude":"-71.305918","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Lowell","id":"lowell","buildings":[{"id":22224,"address":["1 Markley Way","Lowell, United States"],"latitude":"42.630129","longitude":"-71.304840","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

@@ -1,1 +1,1 @@
-{"name":"Kuala Lumpur","id":"kuala-lumpur","buildings":[{"id":17163,"address":["Menara Aik Hua","Cangkat Raja Chulan","50200","Kuala Lumpur, Malaysia, 50200"],"latitude":"3.149439","longitude":"101.705977","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Kuala Lumpur","id":"kuala-lumpur","buildings":[{"id":17163,"address":["Menara Aik Hua","Cangkat Raja Chulan","50200","Kuala Lumpur, Malaysia, 50200"],"latitude":"3.149439","longitude":"101.705977","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

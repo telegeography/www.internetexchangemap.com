@@ -1,1 +1,1 @@
-{"name":"Spijkenisse","id":"spijkenisse","buildings":[{"id":19229,"address":["Boyleweg 2","Spijkenisse, Netherlands"],"latitude":"51.855708","longitude":"4.302027","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Spijkenisse","id":"spijkenisse","buildings":[{"id":19229,"address":["Boyleweg 2","Spijkenisse, Netherlands"],"latitude":"51.855708","longitude":"4.302027","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

@@ -1,0 +1,1 @@
+{"address":["Rruga e Durresit Nr. 219","Tirane, Albania"],"id":22229,"exchanges":[{"name":"ANIX","slug":"anix-tirane-albania","info":[{"link":"mailto:policy@anix.al","value":"policy@anix.al","onclick":null},{"link":"https://www.anix.al/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

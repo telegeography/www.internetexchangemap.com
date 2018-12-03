@@ -1,1 +1,1 @@
-{"name":"Redding","id":"redding","buildings":[{"id":22073,"address":["314 Lake Blvd","Redding, United States, 96003"],"latitude":"40.611080","longitude":"-122.382140","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Redding","id":"redding","buildings":[{"id":22073,"address":["314 Lake Blvd","Redding, United States, 96003"],"latitude":"40.611080","longitude":"-122.382140","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

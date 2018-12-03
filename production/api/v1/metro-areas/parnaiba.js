@@ -1,0 +1,1 @@
+{"name":"Parnaiba","id":"parnaiba","buildings":[{"id":22305,"address":["Estrada dos Romeiros, 943","Parnaiba, Brazil"],"latitude":"-23.496225","longitude":"-46.876923","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

@@ -1,1 +1,1 @@
-{"name":"Zhangjiakou","id":"zhangjiakou","buildings":[{"id":21999,"address":["Huailai Industrial Park","Zhangjiakou, China"],"latitude":"40.415343","longitude":"115.517861","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Zhangjiakou","id":"zhangjiakou","buildings":[{"id":21999,"address":["Huailai Industrial Park","Zhangjiakou, China"],"latitude":"40.415343","longitude":"115.517861","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

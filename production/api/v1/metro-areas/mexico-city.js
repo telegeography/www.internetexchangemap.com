@@ -1,1 +1,1 @@
-{"name":"Mexico City","id":"mexico-city","buildings":[{"id":19499,"address":["Paseo de la Reforma 2977","Mexico City, Mexico"],"latitude":"19.363473","longitude":"-99.280877","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Mexico City","id":"mexico-city","buildings":[{"id":19144,"address":["Prolongacion Paseo de la Reforma 5287","Mexico City, Mexico"],"latitude":"19.383064","longitude":"-99.245699","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

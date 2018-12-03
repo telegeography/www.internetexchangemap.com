@@ -1,1 +1,1 @@
-{"name":"Ottawa","id":"ottawa","buildings":[{"id":8175,"address":["102 Bank Street","Suite 200","Ottawa, Canada, K1P 5H3"],"latitude":"45.4201706","longitude":" -75.7004403","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Ottawa","id":"ottawa","buildings":[{"id":8175,"address":["264 Albert St","Ottawa, Canada, K1P 5H3"],"latitude":"45.419526","longitude":"-75.701020","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

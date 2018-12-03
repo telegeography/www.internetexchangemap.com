@@ -1,1 +1,1 @@
-{"name":"Penang","id":"penang","buildings":[{"id":18856,"address":["Lintang Jalan Mayang Pasir 3","Bandar Bayan Baru","Penang, Malaysia, 11950"],"latitude":"5.3254305","longitude":"100.286349","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Penang","id":"penang","buildings":[{"id":18856,"address":["Lintang Jalan Mayang Pasir 3","Bandar Bayan Baru","Penang, Malaysia, 11950"],"latitude":"5.3254305","longitude":"100.286349","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

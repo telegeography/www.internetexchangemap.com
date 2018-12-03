@@ -1,1 +1,1 @@
-{"name":"Constanta","id":"constanta","buildings":[{"id":18647,"address":["Strada Ion Neni\u021bescu","Constanta, Romania"],"latitude":"44.1838495","longitude":"28.6326799","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Constanta","id":"constanta","buildings":[{"id":22247,"address":["Bd. Mamaia nr. 102-104","Constanta, Romania"],"latitude":"44.188283","longitude":"28.650439","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

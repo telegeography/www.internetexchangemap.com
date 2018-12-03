@@ -1,0 +1,1 @@
+{"address":["Vadianstrasse 8","St. Gallen, Switzerland"],"id":22244,"exchanges":[{"name":"Rheintal IX","slug":"rheintal-ix-st-gallen-switzerland","info":[{"link":"mailto:info@rheintal-ix.net","value":"info@rheintal-ix.net","onclick":null},{"link":"https://www.rheintal-ix.net/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

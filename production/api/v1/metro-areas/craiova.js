@@ -1,0 +1,1 @@
+{"name":"Craiova","id":"craiova","buildings":[{"id":22249,"address":["Bd. Decebal nr. 85","Craiova, Romania"],"latitude":"44.316567","longitude":"23.835249","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

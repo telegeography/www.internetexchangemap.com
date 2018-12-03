@@ -1,1 +1,1 @@
-{"name":"Palmas","id":"palmas","buildings":[{"id":21673,"address":["Rua NS-B, 1102 Sul, 10","Sala 23, Plano Diretor Sul","Palmas, Brazil"],"latitude":"-10.252302","longitude":"-48.331727","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Palmas","id":"palmas","buildings":[{"id":21673,"address":["Rua NS-B, 1102 Sul, 10","Sala 23, Plano Diretor Sul","Palmas, Brazil"],"latitude":"-10.252302","longitude":"-48.331727","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

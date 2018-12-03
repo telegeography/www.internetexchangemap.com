@@ -1,1 +1,1 @@
-{"name":"Kanto","id":"kanto","buildings":[{"id":8891,"address":["<address not available>","Saitama, Japan"],"latitude":"37.760834","longitude":"140.474728","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Kanto","id":"kanto","buildings":[{"id":8891,"address":["<address not available>","Saitama, Japan"],"latitude":"37.760834","longitude":"140.474728","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

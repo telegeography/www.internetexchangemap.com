@@ -1,1 +1,1 @@
-{"name":"Zoetermeer","id":"zoetermeer","buildings":[{"id":20235,"address":["ColoCenter Zoetermeer","Heliumstraat 200","Zoetermeer, Netherlands"],"latitude":"52.033203","longitude":"4.496529","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Zoetermeer","id":"zoetermeer","buildings":[{"id":20235,"address":["ColoCenter Zoetermeer","Heliumstraat 200","Zoetermeer, Netherlands"],"latitude":"52.033203","longitude":"4.496529","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

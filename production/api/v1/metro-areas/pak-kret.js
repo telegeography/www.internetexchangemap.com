@@ -1,0 +1,1 @@
+{"name":"Pak Kret","id":"pak-kret","buildings":[{"id":22304,"address":["3 Popular Rd","Pak Kret, Thailand"],"latitude":"13.911063","longitude":"100.550268","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

@@ -1,1 +1,1 @@
-{"name":"Ivano-Frankivsk","id":"ivano-frankivsk","buildings":[{"id":22000,"address":["Ivano-Frankivsk, Ukraine"],"latitude":"48.922633","longitude":"24.711117","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Ivano-Frankivsk","id":"ivano-frankivsk","buildings":[{"id":22000,"address":["Sichovih Striltsiv str., 16 / 1a","Ivano-Frankivsk, Ukraine"],"latitude":"48.919416","longitude":"24.707083","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

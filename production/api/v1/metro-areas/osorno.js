@@ -1,1 +1,1 @@
-{"name":"Osorno","id":"osorno","buildings":[{"id":21992,"address":["Avda. Francisco Bilbao 1470","Osorno, Chile"],"latitude":"-40.576150","longitude":"-73.125155","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Osorno","id":"osorno","buildings":[{"id":21992,"address":["Avda. Francisco Bilbao 1470","Osorno, Chile"],"latitude":"-40.576150","longitude":"-73.125155","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

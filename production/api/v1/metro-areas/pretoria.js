@@ -1,1 +1,1 @@
-{"name":"Pretoria","id":"pretoria","buildings":[{"id":20611,"address":["21 Landmarks Avenue","Samrand","Centurion, South Africa"],"latitude":"-25.926833","longitude":"28.141361","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Pretoria","id":"pretoria","buildings":[{"id":20611,"address":["21 Landmarks Avenue","Samrand","Centurion, South Africa"],"latitude":"-25.926833","longitude":"28.141361","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

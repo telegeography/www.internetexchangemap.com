@@ -1,0 +1,1 @@
+{"name":"Glasgow","id":"glasgow","buildings":[{"id":22300,"address":["Fortis Datacentre","Unit 1, York Rd","Chapelhall, United Kingdom"],"latitude":"55.835052","longitude":"-3.953380","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

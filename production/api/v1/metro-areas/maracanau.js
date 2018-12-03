@@ -1,0 +1,1 @@
+{"name":"Maracanau","id":"maracanau","buildings":[{"id":22294,"address":["Rua 14, n. 1161","Maracanau, Brazil"],"latitude":"-3.831432","longitude":"-38.612660","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

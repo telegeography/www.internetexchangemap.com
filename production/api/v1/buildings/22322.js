@@ -1,0 +1,1 @@
+{"address":["51 Serangoon North Ave","Singapore, Singapore"],"id":22322,"exchanges":[{"name":"MegaIX Singapore","slug":"megaix-singapore-singapore-singapore","info":[]}]}

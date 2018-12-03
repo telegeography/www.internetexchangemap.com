@@ -1,0 +1,1 @@
+{"name":"Mashhad","id":"mashhad","buildings":[{"id":22312,"address":["<Address not available>","Mashhad, Iran"],"latitude":"36.260462","longitude":"59.616755","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

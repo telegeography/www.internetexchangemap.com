@@ -1,1 +1,1 @@
-{"name":"Temuco","id":"temuco","buildings":[{"id":21991,"address":["Bernardo O'Higgins 485","Temuco, Chile"],"latitude":"-38.742760","longitude":"-72.596054","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Temuco","id":"temuco","buildings":[{"id":21991,"address":["Bernardo O'Higgins 485","Temuco, Chile"],"latitude":"-38.742760","longitude":"-72.596054","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

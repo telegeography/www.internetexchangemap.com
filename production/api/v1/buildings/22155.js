@@ -1,0 +1,1 @@
+{"address":["1/18, C.I.T Scheme VII - M.","Ultadanga","Kolkata, India"],"id":22155,"exchanges":[{"name":"Extreme IX Kolkata","slug":"extreme-ix-kolkata-kolkata-india","info":[{"link":"mailto:ix@x3me.net","value":"ix@x3me.net","onclick":null},{"link":"https://extreme-ix.org/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

@@ -1,0 +1,1 @@
+{"name":"Jimbaran","id":"jimbaran","buildings":[{"id":20081,"address":["Rimba Hotel","Karang Mas Estate","Jl Karang Mas Sejahtera","Jimbaran, Indonesia"],"latitude":"-8.787648","longitude":"115.157872","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

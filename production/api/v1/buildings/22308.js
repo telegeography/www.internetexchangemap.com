@@ -1,0 +1,1 @@
+{"address":["Antonia Lopez de Bello 114","Santiago, Chile, 8420481"],"id":22308,"exchanges":[{"name":"SCL-IX Chile","slug":"scl-ix-chile-santiago-chile","info":[{"link":"mailto:peering@sclix.cl","value":"peering@sclix.cl","onclick":null},{"link":"www.sclix.cl","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

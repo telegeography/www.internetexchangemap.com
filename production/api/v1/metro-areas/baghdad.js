@@ -1,1 +1,1 @@
-{"name":"Baghdad","id":"baghdad","buildings":[{"id":21589,"address":["<address not available>","Baghdad, Iraq"],"latitude":"33.3113716","longitude":"44.0757226","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Baghdad","id":"baghdad","buildings":[{"id":21589,"address":["<address not available>","Baghdad, Iraq"],"latitude":"33.3113716","longitude":"44.0757226","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

@@ -1,1 +1,1 @@
-{"name":"Brockton","id":"brockton","buildings":[{"id":19385,"address":["60 School Street","Brockton, United States"],"latitude":"42.082882","longitude":"-71.018268","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Brockton","id":"brockton","buildings":[{"id":19385,"address":["60 School Street","Brockton, United States"],"latitude":"42.082882","longitude":"-71.018268","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

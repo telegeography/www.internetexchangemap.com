@@ -1,1 +1,1 @@
-{"name":"Norwalk","id":"norwalk","buildings":[{"id":19942,"address":["CyrusOne Norwalk","6 Norden Place","Norwalk, United States"],"latitude":"41.111571","longitude":"-73.391548","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Norwalk","id":"norwalk","buildings":[{"id":19942,"address":["CyrusOne Norwalk","6 Norden Place","Norwalk, United States"],"latitude":"41.111571","longitude":"-73.391548","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

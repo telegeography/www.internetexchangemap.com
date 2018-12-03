@@ -1,1 +1,1 @@
-{"name":"Mombasa","id":"mombasa","buildings":[{"id":19585,"address":["SEACOM Cable Landing Station","Swahili Cultural Center, South of Fort Jesus","Mombasa, Kenya"],"latitude":"-4.064476","longitude":"39.680115","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Mombasa","id":"mombasa","buildings":[{"id":20653,"address":["<address not available> ","Mombasa, Kenya"],"latitude":"-4.043477","longitude":"39.668206","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

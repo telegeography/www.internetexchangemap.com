@@ -1,1 +1,1 @@
-{"name":"Guntur","id":"guntur","buildings":[{"id":21984,"address":["<Address not available>","Guntur, India"],"latitude":"16.306652","longitude":"80.436540","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Guntur","id":"guntur","buildings":[{"id":21984,"address":["<Address not available>","Guntur, India"],"latitude":"16.306652","longitude":"80.436540","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

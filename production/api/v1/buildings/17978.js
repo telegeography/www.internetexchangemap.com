@@ -1,0 +1,1 @@
+{"address":["6 Haddows Road","Nungambakkam","Chennai, India, 600006"],"id":17978,"exchanges":[{"name":"Extreme IX Chennai","slug":"extreme-ix-chennai-chennai-india","info":[{"link":"mailto:ix@x3me.net","value":"ix@x3me.net","onclick":null},{"link":"https://extreme-ix.org/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

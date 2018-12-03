@@ -1,1 +1,1 @@
-{"name":"Cyberjaya","id":"cyberjaya","buildings":[{"id":20608,"address":["Jalan Teknokrat 6","Cyberjaya, Malaysia"],"latitude":"2.914925","longitude":"101.654353","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Cyberjaya","id":"cyberjaya","buildings":[{"id":20608,"address":["Jalan Teknokrat 6","Cyberjaya, Malaysia"],"latitude":"2.914925","longitude":"101.654353","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

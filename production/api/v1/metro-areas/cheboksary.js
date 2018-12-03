@@ -1,0 +1,1 @@
+{"name":"Cheboksary","id":"cheboksary","buildings":[{"id":22227,"address":["Presidential boulevard, 31","Cheboksary, Russia"],"latitude":"61.524010","longitude":"105.318756","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

@@ -1,0 +1,1 @@
+{"address":["Presidential boulevard, 31","Cheboksary, Russia"],"id":22227,"exchanges":[{"name":"W-IX","slug":"w-ix-cheboksary-russia","info":[{"link":null,"value":"+7 495 988 6011","onclick":null},{"link":"mailto:noc@w-ix.com","value":"noc@w-ix.com","onclick":null},{"link":"www.w-ix.ru","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

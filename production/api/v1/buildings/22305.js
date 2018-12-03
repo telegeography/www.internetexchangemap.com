@@ -1,0 +1,1 @@
+{"address":["Estrada dos Romeiros, 943","Santana de Parnaiba, Brazil"],"id":22305,"exchanges":[{"name":"PTT-SP","slug":"ptt-sp-so-paulo-brazil","info":[{"link":"http://ix.br/adesao/sp/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

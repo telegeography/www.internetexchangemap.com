@@ -1,1 +1,1 @@
-{"name":"Bangor","id":"bangor","buildings":[{"id":22077,"address":["University of Maine System","5752 Neville Hall","Orono, United States"],"latitude":"44.901994","longitude":"-68.666740","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Bangor","id":"bangor","buildings":[{"id":22077,"address":["University of Maine System","5752 Neville Hall","Orono, United States"],"latitude":"44.901994","longitude":"-68.666740","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

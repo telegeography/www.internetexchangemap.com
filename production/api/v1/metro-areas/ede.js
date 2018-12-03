@@ -1,1 +1,1 @@
-{"name":"Ede","id":"ede","buildings":[{"id":16917,"address":["BIT-2","Galileilaan 19","Ede, Netherlands, 6716 BP"],"latitude":"52.0276117","longitude":"5.6242624","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Ede","id":"ede","buildings":[{"id":16917,"address":["BIT-2","Galileilaan 19","Ede, Netherlands, 6716 BP"],"latitude":"52.0276117","longitude":"5.6242624","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

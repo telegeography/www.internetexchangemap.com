@@ -1,1 +1,1 @@
-{"name":"Botswana","id":"botswana","buildings":[{"id":18816,"address":["Plot 14399 Lobatse Road","Gaborone West","Gabarone, Botswana"],"latitude":"-25.207615","longitude":"25.680587","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Botswana","id":"botswana","buildings":[{"id":18816,"address":["Plot 14399 Lobatse Road","Gaborone West","Gabarone, Botswana"],"latitude":"-25.207615","longitude":"25.680587","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

@@ -1,0 +1,1 @@
+{"name":"Arad","id":"arad","buildings":[{"id":22251,"address":["Calea 6 V\u00e2n\u0103tori nr. 51","Arad, Romania"],"latitude":"46.199254","longitude":"21.319733","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

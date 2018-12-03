@@ -1,1 +1,1 @@
-{"name":"Sacramento","id":"sacramento","buildings":[{"id":16541,"address":["1100 North Market Blvd","Sacramento, United States, 95834"],"latitude":"38.646782","longitude":"-121.487569","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}
+{"name":"Sacramento","id":"sacramento","buildings":[{"id":16541,"address":["1100 North Market Blvd","Sacramento, United States, 95834"],"latitude":"38.646782","longitude":"-121.487569","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

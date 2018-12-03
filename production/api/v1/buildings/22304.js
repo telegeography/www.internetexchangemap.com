@@ -1,0 +1,1 @@
+{"address":["3 Popular Rd","Pak Kret, Thailand"],"id":22304,"exchanges":[{"name":"NIX","slug":"nix-pak-kret-thailand","info":[{"link":"mailto:sales@trueintergateway.com","value":"sales@trueintergateway.com","onclick":null},{"link":"http://trueintergateway.truecorp.co.th/dix.html","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

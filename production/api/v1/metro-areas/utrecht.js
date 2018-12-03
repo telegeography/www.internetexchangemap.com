@@ -1,0 +1,1 @@
+{"name":"Utrecht","id":"utrecht","buildings":[{"id":22325,"address":["Kon. Wilhelminaweg 471","Utrecht, Netherlands"],"latitude":"52.122761","longitude":"5.143087","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

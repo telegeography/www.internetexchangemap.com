@@ -1,0 +1,1 @@
+{"address":["Ernesto Pinto Lagarrigue 239","Recoleta","Santiago, Chile, 8420445"],"id":22310,"exchanges":[{"name":"SCL-IX Chile","slug":"scl-ix-chile-santiago-chile","info":[{"link":"mailto:peering@sclix.cl","value":"peering@sclix.cl","onclick":null},{"link":"www.sclix.cl","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

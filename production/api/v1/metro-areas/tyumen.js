@@ -1,0 +1,1 @@
+{"name":"Tyumen","id":"tyumen","buildings":[{"id":22228,"address":["Latitude, 29","Tyumen, Russia"],"latitude":"57.161298","longitude":"65.525017","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

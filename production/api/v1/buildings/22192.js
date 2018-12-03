@@ -1,0 +1,1 @@
+{"address":["J. Baltrusaicio, g. 9","Vilnius, Lithuania"],"id":22192,"exchanges":[{"name":"LIXP","slug":"lixp-vilnius-lithuania","info":[{"link":null,"value":"370 67 274 818","onclick":null},{"link":"mailto:noc@lixp.lt","value":"noc@lixp.lt","onclick":null},{"link":"http://www.lixp.lt/en","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}
