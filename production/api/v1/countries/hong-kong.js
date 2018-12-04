@@ -1,1 +1,0 @@
-{"buildings":[{"longitude":"114.120033","address":["CITIC Telecom Tower","93 Kwai Fuk Road","Hong Kong, Hong Kong"],"offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18992,"latitude":"22.360138"}],"name":"Hong Kong","id":"hong-kong"}

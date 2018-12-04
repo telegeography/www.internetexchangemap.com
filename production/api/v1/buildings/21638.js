@@ -1,1 +1,0 @@
-{"address":["500 Ouellette Ave","Windsor, Canada"],"id":21638,"exchanges":[{"name":"WEDIX","slug":"wedix-windsor-canada","info":[{"link":null,"value":"226 674 3636","onclick":null},{"link":"mailto:info@cw-e.com","value":"info@cw-e.com","onclick":null},{"link":"http://cw-e.com/projects.html","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

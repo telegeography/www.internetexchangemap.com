@@ -1,1 +1,0 @@
-{"exchanges":[{"info":[{"onclick":null,"link":null,"value":"1 215 745 4944"},{"onclick":null,"link":"mailto:peering@phlix.net","value":"peering@phlix.net"}],"slug":"phlix-philadelphia-united-states","name":"PHLIX"}],"address":["1500 Spring Garden Street","Philadelphia, United States"],"id":19586}

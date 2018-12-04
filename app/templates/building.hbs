@@ -1,0 +1,32 @@
+<div class="exchange-link">{{#link-to "index"}}Internet Exchange List{{/link-to}}</div>
+<h2 class="search-result-name">Selected Building:</h2>
+<a class="email-link" href="mailto:?Subject=TeleGeography%20Internet%20Exchange%20Map&Body=" onclick="this.href=this.href+window.location.href;">Email link</a>
+<div class="building">
+	<div class="building-icon"></div>
+	<div class="building-info">
+		<div class="building-address">
+			{{building-address address=model.address}}
+		</div>
+	</div>
+	<div class="clear-em-both"></div>
+</div>
+<h2 class="exchanges-available">IXes located in this building:</h2>
+{{#each model.exchanges as |exchange|}}
+<div class="exchange">
+	<div class="exchange-icon"></div>
+	<div class="exchange-name">
+		{{#link-to "internet-exchange" exchange.slug}}{{exchange.name}}{{/link-to}}
+	</div>
+	<div class="exchange-info">
+		{{#each exchange.info as |info|}}
+		<div class="exchange-contact">
+		{{#if info.link}}
+			<a onclick={{info.onclick}} href={{info.link}}>{{info.value}}</a><br>
+		{{else}}
+			{{info.value}}<br>
+		{{/if}}
+		</div>
+		{{/each}}
+	</div>
+</div>
+{{/each}}

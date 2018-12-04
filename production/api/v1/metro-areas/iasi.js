@@ -1,1 +1,0 @@
-{"name":"Iasi","id":"iasi","buildings":[{"id":18644,"address":["Pietonalul Lapusneanu","Iasi, Romania"],"latitude":"47.1679427","longitude":"27.5782642","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

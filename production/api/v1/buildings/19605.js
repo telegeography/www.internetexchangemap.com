@@ -1,1 +1,0 @@
-{"address":["Barr Street","Birmingham, United Kingdom"],"id":19605,"exchanges":[{"name":"UNIFI-IX","slug":"unifi-ix-birmingham-united-kingdom","info":[{"link":"mailto:sales@unifi-ix.net","value":"sales@unifi-ix.net","onclick":null},{"link":"http://www.unifi-ix.net/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

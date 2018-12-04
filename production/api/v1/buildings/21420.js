@@ -1,1 +1,0 @@
-{"address":["Rua Bernardino de Campos, 3039","11o Andar - Centro","S\u00e3o Jos\u00e9 do Rio Preto, Brazil, 15015"],"id":21420,"exchanges":[{"name":"PTT-SJP","slug":"ptt-sjp-so-jos-do-rio-preto-brazil","info":[{"link":"http://ix.br/adesao/sjp/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

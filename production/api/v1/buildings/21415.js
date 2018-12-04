@@ -1,1 +1,0 @@
-{"address":["Avenida Dois de Novembro, 680","Patronato","Santa Maria, Brazil, 97020"],"id":21415,"exchanges":[{"name":"PTT-RIA","slug":"ptt-ria-santa-maria-brazil","info":[{"link":"http://ix.br/adesao/ria/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

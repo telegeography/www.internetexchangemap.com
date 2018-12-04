@@ -1,1 +1,0 @@
-{"address":["\u003Caddress not available\u003E","Salt Lake City, United States"],"exchanges":[{"slug":"slix-salt-lake-city-united-states","info":[{"link":"mailto:info@slix.net","value":"info@slix.net","onclick":null},{"link":"http://www.slix.net","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"SLIX"}],"id":9901}

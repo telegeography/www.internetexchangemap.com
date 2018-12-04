@@ -1,1 +1,0 @@
-{"name":"Afghanistan","id":"afghanistan","buildings":[{"id":21993,"address":["MCIT Microwave Communication Station","Mohammad Jan Khan Watt","Kabul, Afghanistan"],"latitude":"34.5208163","longitude":"69.1518009","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

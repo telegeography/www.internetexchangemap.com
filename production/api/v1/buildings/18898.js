@@ -1,1 +1,0 @@
-{"address":["Nowogrodzka 10","Warsaw, Poland"],"id":18898,"exchanges":[{"name":"TPIX","slug":"tpix-warsaw-poland","info":[{"link":null,"value":"(+48 22) 527 00 00","onclick":null},{"link":"http://www.tpix.pl/en/index.html","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

@@ -1,1 +1,0 @@
-{"address":["TowardEx","82 Broad St","Boston, United States"],"id":21584,"exchanges":[{"name":"NNENIX","slug":"nnenix-boston-united-states","info":[{"link":"mailto:noc@nnenix.net","value":"noc@nnenix.net","onclick":null},{"link":"http://www.nnenix.net","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

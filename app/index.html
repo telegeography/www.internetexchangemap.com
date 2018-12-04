@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Internet Exchange Map</title>
+    <meta name="twitter:card" value="summary_large_image" />
+    <meta name="twitter:image" content="http://twentyfiveyears-assets.telegeography.com/internetexchangemap.png" />
+    <meta property="og:image" content="http://twentyfiveyears-assets.telegeography.com/internetexchangemap.png" />
+    <meta name="twitter:title" content="Internet Exchange Map" />
+    <meta property="og:title" content="Internet Exchange Map" />
+    <meta name="twitter:description" content="TeleGeography’s free interactive Internet Exchange Map depicts over 300 active Internet exchanges and more than 500 buildings in which those exchanges reside." />
+    <meta property="og:description" content="TeleGeography’s free interactive Internet Exchange Map depicts over 300 active Internet exchanges and more than 500 buildings in which those exchanges reside." />
+    <meta property="og:url" content="https://www.internetexchangemap.com/" />
+    <meta property="og:type" content="article" />
+    <meta name="twitter:site" content="@telegeography" />
+    <meta name="twitter:creator" content="@telegeography" />
+    <meta property="og:site_name" content="https://www.internetexchangemap.com/" />
+    <meta name="description" content="TeleGeography’s free interactive Internet Exchange Map depicts over 300 active Internet exchanges and more than 500 buildings in which those exchanges reside.">
+    <meta name="keywords" content="internet exchange map, telegeography, international internet exchange, internet exchange">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    {{content-for "head"}}
+
+    <link integrity="" rel="stylesheet" href="{{rootURL}}assets/vendor.css">
+    <link integrity="" rel="stylesheet" href="{{rootURL}}assets/internetexchangemap-dot-com.css">
+
+    {{content-for "head-footer"}}
+  </head>
+  <body>
+    {{content-for "body"}}
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCtcU7xcFfceVryLHg1Fog2cXFj397Wz0A" type="text/javascript"></script>
+    <script src="{{rootURL}}assets/vendor.js"></script>
+    <script src="{{rootURL}}assets/internetexchangemap-dot-com.js"></script>
+
+    {{content-for "body-footer"}}
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-397578-10']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    <script type="text/javascript">
+      (function(d,s,i,r) {
+      if (d.getElementById(i)){return;}
+      var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+      n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/594292.js';
+      e.parentNode.insertBefore(n, e);
+      })(document,"script","hs-analytics",300000);
+    </script>
+  </body>
+</html>

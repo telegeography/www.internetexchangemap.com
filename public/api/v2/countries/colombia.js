@@ -1,0 +1,1 @@
+{"name":"Colombia","id":"colombia","buildings":[{"id":8111,"address":["CCIT ","Calle 100","No. 8A-55","Torre C piso 7","Bogot\u00e1, Colombia"],"latitude":"4.6810481466182","longitude":"-74.04094487428665","offset":"background:url('images/markers.png') no-repeat -1166px 0","marker_offset":1166}]}

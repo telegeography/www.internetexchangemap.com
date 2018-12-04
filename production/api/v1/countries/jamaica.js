@@ -1,1 +1,0 @@
-{"name":"Jamaica","id":"jamaica","buildings":[{"id":20476,"address":["<address not available>","Kingston, Jamaica"],"latitude":"17.992606","longitude":"-76.792135","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

@@ -1,1 +1,0 @@
-{"exchanges":[{"info":[{"onclick":null,"link":null,"value":"1 215 745 4944"},{"onclick":null,"link":"mailto:peering@phlix.net","value":"peering@phlix.net"}],"slug":"phlix-philadelphia-united-states","name":"PHLIX"}],"address":["3701 Market Street","Philadelphia, United States, 19104"],"id":8510}

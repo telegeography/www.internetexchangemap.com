@@ -1,1 +1,0 @@
-{"name":"Simferopol","id":"simferopol","buildings":[{"address":["Gorkogo Street 32","Simferopol, Ukraine"],"latitude":"44.959845","longitude":"34.108565","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18820}]}

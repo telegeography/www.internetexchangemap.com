@@ -1,1 +1,0 @@
-{"address":["187 Billerica Road","Chelmsford, United States"],"id":21396,"exchanges":[{"name":"MASS IX","slug":"mass-ix-chelmsford-united-states","info":[{"link":"mailto:info@mass-ix.net","value":"info@mass-ix.net","onclick":null},{"link":"http://www.mass-ix.net","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

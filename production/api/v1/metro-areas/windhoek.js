@@ -1,1 +1,0 @@
-{"name":"Windhoek","id":"windhoek","buildings":[{"latitude":"-22.570000","address":["\u003Caddress not available\u003E","Windhoek, Namibia"],"longitude":"17.083611","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":17928}]}

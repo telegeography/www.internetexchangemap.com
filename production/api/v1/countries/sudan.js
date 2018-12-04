@@ -1,1 +1,0 @@
-{"name":"Sudan","id":"sudan","buildings":[{"latitude":"15.550635","address":["\u003Caddress not found\u003E","Khartoum, Sudan"],"longitude":"32.532381","offset":"background:url('images/markers.png') no-repeat -1166px 0;","id":18902}]}

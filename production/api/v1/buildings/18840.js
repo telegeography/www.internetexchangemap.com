@@ -1,1 +1,0 @@
-{"address":["\u003Caddress not available\u003E","Salvador, Brazil"],"exchanges":[{"slug":"ptt-salvador-brazil","info":[{"link":"mailto:mkaoruka@nic.br","value":"mkaoruka@nic.br","onclick":null},{"link":"http://ptt.br/adesao/ba/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}],"name":"PTT"}],"id":18840}

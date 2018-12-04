@@ -1,1 +1,0 @@
-{"name":"Oradea","id":"oradea","buildings":[{"id":18645,"address":["Strada Republicii","Oradea, Romania"],"latitude":"47.0653955","longitude":"21.9370647","offset":"background:url('images/markers.png') no-repeat -1166px 0;"}]}

@@ -1,0 +1,10 @@
+<div class="exchange-link">
+  {{#link-to "index"}}Internet Exchange List{{/link-to}}
+</div>
+<h2 class="search-result-name">
+  {{model.name}}
+</h2>
+<a class="email-link" href="mailto:?Subject=TeleGeography%20Internet%20Exchange%20Map&Body=" onclick="this.href=this.href+window.location.href;">Email link</a>
+{{#each model.buildings as |building|}}
+  {{building-address-link building=building}}
+{{/each}}

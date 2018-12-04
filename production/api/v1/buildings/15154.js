@@ -1,1 +1,0 @@
-{"address":["Citic Tower","8/F, Citic Tower, 1 Tim Mei Avenue","Hong Kong, China"],"id":15154,"exchanges":[{"name":"APIX","slug":"apix-hong-kong-china","info":[{"link":null,"value":"+86-10-58501800","onclick":null},{"link":"http://en.chinatelecom.com.cn/products/03/t20060120_6820.html","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

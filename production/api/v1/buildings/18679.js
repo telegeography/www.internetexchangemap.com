@@ -1,1 +1,0 @@
-{"exchanges":[{"slug":"slix-freetown-sierra-leone","name":"SLIX","info":[{"onclick":"window.open(this.href,'ix-new-window');return false;","link":"http://www.slix.sl/","value":"Website"},{"onclick":null,"link":null,"value":"Online since: June 2010"}]}],"address":["7 Wallace Johnson Street","Freetown, Sierra Leone"],"id":18679}

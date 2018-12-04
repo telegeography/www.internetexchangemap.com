@@ -1,0 +1,1 @@
+{"name":"Mauritius","id":"mauritius","buildings":[{"id":20158,"address":["Raffles Tower","11th floor","Ebene, Mauritius"],"latitude":"-20.243312","longitude":"57.496361","offset":"background:url('images/markers.png') no-repeat -1166px 0","marker_offset":1166}]}

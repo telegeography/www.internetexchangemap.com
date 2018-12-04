@@ -1,1 +1,0 @@
-{"address":["<address not available>","Tunis, Tunisia"],"id":18846,"exchanges":[{"name":"TunIXP","slug":"tunixp-tunis-tunisia","info":[{"link":null,"value":"(+216) 71 846 100 ","onclick":null},{"link":"mailto:com@ati.tn","value":"com@ati.tn","onclick":null},{"link":"http://www.ati.tn/TunIXP/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}
