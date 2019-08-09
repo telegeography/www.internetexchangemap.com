@@ -1,1 +1,1 @@
-{"address":["Av. Professor Luciano Gualberto, 71","S\u00e3o Paulo, Brazil"],"id":22298,"exchanges":[{"name":"PTT-SP","slug":"ptt-sp-so-paulo-brazil","info":[{"link":"http://ix.br/adesao/sp/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}
+{"address":["Av. Professor Luciano Gualberto, 71","São Paulo, Brazil"],"id":22298,"exchanges":[{"name":"PTT-SP","slug":"ptt-sp-so-paulo-brazil","info":[{"link":"http://ix.br/adesao/sp/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

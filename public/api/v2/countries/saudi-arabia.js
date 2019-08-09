@@ -1,0 +1,1 @@
+{"name":"Saudi Arabia","id":"saudi-arabia","buildings":[{"id":22372,"address":["King Abdulaziz City for Science and Technology Building 44","Riyadh, Saudi Arabia"],"latitude":"24.71805","longitude":"46.644202","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

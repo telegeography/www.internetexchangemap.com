@@ -1,0 +1,1 @@
+{"address":["300 West Lexington Street","Baltimore, United States, 21201"],"id":14681,"exchanges":[{"name":"BaltIX","slug":"baltix-baltimore-united-states","info":[{"link":"https://baltimoreix.net/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"},{"link":null,"value":"Online since: March 2019","onclick":null}]}]}

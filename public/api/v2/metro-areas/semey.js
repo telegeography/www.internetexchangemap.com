@@ -1,0 +1,1 @@
+{"name":"Semey","id":"semey","buildings":[{"id":22382,"address":["Uliasheva str. 47/2","Semey, Kazakhstan"],"latitude":"50.400240","longitude":"80.256667","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

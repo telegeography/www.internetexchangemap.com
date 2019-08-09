@@ -1,1 +1,1 @@
-{"name":"Puerto Madryn","id":"puerto-madryn","buildings":[{"id":20889,"address":["Cabase Puerto Madryn ","Fontana 42","Puerto Madryn, Argentina"],"latitude":"-42.764506","longitude":"-65.039183","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"Puerto Madryn","id":"puerto-madryn","buildings":[{"id":20889,"address":["Cabase Puerto Madryn","Fontana 42","Puerto Madryn, Argentina"],"latitude":"-42.764506","longitude":"-65.039183","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

@@ -1,1 +1,1 @@
-{"address":["Rod. Augusto Montenegro, Km 10","Bel\u00e9m, Brazil, 66820"],"id":20616,"exchanges":[{"name":"PTT-Bel","slug":"ptt-bel-belm-brazil","info":[{"link":"http://ix.br/adesao/bel/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}
+{"address":["Rod. Augusto Montenegro, Km 10","Belém, Brazil, 66820"],"id":20616,"exchanges":[{"name":"PTT-Bel","slug":"ptt-bel-belm-brazil","info":[{"link":"http://ix.br/adesao/bel/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

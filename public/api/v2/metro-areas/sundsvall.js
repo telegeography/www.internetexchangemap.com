@@ -1,1 +1,1 @@
-{"name":"Sundsvall","id":"sundsvall","buildings":[{"id":19279,"address":["<address not available>","Sundsvall, Sweden"],"latitude":"62.4000","longitude":"17.3167","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"Sundsvall","id":"sundsvall","buildings":[{"id":19279,"address":["\u003caddress not available\u003e","Sundsvall, Sweden"],"latitude":"62.4000","longitude":"17.3167","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

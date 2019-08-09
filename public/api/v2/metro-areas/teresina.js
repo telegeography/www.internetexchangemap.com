@@ -1,1 +1,1 @@
-{"name":"Teresina","id":"teresina","buildings":[{"id":21975,"address":["Av. Odilon Ara\u00fajo, 372","Teresina, Brazil"],"latitude":"-5.096299","longitude":"-42.798880","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"Teresina","id":"teresina","buildings":[{"id":21975,"address":["Av. Odilon Araújo, 372","Teresina, Brazil"],"latitude":"-5.096299","longitude":"-42.798880","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

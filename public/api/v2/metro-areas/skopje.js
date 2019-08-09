@@ -1,1 +1,1 @@
-{"name":"Skopje","id":"skopje","buildings":[{"id":22232,"address":["Bul. Vojvodina br.4","Skopje, Macedonia"],"latitude":"45.260865","longitude":"19.831934","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"Skopje","id":"skopje","buildings":[{"id":22232,"address":["Bul. Vojvodina br.4","Skopje, North Macedonia"],"latitude":"45.260865","longitude":"19.831934","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

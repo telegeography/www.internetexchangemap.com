@@ -1,1 +1,1 @@
-{"name":"Sulaimaniya","id":"sulaimaniya","buildings":[{"id":21590,"address":["<address not available>","Sulaimaniya, Iraq"],"latitude":"35.52147","longitude":"44.3166746","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"Sulaimaniya","id":"sulaimaniya","buildings":[{"id":21590,"address":["\u003caddress not available\u003e","Sulaimaniya, Iraq"],"latitude":"35.52147","longitude":"44.3166746","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

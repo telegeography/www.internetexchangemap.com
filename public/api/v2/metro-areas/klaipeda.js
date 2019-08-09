@@ -1,0 +1,1 @@
+{"name":"Klaipeda","id":"klaipeda","buildings":[{"id":20614,"address":["Liepu str. 64","Klaipeda, Lithuania"],"latitude":"55.720752","longitude":"21.154674","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

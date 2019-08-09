@@ -1,1 +1,1 @@
-{"name":"Manta","id":"manta","buildings":[{"id":22001,"address":["<Address not available>","Manta, Ecuador"],"latitude":"-0.967653","longitude":"-80.708910","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"Manta","id":"manta","buildings":[{"id":22001,"address":["\u003cAddress not available\u003e","Manta, Ecuador"],"latitude":"-0.967653","longitude":"-80.708910","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

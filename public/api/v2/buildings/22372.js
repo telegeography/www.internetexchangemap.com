@@ -1,0 +1,1 @@
+{"address":["King Abdulaziz City for Science and Technology Building 44","Riyadh, Saudi Arabia"],"id":22372,"exchanges":[{"name":"SAIX","slug":"saix-riyadh-saudi-arabia","info":[{"link":null,"value":"920 007 537","onclick":null},{"link":"mailto:info@saix.sa","value":"info@saix.sa","onclick":null},{"link":null,"value":"Online since: May 2017","onclick":null}]}]}

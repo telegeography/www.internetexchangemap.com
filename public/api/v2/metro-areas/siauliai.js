@@ -1,0 +1,1 @@
+{"name":"Siauliai","id":"siauliai","buildings":[{"id":22544,"address":["Pramones str 2E","Siauliai, Lithuania"],"latitude":"55.9197762","longitude":"23.2904453","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

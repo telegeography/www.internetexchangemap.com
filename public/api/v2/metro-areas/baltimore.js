@@ -1,0 +1,1 @@
+{"name":"Baltimore","id":"baltimore","buildings":[{"id":14681,"address":["300 West Lexington Street","Baltimore, United States, 21201"],"latitude":"39.291693","longitude":"-76.620515","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

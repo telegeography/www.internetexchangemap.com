@@ -1,0 +1,1 @@
+{"name":"Douala","id":"douala","buildings":[{"id":22611,"address":["\u003caddress not available\u003e","Douala, Cameroon"],"latitude":"4.047381","longitude":"9.706404","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

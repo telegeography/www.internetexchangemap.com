@@ -1,0 +1,1 @@
+{"name":"Aix-en-Provence","id":"aix-en-provence","buildings":[{"id":22666,"address":["8 route de la Tour d’Arbois, 13290 Les Milles","Aix-en-Provence, France"],"latitude":null,"longitude":null,"offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

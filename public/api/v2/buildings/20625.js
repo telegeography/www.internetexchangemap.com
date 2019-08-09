@@ -1,1 +1,1 @@
-{"address":["SAS Quadra 601 M\u00f3dulo V","Brasilia, Brazil"],"id":20625,"exchanges":[{"name":"PTT-DF","slug":"ptt-df-brasilia-brazil","info":[{"link":"http://ix.br/adesao/df/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}
+{"address":["SAS Quadra 601 Módulo V","Brasilia, Brazil"],"id":20625,"exchanges":[{"name":"PTT-DF","slug":"ptt-df-brasilia-brazil","info":[{"link":"http://ix.br/adesao/df/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

@@ -1,1 +1,1 @@
-{"name":"Shiraz","id":"shiraz","buildings":[{"id":20484,"address":["<address not available>","Shiraz, Iran"],"latitude":"29.601980","longitude":"52.531342","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"Shiraz","id":"shiraz","buildings":[{"id":20484,"address":["\u003caddress not available\u003e","Shiraz, Iran"],"latitude":"29.601980","longitude":"52.531342","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

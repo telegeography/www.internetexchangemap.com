@@ -1,0 +1,1 @@
+{"name":"Panevezys","id":"panevezys","buildings":[{"id":22543,"address":["Respublikos str 58","Panevezys, Lithuania"],"latitude":"55.7343033","longitude":"24.3558047","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

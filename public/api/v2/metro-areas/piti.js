@@ -1,1 +1,1 @@
-{"name":"Piti","id":"piti","buildings":[{"id":22082,"address":["467 Harmon Loop Road\u000B","Piti, United States, 96929\u000B"],"latitude":"13.509529","longitude":"144.820360","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"Piti","id":"piti","buildings":[{"id":22082,"address":["467 Harmon Loop Road","Piti, United States, 96929"],"latitude":"13.509529","longitude":"144.820360","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

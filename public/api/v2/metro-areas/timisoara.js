@@ -1,1 +1,1 @@
-{"name":"Timisoara","id":"timisoara","buildings":[{"id":22248,"address":["Str. Vasile P\u00e2rvan nr. 2","Timisoara, Romania"],"latitude":"45.747175","longitude":"21.228920","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"Timisoara","id":"timisoara","buildings":[{"id":22248,"address":["Str. Vasile Pârvan nr. 2","Timisoara, Romania"],"latitude":"45.747175","longitude":"21.228920","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

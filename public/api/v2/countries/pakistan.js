@@ -1,1 +1,1 @@
-{"name":"Pakistan","id":"pakistan","buildings":[{"id":8925,"address":["<address not available>","Islamabad, Pakistan"],"latitude":"33.709839","longitude":"73.075912","offset":"background:url('images/markers.png') no-repeat -1166px 0","marker_offset":1166}]}
+{"name":"Pakistan","id":"pakistan","buildings":[{"id":8925,"address":["\u003caddress not available\u003e","Islamabad, Pakistan"],"latitude":"33.709839","longitude":"73.075912","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

@@ -1,1 +1,1 @@
-{"name":"Mbabane","id":"mbabane","buildings":[{"id":19292,"address":["<address not available>","Mbabane, Swaziland"],"latitude":"-26.305448","longitude":"31.136672","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"Mbabane","id":"mbabane","buildings":[{"id":19292,"address":["\u003caddress not available\u003e","Mbabane, Eswatini"],"latitude":"-26.305448","longitude":"31.136672","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

@@ -1,1 +1,1 @@
-{"address":["Rua J\u00falio Diniz, 190","S\u00e3o Paulo, Brazil, 04547"],"id":20593,"exchanges":[{"name":"PTT-SP","slug":"ptt-sp-so-paulo-brazil","info":[{"link":"http://ix.br/adesao/sp/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}
+{"address":["Rua Júlio Diniz, 190","São Paulo, Brazil, 04547"],"id":20593,"exchanges":[{"name":"PTT-SP","slug":"ptt-sp-so-paulo-brazil","info":[{"link":"http://ix.br/adesao/sp/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

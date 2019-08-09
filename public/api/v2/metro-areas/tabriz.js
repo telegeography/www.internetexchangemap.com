@@ -1,1 +1,1 @@
-{"name":"Tabriz","id":"tabriz","buildings":[{"id":20486,"address":["<address not available>","Tabriz, Iran"],"latitude":"38.080971","longitude":"46.290112","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"Tabriz","id":"tabriz","buildings":[{"id":20486,"address":["\u003caddress not available\u003e","Tabriz, Iran"],"latitude":"38.080971","longitude":"46.290112","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

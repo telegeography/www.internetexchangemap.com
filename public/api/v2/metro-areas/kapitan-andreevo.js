@@ -1,1 +1,1 @@
-{"name":"Kapitan Andreevo","id":"kapitan-andreevo","buildings":[{"id":22230,"address":[" 3, Byalo More Str","Kapitan Andreevo, Bulgaria"],"latitude":"41.720730","longitude":"26.317757","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"Kapitan Andreevo","id":"kapitan-andreevo","buildings":[{"id":22230,"address":["3, Byalo More Str","Kapitan Andreevo, Bulgaria"],"latitude":"41.720730","longitude":"26.317757","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

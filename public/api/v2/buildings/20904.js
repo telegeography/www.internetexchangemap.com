@@ -1,0 +1,1 @@
+{"address":["A. Roberto Pinto Sobrinho, 350","Building 1 - 4","Jd. Santa Rita de Cassia","Osasco, Brazil"],"id":20904,"exchanges":[{"name":"PTT-SP","slug":"ptt-sp-so-paulo-brazil","info":[{"link":"http://ix.br/adesao/sp/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

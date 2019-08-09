@@ -1,0 +1,1 @@
+{"address":["Meythet","Annecy, France"],"id":22665,"exchanges":[{"name":"AnnecIX","slug":"annecix-annency-france","info":[{"link":"mailto:s.triolet@lyonix.net","value":"s.triolet@lyonix.net Samuel Triolet, President—LyonIX Association","onclick":null},{"link":"mailto:striolet@lyonix.net","value":"striolet@lyonix.net","onclick":null}]}]}

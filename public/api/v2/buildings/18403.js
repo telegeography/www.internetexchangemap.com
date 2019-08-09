@@ -1,1 +1,1 @@
-{"address":["Rua Jose Abrantes, 186","Santo Amaro","S\u00e3o Paulo, Brazil, 04756-010"],"id":18403,"exchanges":[{"name":"PTT-SP","slug":"ptt-sp-so-paulo-brazil","info":[{"link":"http://ix.br/adesao/sp/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}
+{"address":["Rua Jose Abrantes, 186","Santo Amaro","São Paulo, Brazil, 04756-010"],"id":18403,"exchanges":[{"name":"PTT-SP","slug":"ptt-sp-so-paulo-brazil","info":[{"link":"http://ix.br/adesao/sp/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

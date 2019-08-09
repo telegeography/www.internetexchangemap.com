@@ -1,0 +1,1 @@
+{"name":"Yaounde","id":"yaounde","buildings":[{"id":22612,"address":["\u003caddress not available\u003e","Yaounde, Cameroon"],"latitude":"3.871800","longitude":"11.512230","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

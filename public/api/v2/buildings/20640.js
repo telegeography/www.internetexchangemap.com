@@ -1,1 +1,1 @@
-{"address":["Rua Prof. Jo\u00e3o C\u00e2ndico, 555 - Centro","Londrina, Brazil, 86010"],"id":20640,"exchanges":[{"name":"PTT-LDA","slug":"ptt-lda-londrina-brazil","info":[{"link":"http://ix.br/adesao/lda/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}
+{"address":["Rua Prof. João Cândico, 555 - Centro","Londrina, Brazil, 86010"],"id":20640,"exchanges":[{"name":"PTT-LDA","slug":"ptt-lda-londrina-brazil","info":[{"link":"http://ix.br/adesao/lda/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

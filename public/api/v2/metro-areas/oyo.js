@@ -1,1 +1,1 @@
-{"name":"Oyo","id":"oyo","buildings":[{"id":22288,"address":["<Address not available>","Oyo, Congo, Rep."],"latitude":"-1.160710","longitude":"15.975863","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"Oyo","id":"oyo","buildings":[{"id":22288,"address":["\u003cAddress not available\u003e","Oyo, Congo, Rep."],"latitude":"-1.160710","longitude":"15.975863","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

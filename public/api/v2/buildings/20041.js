@@ -1,1 +1,1 @@
-{"address":["Rua dos Ingleses, 600 ","Bela Vista\u000B","S\u00e3o Paulo, Brazil, 01329-000"],"id":20041,"exchanges":[{"name":"PTT-SP","slug":"ptt-sp-so-paulo-brazil","info":[{"link":"http://ix.br/adesao/sp/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}
+{"address":["Rua dos Ingleses, 600","Bela Vista","São Paulo, Brazil, 01329-000"],"id":20041,"exchanges":[{"name":"PTT-SP","slug":"ptt-sp-so-paulo-brazil","info":[{"link":"http://ix.br/adesao/sp/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

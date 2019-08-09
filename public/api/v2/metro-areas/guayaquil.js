@@ -1,1 +1,1 @@
-{"name":"Guayaquil","id":"guayaquil","buildings":[{"id":18314,"address":["<address not available>","Guayaquil, Ecuador"],"latitude":"-2.203820","longitude":"-79.897461","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"Guayaquil","id":"guayaquil","buildings":[{"id":18314,"address":["\u003caddress not available\u003e","Guayaquil, Ecuador"],"latitude":"-2.203820","longitude":"-79.897461","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

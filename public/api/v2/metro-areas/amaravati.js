@@ -1,0 +1,1 @@
+{"name":"Amaravati","id":"amaravati","buildings":[{"id":22375,"address":["107 APNRT","NH-16","Mangalagiri, India"],"latitude":"16.4713222","longitude":"80.6133671","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

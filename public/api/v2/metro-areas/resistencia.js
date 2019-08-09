@@ -1,1 +1,1 @@
-{"name":"Resistencia","id":"resistencia","buildings":[{"id":21553,"address":["Cabase Resistencia ","Saenz Pe\u00f1a 370","Resistencia, Argentina"],"latitude":"-27.456240","longitude":"-58.987102","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"Resistencia","id":"resistencia","buildings":[{"id":21553,"address":["Cabase Resistencia","Saenz Peña 370","Resistencia, Argentina"],"latitude":"-27.456240","longitude":"-58.987102","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
