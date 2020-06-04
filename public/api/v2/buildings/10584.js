@@ -1,0 +1,1 @@
+{"address":["600 South Federal Street","Chicago, IL, United States, 60605"],"id":10584,"exchanges":[{"name":"Digital Realty IX Chicago","slug":"digital-realty-ix-chicago-chicago-il-united-states","info":[{"link":"https://ix.digitalrealty.com/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

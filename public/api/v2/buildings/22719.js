@@ -1,0 +1,1 @@
+{"address":["Av. Carlos Gomes, 651","Porto Alegre, Brazil"],"id":22719,"exchanges":[{"name":"PTT-RS","slug":"ptt-rs-porto-alegre-brazil","info":[{"link":"http://ix.br/adesao/rs/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"},{"link":null,"value":"Online since:  2000","onclick":null}]}]}

@@ -1,0 +1,1 @@
+{"address":["Faculty of Computer Science and Engineering","Rugjer Boskovikj 16","Skopje, North Macedonia"],"id":22746,"exchanges":[{"name":"IXP.mk","slug":"ixp-mk-skopje-north-macedonia","info":[{"link":"http://ixp.mk","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

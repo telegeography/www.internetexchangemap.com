@@ -1,0 +1,1 @@
+{"name":"Oklahoma City, OK","id":"oklahoma-city-ok","buildings":[{"id":22383,"address":["7725 West Reno Ave","Ste 304","Oklahoma City, OK, United States"],"latitude":"35.4664822","longitude":"-97.6514904","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

@@ -1,0 +1,1 @@
+{"address":["Obenhauptstrasse 1","Hamburg, Germany"],"id":18695,"exchanges":[{"name":"ECIX-HAM","slug":"ecix-ham-hamburg-germany","info":[{"link":null,"value":"49 30 81495 450","onclick":null},{"link":"mailto:info@ecix.net","value":"info@ecix.net","onclick":null},{"link":"http://www.ecix.net/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

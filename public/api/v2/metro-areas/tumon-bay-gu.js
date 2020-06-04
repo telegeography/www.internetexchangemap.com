@@ -1,0 +1,1 @@
+{"name":"Tumon Bay, GU","id":"tumon-bay-gu","buildings":[{"id":21585,"address":["\u003caddress not available\u003e","Tumon Bay, GU, United States"],"latitude":"13.5091315","longitude":"144.760715","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

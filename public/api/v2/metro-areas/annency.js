@@ -1,1 +1,1 @@
-{"name":"Annency","id":"annency","buildings":[{"id":22665,"address":["Meythet","Annecy, France"],"latitude":null,"longitude":null,"offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"Annency","id":"annency","buildings":[{"id":22665,"address":["Meythet","Annecy, France"],"latitude":"45.9191842","longitude":"6.0811079","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

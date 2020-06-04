@@ -1,0 +1,1 @@
+{"name":"Hamilton, OH","id":"hamilton-oh","buildings":[{"id":18959,"address":["CyrusOne Cincinnati (Hamilton)","103 Knightsbridge Drive","Hamilton, OH, United States, 45011"],"latitude":"39.387217","longitude":"-84.567459","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

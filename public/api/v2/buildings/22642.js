@@ -1,0 +1,1 @@
+{"address":["44274 Round Table Plaza (bldg L)","Ashburn, VA, United States"],"id":22642,"exchanges":[{"name":"Digital Realty IX Ashburn","slug":"digital-realty-ix-ashburn-washington-dc-united-states","info":[{"link":"https://ix.digitalrealty.com/     ","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

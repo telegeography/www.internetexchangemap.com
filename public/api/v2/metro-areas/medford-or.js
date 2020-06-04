@@ -1,0 +1,1 @@
+{"name":"Medford, OR","id":"medford-or","buildings":[{"id":18699,"address":["739 Welch St.","Medford, OR, United States"],"latitude":"42.332459","longitude":"-122.880427","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

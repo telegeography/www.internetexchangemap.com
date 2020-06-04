@@ -1,0 +1,1 @@
+{"address":["Antonio Pacinotti street 12","Bolzano, Italy"],"id":22710,"exchanges":[{"name":"STIX","slug":"stix-bolzano-italy","info":[{"link":null,"value":"+39 0473 860 860","onclick":null},{"link":"mailto:info@stix.bz","value":"info@stix.bz","onclick":null},{"link":"http://www.stix.bz/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

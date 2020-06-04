@@ -1,1 +1,1 @@
-{"name":"Pitesti","id":"pitesti","buildings":[{"id":22076,"address":["Strada Calea Craiovei 56","Pitesti, Romania"],"latitude":"44.847892","longitude":"24.879735","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"Pitesti","id":"pitesti","buildings":[{"id":22076,"address":["Netergy Data-Center","Strada Calea Craiovei 56","Pitesti, Romania"],"latitude":"44.847892","longitude":"24.879735","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

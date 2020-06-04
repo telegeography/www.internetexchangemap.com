@@ -1,0 +1,1 @@
+{"name":"Oman","id":"oman","buildings":[{"id":22345,"address":["\u003caddress not available\u003e","Muscat, Oman"],"latitude":"23.615167","longitude":"58.591134","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

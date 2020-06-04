@@ -1,0 +1,1 @@
+{"name":"El Paso, TX","id":"el-paso-tx","buildings":[{"id":17059,"address":["501 West Overland","El Paso, TX, United States, 79936"],"latitude":"31.755853","longitude":"-106.493388","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

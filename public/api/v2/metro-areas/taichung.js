@@ -1,0 +1,1 @@
+{"name":"Taichung","id":"taichung","buildings":[{"id":22674,"address":["No. 351, Section 1, Wenxin Road, Nantun District","Taichung, Taiwan"],"latitude":"24.1473198","longitude":"120.644217","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

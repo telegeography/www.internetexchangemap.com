@@ -1,0 +1,1 @@
+{"name":"Eugene, OR","id":"eugene-or","buildings":[{"id":8090,"address":["University of Oregon","1585 East 13th St.","Eugene, OR, United States, 97403"],"latitude":"44.045285","longitude":"-123.06688","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

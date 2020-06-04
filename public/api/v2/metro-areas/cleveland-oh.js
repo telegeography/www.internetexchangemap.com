@@ -1,0 +1,1 @@
+{"name":"Cleveland, OH","id":"cleveland-oh","buildings":[{"id":17036,"address":["Cleveland Technology Center","1425 Rockwell Avenue","Cleveland, OH, United States, 44114"],"latitude":"41.505785","longitude":"-81.684759","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

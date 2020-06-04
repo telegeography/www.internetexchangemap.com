@@ -1,0 +1,1 @@
+{"address":["\u003caddress not available\u003e","Cavite, Philippines"],"id":22750,"exchanges":[{"name":"GetaFIX","slug":"getafix-cavite-philippines","info":[{"link":"https://getafix.ph/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

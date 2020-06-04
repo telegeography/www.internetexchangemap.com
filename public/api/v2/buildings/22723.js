@@ -1,0 +1,1 @@
+{"address":["Av. Tancredo Neves, 1632","Salvador, Brazil"],"id":22723,"exchanges":[{"name":"PTT-BA","slug":"ptt-ba-salvador-brazil","info":[{"link":"http://ix.br/adesao/ba/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

@@ -1,0 +1,1 @@
+{"name":"Kaoshiung","id":"kaoshiung","buildings":[{"id":22675,"address":["No. 18-2, Zhongshan 1st Road, Xinxing District","Kaoshiung, Taiwan"],"latitude":"22.6260284","longitude":"120.299436","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

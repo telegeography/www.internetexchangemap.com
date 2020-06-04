@@ -1,0 +1,1 @@
+{"name":"Raleigh","id":"raleigh","buildings":[{"id":18406,"address":["5150 McCrimmon Parkway","Raleigh, United States, 27560"],"latitude":"35.849914","longitude":"-78.828858","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

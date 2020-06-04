@@ -1,0 +1,1 @@
+{"name":"Lubumbashi","id":"lubumbashi","buildings":[{"id":22787,"address":["\u003caddress not available\u003e","Lubumbashi, Congo, Dem. Rep."],"latitude":"-11.664677","longitude":"27.479553","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

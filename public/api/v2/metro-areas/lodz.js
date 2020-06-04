@@ -1,0 +1,1 @@
+{"name":"Lodz","id":"lodz","buildings":[{"id":22712,"address":["Targowa 35","Lodz, Poland"],"latitude":"51.7615733","longitude":"19.4699963","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

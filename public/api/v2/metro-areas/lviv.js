@@ -1,0 +1,1 @@
+{"name":"Lviv","id":"lviv","buildings":[{"id":22711,"address":["\u003caddress not available\u003e","Lviv, Ukraine"],"latitude":"49.8327787","longitude":"23.9421958","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

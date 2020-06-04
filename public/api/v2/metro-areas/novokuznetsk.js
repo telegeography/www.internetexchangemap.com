@@ -1,0 +1,1 @@
+{"name":"Novokuznetsk","id":"novokuznetsk","buildings":[{"id":22707,"address":["\u003caddress not available\u003e","Novokuznetsk, Russia"],"latitude":"53.7968637","longitude":"87.0318262","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

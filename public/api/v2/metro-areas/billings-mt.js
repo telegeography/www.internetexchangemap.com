@@ -1,0 +1,1 @@
+{"name":"Billings, MT","id":"billings-mt","buildings":[{"id":15148,"address":["222 North 32nd Street Suite 503","Billings, MT, United States, 59101"],"latitude":"45.780867","longitude":"-108.512233","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

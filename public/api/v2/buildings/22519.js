@@ -1,0 +1,1 @@
+{"address":["390 March Road","Suite 108","Ottawa, ON, Canada"],"id":22519,"exchanges":[{"name":"OGIX","slug":"ogix-ottawa-on-canada","info":[{"link":"mailto:info@ogix.ca","value":"info@ogix.ca","onclick":null},{"link":"https://ogix.ca/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

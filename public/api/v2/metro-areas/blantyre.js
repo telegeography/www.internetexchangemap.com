@@ -1,1 +1,1 @@
-{"name":"Blantyre","id":"blantyre","buildings":[{"id":18702,"address":["College of Medicine","Mahatma Gandhi","Blantyre, Malawi"],"latitude":"-15.801895839125521","longitude":"35.01548767089844","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"Blantyre","id":"blantyre","buildings":[{"id":18702,"address":["College of Medicine","Mahatma Gandhi","Blantyre, Malawi"],"latitude":"-15.8018958","longitude":"35.0154877","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

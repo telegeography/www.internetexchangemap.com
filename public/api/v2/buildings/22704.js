@@ -1,0 +1,1 @@
+{"address":["Albstraße 3","Rottweil, Germany"],"id":22704,"exchanges":[{"name":"4IXP","slug":"4ixp-rottweil-germany","info":[{"link":"mailto:info@4ixp.com","value":"info@4ixp.com","onclick":null},{"link":"https://www.4ixp.com/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

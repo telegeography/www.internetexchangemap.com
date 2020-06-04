@@ -1,0 +1,1 @@
+{"name":"Columbus, OH","id":"columbus-oh","buildings":[{"id":19336,"address":["555 Scherers Court","Columbus, OH, United States"],"latitude":"40.116569","longitude":"-83.002043","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

@@ -1,0 +1,1 @@
+{"name":"Kuwait City","id":"kuwait-city","buildings":[{"id":22788,"address":["Communication and Information Technology Regulator Authority","Kuwait City, Kuwait"],"latitude":"29.3688476","longitude":"47.974045","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

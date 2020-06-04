@@ -1,0 +1,1 @@
+{"name":"Mogadishu","id":"mogadishu","buildings":[{"id":22745,"address":["\u003caddress not available\u003e","Mogadishu, Somalia"],"latitude":"2.0591993","longitude":"45.2366243","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

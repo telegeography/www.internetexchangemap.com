@@ -1,0 +1,1 @@
+{"name":"Casablanca","id":"casablanca","buildings":[{"id":22209,"address":["\u003caddress not available\u003e","Casablanca, Morocco"],"latitude":"33.573110","longitude":"-7.589843","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

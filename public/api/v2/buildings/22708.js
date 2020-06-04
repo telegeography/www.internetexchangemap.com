@@ -1,0 +1,1 @@
+{"address":["Industriestrasse 3","Neuheim, Switzerland"],"id":22708,"exchanges":[{"name":"SBIX","slug":"sbix-zug-switzerland","info":[{"link":null,"value":"+41 41 519 00 40","onclick":null},{"link":"mailto:info@sbix.ch","value":"info@sbix.ch","onclick":null},{"link":"https://www.sbix.ch/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

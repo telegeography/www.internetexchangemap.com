@@ -1,0 +1,1 @@
+{"address":["1623 Farnam St.","Omaha, NE, United States"],"id":22736,"exchanges":[{"name":"IX-Denver","slug":"ix-denver-omaha-ne-united-states","info":[{"link":"http://ix-denver.org/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"},{"link":null,"value":"Online since: June 2015","onclick":null}]}]}

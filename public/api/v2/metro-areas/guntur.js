@@ -1,1 +1,1 @@
-{"name":"Guntur","id":"guntur","buildings":[{"id":21984,"address":["\u003cAddress not available\u003e","Guntur, India"],"latitude":"16.306652","longitude":"80.436540","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"Guntur","id":"guntur","buildings":[{"id":21984,"address":["#G4, Ground Floor","Himaja Towers, 2/11 Brodipet","Guntur, India"],"latitude":"16.3017241","longitude":"80.4319846","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

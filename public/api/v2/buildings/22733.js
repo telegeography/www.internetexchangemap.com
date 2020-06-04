@@ -1,0 +1,1 @@
+{"address":["\u003caddress not available\u003e","Dar Es Salaam, Tanzania"],"id":22733,"exchanges":[{"name":"DIXP","slug":"dixp-dar-es-salaam-tanzania","info":[{"link":"mailto:info@tix.or.tz","value":"info@tix.or.tz","onclick":null},{"link":"https://www.tix.or.tz/dixp/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

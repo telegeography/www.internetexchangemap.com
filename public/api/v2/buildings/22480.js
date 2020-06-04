@@ -1,0 +1,1 @@
+{"address":["\u003caddress not available\u003e","Makati City, Philippines"],"id":22480,"exchanges":[{"name":"GetaFIX","slug":"getafix-manila-philippines","info":[{"link":"https://getafix.ph/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

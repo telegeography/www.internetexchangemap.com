@@ -1,0 +1,1 @@
+{"address":["11900 East Cornell Avenue","Aurora, CO, United States, 80014"],"id":16777,"exchanges":[{"name":"IX-Denver","slug":"ix-denver-denver-co-united-states","info":[{"link":"http://ix-denver.org/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"},{"link":null,"value":"Online since: June 2015","onclick":null}]}]}

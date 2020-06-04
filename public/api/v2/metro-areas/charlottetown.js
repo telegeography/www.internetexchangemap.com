@@ -1,0 +1,1 @@
+{"name":"Charlottetown","id":"charlottetown","buildings":[{"id":22728,"address":["Atlantic Technology Centre","176 Great George St","Charlottetown, Canada"],"latitude":"46.2370585","longitude":"-63.1302736","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

@@ -1,0 +1,1 @@
+{"address":["Federal University of Goiás","Goiânia, Brazil"],"id":22722,"exchanges":[{"name":"PTT-GYN","slug":"ptt-gyn-goinia-brazil","info":[{"link":"http://ix.br/adesao/gyn/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

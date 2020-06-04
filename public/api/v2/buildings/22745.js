@@ -1,0 +1,1 @@
+{"address":["\u003caddress not available\u003e","Mogadishu, Somalia"],"id":22745,"exchanges":[{"name":"SOIXP","slug":"soixp-mogadishu-somalia","info":[{"link":"mailto:info@soixp.so","value":"info@soixp.so","onclick":null},{"link":"http://soixp.so/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

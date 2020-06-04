@@ -1,0 +1,1 @@
+{"name":"Cologne","id":"cologne","buildings":[{"id":22683,"address":["Dornierstraße 10","Leverkusen, Germany"],"latitude":"51.0579439","longitude":"7.01797","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

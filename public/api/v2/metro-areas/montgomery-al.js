@@ -1,0 +1,1 @@
+{"name":"Montgomery, AL","id":"montgomery-al","buildings":[{"id":20203,"address":["445 Dexter Ave","Montgomery, AL, United States, 36104"],"latitude":"32.378355","longitude":"-86.302989","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

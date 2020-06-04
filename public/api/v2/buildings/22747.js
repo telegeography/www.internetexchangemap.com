@@ -1,0 +1,1 @@
+{"address":["Ss. Cyril and Methodius University - Rectorate\u000bblvd.","Goce Delcev 9","Skopje, North Macedonia"],"id":22747,"exchanges":[{"name":"IXP.mk","slug":"ixp-mk-skopje-north-macedonia","info":[{"link":"http://ixp.mk","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

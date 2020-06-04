@@ -1,0 +1,1 @@
+{"name":"Ostermiething","id":"ostermiething","buildings":[{"id":22793,"address":["Weilhartstr. 92","Ostermiething, Austria"],"latitude":"48.0323333","longitude":"12.8353727","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

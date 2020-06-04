@@ -1,0 +1,1 @@
+{"name":"Bhutan","id":"bhutan","buildings":[{"id":22545,"address":["Bhutan Internet Exchange","Thimphu Techpark","Wangchuktaba","Thimphu, Bhutan"],"latitude":"27.4277069","longitude":"89.6488","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

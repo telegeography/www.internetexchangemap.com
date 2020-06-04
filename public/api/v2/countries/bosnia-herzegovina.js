@@ -1,0 +1,1 @@
+{"name":"Bosnia-Herzegovina","id":"bosnia-herzegovina","buildings":[{"id":22839,"address":["Zmaja od Bosne 8","Sarajevo, Bosnia-Herzegovina"],"latitude":"43.8560985","longitude":"18.3965277","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

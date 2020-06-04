@@ -1,0 +1,1 @@
+{"name":"McAllen, TX","id":"mcallen-tx","buildings":[{"id":17442,"address":["200 South 10th Street","Suite 706","McAllen, TX, United States"],"latitude":"26.201918","longitude":"-98.231632","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

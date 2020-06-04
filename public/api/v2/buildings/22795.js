@@ -1,0 +1,1 @@
+{"address":["Alexandra Medvedeva 14","Niš, Serbia"],"id":22795,"exchanges":[{"name":"NaissIX","slug":"naissix-ni-serbia","info":[{"link":null,"value":"381 18 529 105","onclick":null},{"link":"http://naissix.net","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"},{"link":null,"value":"Online since: January 2015","onclick":null}]}]}

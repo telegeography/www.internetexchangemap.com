@@ -1,0 +1,1 @@
+{"name":"Zimbabwe","id":"zimbabwe","buildings":[{"id":22556,"address":["\u003cAddress not available\u003e","Harare, Zimbabwe"],"latitude":"-17.8165877","longitude":"30.916772","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

@@ -1,0 +1,1 @@
+{"name":"Togo","id":"togo","buildings":[{"id":22744,"address":["Ministère des Postes et de l'Economie Numérique","Lome, Togo"],"latitude":"6.128306","longitude":"1.212098","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

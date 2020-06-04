@@ -1,0 +1,1 @@
+{"address":["Scotia Place II","10060 Jasper Ave","Edmonton, AB, Canada"],"id":22742,"exchanges":[{"name":"YEGIX","slug":"yegix-edmonton-ab-canada","info":[{"link":"mailto:peering@yegix.ca","value":"peering@yegix.ca","onclick":null},{"link":"http://www.yegix.ca","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

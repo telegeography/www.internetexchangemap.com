@@ -1,0 +1,1 @@
+{"address":["Hinterbergstrasse 22","Zug, Switzerland"],"id":22751,"exchanges":[{"name":"CHIX","slug":"chix-zug-switzerland","info":[{"link":"mailto:verein@chix.ch","value":"verein@chix.ch","onclick":null},{"link":"https://chix.ch/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

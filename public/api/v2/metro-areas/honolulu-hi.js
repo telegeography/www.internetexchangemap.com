@@ -1,0 +1,1 @@
+{"name":"Honolulu, HI","id":"honolulu-hi","buildings":[{"id":8144,"address":["3375 Koapaka Street","Honolulu, HI, United States, 96819"],"latitude":"21.3345206","longitude":"-157.917298","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

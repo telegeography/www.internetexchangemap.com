@@ -1,0 +1,1 @@
+{"name":"Halifax, NS","id":"halifax-ns","buildings":[{"id":20160,"address":["7071 Bayers Road","Halifax, NS, Canada"],"latitude":"44.655166","longitude":"-63.626648","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

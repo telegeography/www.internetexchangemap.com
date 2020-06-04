@@ -1,1 +1,1 @@
-{"name":"Danang","id":"danang","buildings":[{"id":21421,"address":["\u003caddress not available\u003e","Danang, Vietnam"],"latitude":"16.0474325","longitude":"108.1712203","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"Danang","id":"danang","buildings":[{"id":21421,"address":["\u003caddress not available\u003e","Danang, Vietnam"],"latitude":"16.0474325","longitude":"108.17122","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

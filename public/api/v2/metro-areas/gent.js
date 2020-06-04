@@ -1,0 +1,1 @@
+{"name":"Gent","id":"gent","buildings":[{"id":14887,"address":["Industriepark 2H","Gent, Belgium, 9820"],"latitude":"50.987977","longitude":"3.767559","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

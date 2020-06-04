@@ -1,0 +1,1 @@
+{"name":"Qatar","id":"qatar","buildings":[{"id":22814,"address":["Meeza Data-Centre","Umm Qarn, Qatar"],"latitude":"25.5510651","longitude":"51.4349973","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

@@ -1,0 +1,1 @@
+{"name":"Beaverton, OR","id":"beaverton-or","buildings":[{"id":18379,"address":["9705 SW Sunshine Court","Beaverton, OR, United States, 97005"],"latitude":"45.4759561","longitude":"-122.777589","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

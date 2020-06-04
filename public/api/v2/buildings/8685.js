@@ -1,0 +1,1 @@
+{"address":["\u003caddress not available\u003e","Moscow, Russia"],"id":8685,"exchanges":[{"name":"SpaceIX","slug":"spaceix-moscow-russia","info":[{"link":"mailto:sales@reconn.ru","value":"sales@reconn.ru","onclick":null},{"link":"https://space-ix.com/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

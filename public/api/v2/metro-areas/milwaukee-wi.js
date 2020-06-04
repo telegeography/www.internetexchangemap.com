@@ -1,0 +1,1 @@
+{"name":"Milwaukee, WI","id":"milwaukee-wi","buildings":[{"id":14750,"address":["Wells Building","324 East Wisconsin","Milwaukee, WI, United States, 53202"],"latitude":"43.039011","longitude":"-87.9069449","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

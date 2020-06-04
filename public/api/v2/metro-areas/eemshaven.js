@@ -1,0 +1,1 @@
+{"name":"Eemshaven","id":"eemshaven","buildings":[{"id":22819,"address":["Kuipershof 2","Geldermalsen, Netherlands"],"latitude":"51.881928","longitude":"5.282026","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

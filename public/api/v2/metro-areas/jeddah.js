@@ -1,0 +1,1 @@
+{"name":"Jeddah","id":"jeddah","buildings":[{"id":18258,"address":["\u003caddress not available\u003e","Jeddah, Saudi Arabia"],"latitude":"21.481547","longitude":"39.182863","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

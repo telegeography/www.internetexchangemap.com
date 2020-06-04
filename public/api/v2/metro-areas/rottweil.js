@@ -1,0 +1,1 @@
+{"name":"Rottweil","id":"rottweil","buildings":[{"id":22704,"address":["Albstraße 3","Rottweil, Germany"],"latitude":"48.167973","longitude":"8.596318","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
