@@ -1,0 +1,1 @@
+{"address":["1515 Roundtable Drive","Dallas, TX, United States, 75247"],"id":20301,"exchanges":[{"name":"DE-CIX New York","slug":"de-cix-new-york-dallas-tx-united-states","info":[{"link":"http://www.de-cix.net","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

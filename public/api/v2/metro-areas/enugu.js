@@ -1,0 +1,1 @@
+{"name":"Enugu","id":"enugu","buildings":[{"id":22949,"address":["Vosan Dr., Independence Layout, Enugu, Nigeria.","Enugu, Nigeria"],"latitude":"6.4371223","longitude":"7.5194969","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

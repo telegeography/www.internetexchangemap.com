@@ -1,0 +1,1 @@
+{"name":"Spokane, WA","id":"spokane-wa","buildings":[{"id":19004,"address":["23403 East Mission Avenue","Liberty Lake, WA, United States, 99019"],"latitude":"47.671756","longitude":"-117.091193","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

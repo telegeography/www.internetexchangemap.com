@@ -1,0 +1,1 @@
+{"address":["19 Battye St","Bruce","Canberra, Australia"],"id":18975,"exchanges":[{"name":"ACT-IX","slug":"act-ix-canberra-australia","info":[{"link":"mailto:peering@ix.asn.au","value":"peering@ix.asn.au","onclick":null},{"link":"http://www.ix.asn.au","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

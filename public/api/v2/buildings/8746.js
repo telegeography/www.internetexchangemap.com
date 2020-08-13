@@ -1,0 +1,1 @@
+{"address":["Equinix MD1","Isabel Colbrand, 6 y 8","Madrid, Spain, 28050"],"id":8746,"exchanges":[{"name":"EQIX-MAD","slug":"eqix-mad-madrid-spain","info":[{"link":"mailto:support@equinix.com","value":"support@equinix.com","onclick":null},{"link":"https://ix.equinix.com","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

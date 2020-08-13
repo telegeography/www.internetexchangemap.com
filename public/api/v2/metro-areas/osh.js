@@ -1,0 +1,1 @@
+{"name":"Osh","id":"osh","buildings":[{"id":22974,"address":["317 Lenin ave","Osh, Kyrgyzstan"],"latitude":"40.5292739","longitude":"72.7971049","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

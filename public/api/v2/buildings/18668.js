@@ -1,0 +1,1 @@
+{"address":["\u003caddress not available\u003e","Adelaide, Australia"],"id":18668,"exchanges":[{"name":"JIX","slug":"jix-adelaide-australia","info":[{"link":"mailto:peering@jix.net.au","value":"peering@jix.net.au","onclick":null},{"link":"https://www.jix.net.au/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

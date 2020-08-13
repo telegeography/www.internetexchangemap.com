@@ -1,0 +1,1 @@
+{"address":["317 Lenin ave","Osh, Kyrgyzstan"],"id":22974,"exchanges":[{"name":"FVIXP","slug":"fvixp-osh-kyrgyzstan","info":[{"link":null,"value":"+996555-585838","onclick":null},{"link":"mailto:info@isoc.kg","value":"info@isoc.kg","onclick":null},{"link":"http://fvixp.isoc.kg/","value":"Website","onclick":"window.open(this.href,'ix-new-window');return false;"}]}]}

@@ -1,0 +1,1 @@
+{"name":"Dodoma","id":"dodoma","buildings":[{"id":22955,"address":["Tanzania Telecommunications Company Limited, Railway Street, Dodoma, Tanzania","Dodoma, Tanzania"],"latitude":"-6.1847","longitude":"35.7482","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

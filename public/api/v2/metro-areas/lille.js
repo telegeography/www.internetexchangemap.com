@@ -1,0 +1,1 @@
+{"name":"Lille","id":"lille","buildings":[{"id":22943,"address":["CIV Alternative Datacenter","Parc d'Activité du Mélantois","Rue des Saules","Sainghin-en-Mélantois, France"],"latitude":"50.5868476","longitude":"3.1293709","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

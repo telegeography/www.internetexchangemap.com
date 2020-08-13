@@ -1,1 +1,1 @@
-{"name":"St. Gallen","id":"st-gallen","buildings":[{"id":22244,"address":["Steinachstrasse 77","St. Gallen, Switzerland"],"latitude":"47.43219","longitude":"9.3842352","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
+{"name":"St. Gallen","id":"st-gallen","buildings":[{"id":22956,"address":["Forren 8, 9056 Gais","St. Gallen, Switzerland"],"latitude":"47.3574348","longitude":"9.449864","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
