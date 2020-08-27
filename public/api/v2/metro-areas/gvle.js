@@ -1,0 +1,1 @@
+{"name":"Gävle","id":"gvle","buildings":[{"id":23010,"address":["Kantorn","Ruddamsgatan 27","Gävle, Sweden"],"latitude":"60.676748","longitude":"17.1412851","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}

@@ -1,0 +1,1 @@
+{"name":"Springfield, MO","id":"springfield-mo","buildings":[{"id":23006,"address":["1904 N. LeCompte","Springfield, MO, United States"],"latitude":"37.2316168","longitude":"-93.2144969","offset":"background:url('images/markers.png') no-repeat -1166px 0;","marker_offset":1166}]}
