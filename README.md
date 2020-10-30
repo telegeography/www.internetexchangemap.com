@@ -37,7 +37,10 @@ How can I download the dataset?
 
 All the data is stored in GeoJSON here: [public/javascripts/buildings.geojson](https://raw.githubusercontent.com/telegeography/www.internetexchangemap.com/master/public/api/v2/buildings.geojson)
 
+License
+------------------------
 
+Our map is made available under the following [Creative Commons License: Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)](https://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 Questions? Corrections?
 ------------------------
